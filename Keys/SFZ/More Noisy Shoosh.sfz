@@ -1,0 +1,8 @@
+// this file was generated from More Noisy Shoosh.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24  pitch_keytrack=1
+	<region> lovel=000 hivel=031 amp_velcurve_031=1 offset=838 end=370175 sample=../Audio/More Noisy Shoosh-SAMPLES/022 More Noisy Shoosh-24-32.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 offset=783 end=369151 sample=../Audio/More Noisy Shoosh-SAMPLES/022 More Noisy Shoosh-24-64.wav
+	<region> lovel=072 hivel=100 amp_velcurve_100=1 offset=1025 end=367615 sample=../Audio/More Noisy Shoosh-SAMPLES/022 More Noisy Shoosh-24-95.wav
+<group>lokey=24 hikey=24 pitch_keycenter=36  pitch_keytrack=1
+	<region> lovel=100 hivel=127 amp_velcurve_127=1

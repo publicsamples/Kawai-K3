@@ -1,0 +1,124 @@
+// this file was generated from Kawai K3 Unsure.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=857 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=795 end=480552 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=906 end=475076 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=698 end=481822 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=744 end=475629 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1029 end=477495 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=583 end=479407 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=515 end=476800 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=915 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1054 end=480212 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1147 end=473083 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=759 end=478358 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1030 end=480569 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=874 end=478474 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=856 end=475166 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=995 end=479550 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=770 end=473857 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1011 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1077 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=518 end=475615 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1080 end=474115 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=716 end=480918 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=869 end=473388 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1025 end=476514 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=677 end=478627 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1118 end=475227 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=689 end=477298 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=751 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=795 end=475321 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=760 end=478491 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=735 end=477907 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1055 end=476200 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=681 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1090 end=479323 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=660 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=843 end=474238 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=863 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=976 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=777 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=933 end=481813 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=731 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=982 end=475688 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=972 end=475948 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1016 end=472559 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=862 end=472014 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1082 end=481138 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=936 end=472874 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=927 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=857 end=479379 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=812 end=474438 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=960 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=788 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=992 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=655 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=547 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=742 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=654 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1168 end=479221 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=623 end=468537 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=944 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-95-127.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=858 end=474977 sample=../Audio/Kawai K3 Unsure-SAMPLES/Unsure-96-127.aif

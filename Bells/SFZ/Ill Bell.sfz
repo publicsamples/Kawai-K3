@@ -1,0 +1,148 @@
+// this file was generated from Ill Bell.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=744 end=274431 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-24-127.wav
+<group> key=25  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=944 end=274943 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-25-127.wav
+<group> key=26  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=483 end=272895 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-26-127.wav
+<group> key=27  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=834 end=275967 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-27-127.wav
+<group> key=28  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=757 end=274431 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-28-127.wav
+<group> key=29  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=774 end=274431 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-29-127.wav
+<group> key=30  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=775 end=275967 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-30-127.wav
+<group> key=31  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=629 end=275967 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-31-127.wav
+<group> key=32  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=350 end=275967 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-32-127.wav
+<group> key=33  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=480 end=274943 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-33-127.wav
+<group> key=34  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=759 end=275967 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-34-127.wav
+<group> key=35  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=746 end=276991 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-35-127.wav
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=656 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=951 end=276991 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=473 end=274431 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=666 end=276479 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=587 end=275967 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=563 end=273919 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=572 end=274943 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=812 end=274943 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=647 end=275967 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=941 end=276479 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=792 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=642 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=304 end=274943 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=574 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=688 end=274943 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=524 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=867 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=366 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=671 end=275967 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=692 end=276479 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=763 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=294 end=275967 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=977 end=276479 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=635 end=274943 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=540 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=720 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=396 end=274943 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=775 end=275967 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=644 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=725 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=726 end=276479 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=840 end=274943 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=766 end=276991 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=772 end=276991 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=276 end=274943 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=644 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=853 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=460 end=275967 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=466 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=618 end=275967 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=691 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=917 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=819 end=274431 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=595 end=275967 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=609 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=966 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=543 end=274943 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=773 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=580 end=275455 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=480 end=276479 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=507 end=274943 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=665 end=275967 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=890 end=266751 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=876 end=266751 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=331 end=269823 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=805 end=267263 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=993 end=263167 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=922 end=273407 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=694 end=261631 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=834 end=260095 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=448 end=265215 sample=../Audio/Ill Bell-SAMPLES/031 Ill Bell-96-127.wav

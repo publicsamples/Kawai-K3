@@ -1,0 +1,124 @@
+// this file was generated from Slapped Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=48 pitch_keycenter=48 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=575 end=366079 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-48-106.wav
+<group> key=49 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=898 end=366591 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-49-106.wav
+<group> key=50 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1018 end=366079 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-50-106.wav
+<group> key=51 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=817 end=365567 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-51-106.wav
+<group> key=52 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=612 end=365055 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-52-106.wav
+<group> key=53 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=741 end=364543 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-53-106.wav
+<group> key=54 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=733 end=365055 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-54-106.wav
+<group> key=55 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=795 end=365055 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-55-106.wav
+<group> key=56 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1010 end=366079 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-56-106.wav
+<group> key=57 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=500 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-57-106.wav
+<group> key=58 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=474 end=364031 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-58-106.wav
+<group> key=59 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=831 end=364543 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-59-106.wav
+<group> key=60 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1058 end=364543 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-60-106.wav
+<group> key=61 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=849 end=364543 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-61-106.wav
+<group> key=62 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=879 end=364031 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-62-106.wav
+<group> key=63 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=652 end=364031 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-63-106.wav
+<group> key=64 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=439 end=363519 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-64-106.wav
+<group> key=65 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=720 end=364543 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-65-106.wav
+<group> key=66 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=493 end=364031 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-66-106.wav
+<group> key=67 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1016 end=364031 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-67-106.wav
+<group> key=68 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=643 end=363519 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-68-106.wav
+<group> key=69 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=874 end=364543 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-69-106.wav
+<group> key=70 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=936 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-70-106.wav
+<group> key=71 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=702 end=364031 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-71-106.wav
+<group> key=72 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=896 end=363519 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-72-106.wav
+<group> key=73 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=852 end=364543 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-73-106.wav
+<group> key=74 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1071 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-74-106.wav
+<group> key=75 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=716 end=364031 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-75-106.wav
+<group> key=76 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=803 end=364031 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-76-106.wav
+<group> key=77 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=757 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-77-106.wav
+<group> key=78 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=950 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-78-106.wav
+<group> key=79 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=640 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-79-106.wav
+<group> key=80 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=705 end=363519 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-80-106.wav
+<group> key=81 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=832 end=363519 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-81-106.wav
+<group> key=82 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=775 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-82-106.wav
+<group> key=83 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=451 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-83-106.wav
+<group> key=84 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=444 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-84-106.wav
+<group> key=85 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=464 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-85-106.wav
+<group> key=86 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=512 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-86-106.wav
+<group> key=87 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=738 end=363519 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-87-106.wav
+<group> key=88 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=703 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-88-106.wav
+<group> key=89 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=829 end=363519 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-89-106.wav
+<group> key=90 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=933 end=363519 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-90-106.wav
+<group> key=91 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=660 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-91-106.wav
+<group> key=92 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=579 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-92-106.wav
+<group> key=93 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=703 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-93-106.wav
+<group> key=94 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=552 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-94-106.wav
+<group> key=95 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=459 end=363519 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-95-106.wav
+<group> key=96 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=866 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-96-106.wav
+<group> key=97 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=654 end=363519 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-97-106.wav
+<group> key=98 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=956 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-98-106.wav
+<group> key=99 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=898 end=363519 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-99-106.wav
+<group> key=100 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=653 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-100-106.wav
+<group> key=101 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=711 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-101-106.wav
+<group> key=102 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=766 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-102-106.wav
+<group> key=103 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=694 end=362495 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-103-106.wav
+<group> key=104 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=679 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-104-106.wav
+<group> key=105 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=587 end=363519 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-105-106.wav
+<group> key=106 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=659 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-106-106.wav
+<group> key=107 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=861 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-107-106.wav
+<group> key=108 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=705 end=363007 sample=../Audio/Slapped Bass-SAMPLES/005 Slapped Bass-108-106.wav

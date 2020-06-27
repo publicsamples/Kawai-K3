@@ -1,0 +1,294 @@
+// this file was generated from TriLayer.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=402 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-24-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=826 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-24-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=734 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-24-127.wav
+<group> key=25 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=774 end=368639 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-25-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=724 end=368127 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-25-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=437 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-25-127.wav
+<group> key=26 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=564 end=368127 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-26-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=908 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-26-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=848 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-26-127.wav
+<group> key=27 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=795 end=368127 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-27-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=800 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-27-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=656 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-27-127.wav
+<group> key=28 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=719 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-28-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=733 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-28-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=859 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-28-127.wav
+<group> key=29 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=761 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-29-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=821 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-29-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=544 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-29-127.wav
+<group> key=30 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=739 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-30-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=728 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-30-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=611 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-30-127.wav
+<group> key=31 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=609 end=368639 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-31-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=933 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-31-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=883 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-31-127.wav
+<group> key=32 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=805 end=368639 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-32-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=707 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-32-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=705 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-32-127.wav
+<group> key=33 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=400 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-33-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=369 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-33-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=887 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-33-127.wav
+<group> key=34 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=621 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-34-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=678 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-34-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=600 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-34-127.wav
+<group> key=35 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=487 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-35-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=542 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-35-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=387 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-35-127.wav
+<group> key=36 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=406 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-36-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=364 end=368127 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-36-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=842 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-36-127.wav
+<group> key=37 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=811 end=368127 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-37-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=594 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-37-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=523 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-37-127.wav
+<group> key=38 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=875 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-38-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=860 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-38-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=275 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-38-127.wav
+<group> key=39 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=584 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-39-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=412 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-39-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=724 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-39-127.wav
+<group> key=40 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=805 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-40-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=594 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-40-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=785 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-40-127.wav
+<group> key=41 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=880 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-41-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=639 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-41-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=524 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-41-127.wav
+<group> key=42 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=950 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-42-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=578 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-42-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=871 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-42-127.wav
+<group> key=43 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=927 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-43-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=682 end=368127 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-43-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=599 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-43-127.wav
+<group> key=44 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=977 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-44-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=602 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-44-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=356 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-44-127.wav
+<group> key=45 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=918 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-45-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=717 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-45-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=860 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-45-127.wav
+<group> key=46 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=826 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-46-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=641 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-46-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=663 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-46-127.wav
+<group> key=47 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=667 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-47-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=336 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-47-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=951 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-47-127.wav
+<group> key=48 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=799 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-48-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=753 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-48-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=740 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-48-127.wav
+<group> key=49 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=750 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-49-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=705 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-49-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=582 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-49-127.wav
+<group> key=50 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=759 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-50-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=727 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-50-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=748 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-50-127.wav
+<group> key=51 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=882 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-51-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=772 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-51-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=850 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-51-127.wav
+<group> key=52 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=791 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-52-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=558 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-52-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=577 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-52-127.wav
+<group> key=53 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=669 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-53-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=591 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-53-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=771 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-53-127.wav
+<group> key=54 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=861 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-54-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=646 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-54-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=562 end=364543 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-54-127.wav
+<group> key=55 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=596 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-55-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=520 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-55-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=543 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-55-127.wav
+<group> key=56 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=553 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-56-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=703 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-56-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=298 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-56-127.wav
+<group> key=57 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=893 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-57-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=679 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-57-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=680 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-57-127.wav
+<group> key=58 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=734 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-58-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=432 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-58-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=936 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-58-127.wav
+<group> key=59 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=747 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-59-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=546 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-59-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=844 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-59-127.wav
+<group> key=60 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=839 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-60-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=188 end=364031 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-60-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=858 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-60-127.wav
+<group> key=61 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=498 end=364031 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-61-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=667 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-61-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=682 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-61-127.wav
+<group> key=62 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=368 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-62-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=867 end=364543 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-62-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=477 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-62-127.wav
+<group> key=63 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=836 end=363519 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-63-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=908 end=364543 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-63-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=741 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-63-127.wav
+<group> key=64 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=441 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-64-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=451 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-64-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=882 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-64-127.wav
+<group> key=65 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=748 end=364031 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-65-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=567 end=363519 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-65-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=795 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-65-127.wav
+<group> key=66 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=693 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-66-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=757 end=364543 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-66-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=910 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-66-127.wav
+<group> key=67 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=595 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-67-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=434 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-67-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=699 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-67-127.wav
+<group> key=68 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=917 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-68-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=918 end=364543 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-68-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=637 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-68-127.wav
+<group> key=69 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=907 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-69-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=596 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-69-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=543 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-69-127.wav
+<group> key=70 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=943 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-70-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=765 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-70-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=769 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-70-127.wav
+<group> key=71 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=967 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-71-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=633 end=364543 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-71-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=480 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-71-127.wav
+<group> key=72 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=730 end=368127 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-72-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=781 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-72-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=413 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-72-127.wav
+<group> key=73 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=677 end=368639 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-73-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=466 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-73-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=618 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-73-127.wav
+<group> key=74 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=456 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-74-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=773 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-74-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=579 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-74-127.wav
+<group> key=75 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=712 end=368127 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-75-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=757 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-75-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=765 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-75-127.wav
+<group> key=76 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=629 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-76-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=553 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-76-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=898 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-76-127.wav
+<group> key=77 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=793 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-77-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=678 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-77-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=914 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-77-127.wav
+<group> key=78 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=874 end=368639 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-78-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=640 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-78-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=678 end=365567 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-78-127.wav
+<group> key=79 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=453 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-79-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=331 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-79-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=504 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-79-127.wav
+<group> key=80 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=890 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-80-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=747 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-80-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=409 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-80-127.wav
+<group> key=81 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=678 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-81-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=932 end=368639 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-81-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=554 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-81-127.wav
+<group> key=82 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=822 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-82-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=822 end=368127 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-82-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=530 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-82-127.wav
+<group> key=83 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=644 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-83-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=552 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-83-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=519 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-83-127.wav
+<group> key=84 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=710 end=368127 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-84-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=428 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-84-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=936 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-84-127.wav
+<group> key=85 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=848 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-85-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=767 end=368639 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-85-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=872 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-85-127.wav
+<group> key=86 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=674 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-86-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=867 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-86-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=726 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-86-127.wav
+<group> key=87 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=523 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-87-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=891 end=368127 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-87-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=802 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-87-127.wav
+<group> key=88 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=768 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-88-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=653 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-88-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=618 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-88-127.wav
+<group> key=89 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1009 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-89-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=435 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-89-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=493 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-89-127.wav
+<group> key=90 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=778 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-90-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=934 end=368127 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-90-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=409 end=367103 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-90-127.wav
+<group> key=91 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=653 end=364543 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-91-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=850 end=369151 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-91-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=815 end=368127 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-91-127.wav
+<group> key=92 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=550 end=364543 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-92-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=727 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-92-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=482 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-92-127.wav
+<group> key=93 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=595 end=364031 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-93-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1017 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-93-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=754 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-93-127.wav
+<group> key=94 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=651 end=365055 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-94-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=486 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-94-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=440 end=367615 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-94-127.wav
+<group> key=95 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=499 end=364543 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-95-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=595 end=366591 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-95-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=796 end=368127 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-95-127.wav
+<group> key=96 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1010 end=363519 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-96-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=706 end=366079 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-96-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=749 end=368639 sample=../Audio/TriLayer-SAMPLES/033 TriLayer-96-127.wav

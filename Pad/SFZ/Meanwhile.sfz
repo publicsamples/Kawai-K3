@@ -1,0 +1,34 @@
+// this file was generated from Meanwhile.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=24 hikey=25 pitch_keycenter=24  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2629 end=495103 sample=../Audio/Meanwhile-SAMPLES/016 Meanwhile-24-127.wav
+<group>lokey=26 hikey=30 pitch_keycenter=29  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2116 end=496127 sample=../Audio/Meanwhile-SAMPLES/016 Meanwhile-29-127.wav
+<group>lokey=31 hikey=35 pitch_keycenter=34  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2245 end=497663 sample=../Audio/Meanwhile-SAMPLES/016 Meanwhile-34-127.wav
+<group>lokey=36 hikey=40 pitch_keycenter=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2693 end=498687 sample=../Audio/Meanwhile-SAMPLES/016 Meanwhile-39-127.wav
+<group>lokey=41 hikey=45 pitch_keycenter=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2371 end=496639 sample=../Audio/Meanwhile-SAMPLES/016 Meanwhile-44-127.wav
+<group>lokey=46 hikey=50 pitch_keycenter=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2338 end=502271 sample=../Audio/Meanwhile-SAMPLES/016 Meanwhile-49-127.wav
+<group>lokey=51 hikey=55 pitch_keycenter=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2815 end=495615 sample=../Audio/Meanwhile-SAMPLES/016 Meanwhile-54-127.wav
+<group>lokey=56 hikey=60 pitch_keycenter=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2786 end=496127 sample=../Audio/Meanwhile-SAMPLES/016 Meanwhile-59-127.wav
+<group>lokey=61 hikey=65 pitch_keycenter=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2254 end=498687 sample=../Audio/Meanwhile-SAMPLES/016 Meanwhile-64-127.wav
+<group>lokey=66 hikey=70 pitch_keycenter=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2191 end=501759 sample=../Audio/Meanwhile-SAMPLES/016 Meanwhile-69-127.wav
+<group>lokey=71 hikey=75 pitch_keycenter=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3704 end=491519 sample=../Audio/Meanwhile-SAMPLES/016 Meanwhile-74-127.wav
+<group>lokey=76 hikey=80 pitch_keycenter=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3129 end=499711 sample=../Audio/Meanwhile-SAMPLES/016 Meanwhile-79-127.wav
+<group>lokey=81 hikey=85 pitch_keycenter=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4610 end=494079 sample=../Audio/Meanwhile-SAMPLES/016 Meanwhile-84-127.wav
+<group>lokey=86 hikey=90 pitch_keycenter=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=12428 end=485375 sample=../Audio/Meanwhile-SAMPLES/016 Meanwhile-89-127.wav
+<group>lokey=91 hikey=95 pitch_keycenter=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=33265 end=491007 sample=../Audio/Meanwhile-SAMPLES/016 Meanwhile-94-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=50224 end=486911 sample=../Audio/Meanwhile-SAMPLES/016 Meanwhile-96-127.wav

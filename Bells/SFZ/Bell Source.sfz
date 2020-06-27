@@ -1,0 +1,148 @@
+// this file was generated from Bell Source.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=851 end=463871 loop_mode=loop_sustain loop_start=332577 loop_end=400939 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-24-127.wav
+<group> key=25  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=781 end=462847 loop_mode=loop_sustain loop_start=228740 loop_end=400780 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-25-127.wav
+<group> key=26  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=954 end=462335 loop_mode=loop_sustain loop_start=341597 loop_end=391737 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-26-127.wav
+<group> key=27  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=458 end=462847 loop_mode=loop_sustain loop_start=222652 loop_end=401841 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-27-127.wav
+<group> key=28  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=780 end=463871 loop_mode=loop_sustain loop_start=232778 loop_end=397645 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-28-127.wav
+<group> key=29  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=826 end=462847 loop_mode=loop_sustain loop_start=255074 loop_end=399686 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-29-127.wav
+<group> key=30  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=766 end=463871 loop_mode=loop_sustain loop_start=306511 loop_end=370006 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-30-127.wav
+<group> key=31  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=828 end=465919 loop_mode=loop_sustain loop_start=266292 loop_end=309239 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-31-127.wav
+<group> key=32  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1032 end=464383 loop_mode=loop_sustain loop_start=243048 loop_end=372193 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-32-127.wav
+<group> key=33  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=527 end=463871 loop_mode=loop_sustain loop_start=257675 loop_end=384380 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-33-127.wav
+<group> key=34  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=571 end=463359 loop_mode=loop_sustain loop_start=250352 loop_end=375998 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-34-127.wav
+<group> key=35  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=764 end=464895 loop_mode=loop_sustain loop_start=262620 loop_end=390406 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-35-127.wav
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=391 end=464895 loop_mode=loop_sustain loop_start=253660 loop_end=381013 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=566 end=464895 loop_mode=loop_sustain loop_start=228846 loop_end=357239 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=780 end=464383 loop_mode=loop_sustain loop_start=254753 loop_end=379528 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=566 end=464895 loop_mode=loop_sustain loop_start=298495 loop_end=362167 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=707 end=463871 loop_mode=loop_sustain loop_start=324839 loop_end=388144 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=718 end=463359 loop_mode=loop_sustain loop_start=319707 loop_end=383941 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=614 end=465407 loop_mode=loop_sustain loop_start=335454 loop_end=398943 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=696 end=464895 loop_mode=loop_sustain loop_start=237658 loop_end=301178 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=988 end=464895 loop_mode=loop_sustain loop_start=299337 loop_end=363058 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=363 end=464383 loop_mode=loop_sustain loop_start=257050 loop_end=320401 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=712 end=465919 loop_mode=loop_sustain loop_start=262270 loop_end=390512 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=707 end=465407 loop_mode=loop_sustain loop_start=273617 loop_end=337509 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=472 end=466943 loop_mode=loop_sustain loop_start=284933 loop_end=347259 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=594 end=465407 loop_mode=loop_sustain loop_start=337948 loop_end=402145 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=536 end=465919 loop_mode=loop_sustain loop_start=270645 loop_end=398697 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=450 end=466431 loop_mode=loop_sustain loop_start=301233 loop_end=364904 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=689 end=466431 loop_mode=loop_sustain loop_start=269198 loop_end=396046 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=798 end=465407 loop_mode=loop_sustain loop_start=226945 loop_end=289947 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=899 end=467967 loop_mode=loop_sustain loop_start=303050 loop_end=367490 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=877 end=468479 loop_mode=loop_sustain loop_start=260665 loop_end=387903 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=725 end=467455 loop_mode=loop_sustain loop_start=317448 loop_end=380135 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=449 end=470015 loop_mode=loop_sustain loop_start=302310 loop_end=365661 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=446 end=467455 loop_mode=loop_sustain loop_start=291859 loop_end=355603 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=473 end=467967 loop_mode=loop_sustain loop_start=328719 loop_end=392967 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=691 end=470527 loop_mode=loop_sustain loop_start=337926 loop_end=402422 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=502 end=469503 loop_mode=loop_sustain loop_start=260319 loop_end=386980 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=711 end=467967 loop_mode=loop_sustain loop_start=337061 loop_end=401386 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=631 end=471039 loop_mode=loop_sustain loop_start=230919 loop_end=294873 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=476 end=469503 loop_mode=loop_sustain loop_start=234201 loop_end=297624 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=522 end=471039 loop_mode=loop_sustain loop_start=265839 loop_end=328590 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=781 end=471551 loop_mode=loop_sustain loop_start=271342 loop_end=397973 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=658 end=469503 loop_mode=loop_sustain loop_start=250760 loop_end=377551 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=651 end=468479 loop_mode=loop_sustain loop_start=248924 loop_end=375880 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=382 end=469503 loop_mode=loop_sustain loop_start=279600 loop_end=342952 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=715 end=470527 loop_mode=loop_sustain loop_start=224016 loop_end=287947 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=915 end=470527 loop_mode=loop_sustain loop_start=274328 loop_end=401140 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=657 end=470527 loop_mode=loop_sustain loop_start=276377 loop_end=339282 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=608 end=470527 loop_mode=loop_sustain loop_start=324890 loop_end=389403 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=602 end=470015 loop_mode=loop_sustain loop_start=242790 loop_end=369723 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=934 end=472575 loop_mode=loop_sustain loop_start=220421 loop_end=284234 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=644 end=470015 loop_mode=loop_sustain loop_start=332879 loop_end=396302 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=373 end=471039 loop_mode=loop_sustain loop_start=274903 loop_end=401721 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=835 end=471039 loop_mode=loop_sustain loop_start=228398 loop_end=291475 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=809 end=470015 loop_mode=loop_sustain loop_start=296231 loop_end=359738 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=860 end=470527 loop_mode=loop_sustain loop_start=272528 loop_end=399378 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=641 end=472575 loop_mode=loop_sustain loop_start=335142 loop_end=398394 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=735 end=471039 loop_mode=loop_sustain loop_start=265956 loop_end=392740 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=542 end=470015 loop_mode=loop_sustain loop_start=282706 loop_end=346111 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=767 end=473599 loop_mode=loop_sustain loop_start=262496 loop_end=388934 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=588 end=471551 loop_mode=loop_sustain loop_start=286925 loop_end=350528 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=691 end=471039 loop_mode=loop_sustain loop_start=319092 loop_end=382558 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=661 end=472575 loop_mode=loop_sustain loop_start=271886 loop_end=397366 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=426 end=469503 loop_mode=loop_sustain loop_start=313262 loop_end=376618 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=484 end=470015 loop_mode=loop_sustain loop_start=317928 loop_end=381274 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=837 end=472063 loop_mode=loop_sustain loop_start=271102 loop_end=398176 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=486 end=468991 loop_mode=loop_sustain loop_start=282351 loop_end=402125 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=686 end=470015 loop_mode=loop_sustain loop_start=321483 loop_end=384248 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=799 end=470015 loop_mode=loop_sustain loop_start=309203 loop_end=372604 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=682 end=470015 loop_mode=loop_sustain loop_start=335814 loop_end=399253 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=814 end=471551 loop_mode=loop_sustain loop_start=338320 loop_end=401726 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=882 end=472063 loop_mode=loop_sustain loop_start=298332 loop_end=361550 sample=../Audio/Bell Source-SAMPLES/009 Bell Source-96-127.wav

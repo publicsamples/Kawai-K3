@@ -1,0 +1,148 @@
+// this file was generated from Gentle Pad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4866 end=470015 loop_mode=loop_sustain loop_start=199518 loop_end=373473 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-24-127.wav
+<group> key=25  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=632 end=470527 loop_mode=loop_sustain loop_start=229057 loop_end=339792 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-25-127.wav
+<group> key=26  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2177 end=469503 loop_mode=loop_sustain loop_start=283695 loop_end=388209 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-26-127.wav
+<group> key=27  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=685 end=470015 loop_mode=loop_sustain loop_start=249690 loop_end=343838 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-27-127.wav
+<group> key=28  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2367 end=472063 loop_mode=loop_sustain loop_start=288962 loop_end=382068 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-28-127.wav
+<group> key=29  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2434 end=468479 loop_mode=loop_sustain loop_start=310706 loop_end=394588 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-29-127.wav
+<group> key=30  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=835 end=470015 loop_mode=loop_sustain loop_start=231518 loop_end=314465 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-30-127.wav
+<group> key=31  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=848 end=471551 loop_mode=loop_sustain loop_start=187759 loop_end=262484 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-31-127.wav
+<group> key=32  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=571 end=473599 loop_mode=loop_sustain loop_start=247234 loop_end=391673 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-32-127.wav
+<group> key=33  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=865 end=472575 loop_mode=loop_sustain loop_start=223618 loop_end=290188 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-33-127.wav
+<group> key=34  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=925 end=475135 loop_mode=loop_sustain loop_start=181187 loop_end=372695 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-34-127.wav
+<group> key=35  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=535 end=473599 loop_mode=loop_sustain loop_start=238425 loop_end=361297 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-35-127.wav
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=966 end=474623 loop_mode=loop_sustain loop_start=322638 loop_end=379956 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1058 end=475647 loop_mode=loop_sustain loop_start=261266 loop_end=316630 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1447 end=474623 loop_mode=loop_sustain loop_start=328390 loop_end=380644 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1286 end=474111 loop_mode=loop_sustain loop_start=215533 loop_end=263731 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1152 end=476671 loop_mode=loop_sustain loop_start=276387 loop_end=367374 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=768 end=475647 loop_mode=loop_sustain loop_start=309772 loop_end=394648 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=675 end=475647 loop_mode=loop_sustain loop_start=184784 loop_end=386489 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1322 end=476159 loop_mode=loop_sustain loop_start=201857 loop_end=392235 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=665 end=475647 loop_mode=loop_sustain loop_start=238797 loop_end=346276 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=624 end=475647 loop_mode=loop_sustain loop_start=211023 loop_end=346554 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=671 end=477183 loop_mode=loop_sustain loop_start=225585 loop_end=386429 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1281 end=476671 loop_mode=loop_sustain loop_start=289439 loop_end=380528 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1180 end=475647 loop_mode=loop_sustain loop_start=203771 loop_end=260419 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1025 end=476671 loop_mode=loop_sustain loop_start=231799 loop_end=393471 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1209 end=476671 loop_mode=loop_sustain loop_start=224920 loop_end=377517 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=572 end=475647 loop_mode=loop_sustain loop_start=277885 loop_end=326083 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1009 end=478207 loop_mode=loop_sustain loop_start=230889 loop_end=389583 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=793 end=477695 loop_mode=loop_sustain loop_start=275708 loop_end=340117 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1773 end=476671 loop_mode=loop_sustain loop_start=287245 loop_end=368304 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1319 end=478207 loop_mode=loop_sustain loop_start=199352 loop_end=351925 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=806 end=477183 loop_mode=loop_sustain loop_start=284354 loop_end=374202 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1412 end=477695 loop_mode=loop_sustain loop_start=213847 loop_end=298653 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1120 end=479743 loop_mode=loop_sustain loop_start=222504 loop_end=366887 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=862 end=476671 loop_mode=loop_sustain loop_start=236600 loop_end=388061 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=479 end=475647 loop_mode=loop_sustain loop_start=185914 loop_end=385856 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1261 end=476671 loop_mode=loop_sustain loop_start=191910 loop_end=272744 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=929 end=477183 loop_mode=loop_sustain loop_start=217822 loop_end=306886 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=661 end=477695 loop_mode=loop_sustain loop_start=214032 loop_end=394213 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=863 end=478719 loop_mode=loop_sustain loop_start=247065 loop_end=394651 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=812 end=477183 loop_mode=loop_sustain loop_start=255799 loop_end=395102 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=785 end=475647 loop_mode=loop_sustain loop_start=302020 loop_end=372709 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2141 end=477695 loop_mode=loop_sustain loop_start=184277 loop_end=365542 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2486 end=477695 loop_mode=loop_sustain loop_start=261097 loop_end=306231 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2728 end=476159 loop_mode=loop_sustain loop_start=199518 loop_end=343965 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2167 end=479231 loop_mode=loop_sustain loop_start=324873 loop_end=373125 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2592 end=477183 loop_mode=loop_sustain loop_start=182780 loop_end=394789 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3423 end=476671 loop_mode=loop_sustain loop_start=270216 loop_end=320201 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2630 end=478207 loop_mode=loop_sustain loop_start=308184 loop_end=389176 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2961 end=477183 loop_mode=loop_sustain loop_start=294300 loop_end=383363 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3358 end=476159 loop_mode=loop_sustain loop_start=307970 loop_end=398060 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3057 end=478719 loop_mode=loop_sustain loop_start=230170 loop_end=388864 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4265 end=477183 loop_mode=loop_sustain loop_start=208248 loop_end=374138 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4456 end=476159 loop_mode=loop_sustain loop_start=186638 loop_end=333084 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3687 end=477183 loop_mode=loop_sustain loop_start=228170 loop_end=366397 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4143 end=476671 loop_mode=loop_sustain loop_start=191424 loop_end=339947 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=5034 end=476159 loop_mode=loop_sustain loop_start=264765 loop_end=379490 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4327 end=478207 loop_mode=loop_sustain loop_start=207309 loop_end=255467 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=5943 end=476159 loop_mode=loop_sustain loop_start=196409 loop_end=283436 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6263 end=475647 loop_mode=loop_sustain loop_start=240666 loop_end=387040 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=5236 end=476671 loop_mode=loop_sustain loop_start=243036 loop_end=324028 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6246 end=475135 loop_mode=loop_sustain loop_start=206665 loop_end=384793 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6399 end=475135 loop_mode=loop_sustain loop_start=239646 loop_end=284620 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6548 end=476671 loop_mode=loop_sustain loop_start=221056 loop_end=379750 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7354 end=474623 loop_mode=loop_sustain loop_start=229523 loop_end=360649 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7993 end=473599 loop_mode=loop_sustain loop_start=210514 loop_end=394839 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7902 end=475135 loop_mode=loop_sustain loop_start=263109 loop_end=394163 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8396 end=475647 loop_mode=loop_sustain loop_start=220798 loop_end=391783 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8763 end=473087 loop_mode=loop_sustain loop_start=271954 loop_end=329316 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8001 end=474623 loop_mode=loop_sustain loop_start=249796 loop_end=295943 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=9517 end=473087 loop_mode=loop_sustain loop_start=192981 loop_end=304545 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=9678 end=472575 loop_mode=loop_sustain loop_start=192213 loop_end=261859 sample=../Audio/Gentle Pad-SAMPLES/048 Gentle Pad-96-127.wav

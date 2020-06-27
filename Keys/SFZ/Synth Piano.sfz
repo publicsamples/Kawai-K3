@@ -1,0 +1,294 @@
+// this file was generated from Synth Piano.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=405 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-24-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=342 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-24-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=947 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-24-127.wav
+<group> key=25  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=853 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-25-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=354 end=364543 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-25-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=654 end=365055 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-25-127.wav
+<group> key=26  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=986 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-26-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=755 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-26-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=683 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-26-127.wav
+<group> key=27  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=950 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-27-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=693 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-27-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=704 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-27-127.wav
+<group> key=28  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=683 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-28-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=679 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-28-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=773 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-28-127.wav
+<group> key=29  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=425 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-29-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=489 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-29-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=810 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-29-127.wav
+<group> key=30  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=574 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-30-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=354 end=369151 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-30-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=847 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-30-127.wav
+<group> key=31  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=596 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-31-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=856 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-31-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=898 end=369663 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-31-127.wav
+<group> key=32  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=393 end=368639 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-32-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=731 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-32-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=450 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-32-127.wav
+<group> key=33  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=693 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-33-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=896 end=369151 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-33-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=889 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-33-127.wav
+<group> key=34  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=742 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-34-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=649 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-34-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=597 end=368639 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-34-127.wav
+<group> key=35  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=810 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-35-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=609 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-35-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=737 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-35-127.wav
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=720 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-36-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=416 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-36-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=569 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=910 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-37-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=991 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-37-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=732 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=633 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-38-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=630 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-38-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=889 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=649 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-39-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=704 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-39-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=799 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=886 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-40-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=382 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-40-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=612 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=413 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-41-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=749 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-41-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=400 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=647 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-42-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=811 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-42-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=295 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=749 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-43-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=592 end=364543 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-43-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=269 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=774 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-44-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=908 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-44-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=859 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=964 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-45-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=394 end=364543 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-45-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=695 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=843 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-46-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=598 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-46-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=873 end=364543 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=479 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-47-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=908 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-47-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=532 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=657 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-48-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=393 end=365055 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-48-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=512 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=646 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-49-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=733 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-49-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=576 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=627 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-50-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=942 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-50-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=765 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=987 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-51-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=485 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-51-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=760 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=399 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-52-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=566 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-52-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=586 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=891 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-53-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=522 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-53-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=689 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=854 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-54-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=580 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-54-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=668 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=547 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-55-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=505 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-55-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=466 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1053 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-56-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=697 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-56-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=443 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=989 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-57-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=640 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-57-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=376 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=622 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-58-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=547 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-58-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=465 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=779 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-59-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=526 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-59-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=732 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=837 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-60-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=823 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-60-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=602 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=414 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-61-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=492 end=365055 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-61-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=876 end=364543 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=889 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-62-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=473 end=364543 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-62-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=728 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=439 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-63-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=528 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-63-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=938 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=729 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-64-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=795 end=365055 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-64-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=819 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=652 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-65-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=793 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-65-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=657 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=424 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-66-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=652 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-66-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=799 end=369151 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=568 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-67-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=774 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-67-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=947 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=476 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-68-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=380 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-68-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=908 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=625 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-69-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=904 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-69-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=485 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=518 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-70-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=654 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-70-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=313 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=592 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-71-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=822 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-71-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=521 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=705 end=368639 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-72-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=465 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-72-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=428 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=677 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-73-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=729 end=368639 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-73-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=830 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=788 end=364543 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-74-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=870 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-74-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=1011 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=840 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-75-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=969 end=368639 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-75-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=568 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=661 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-76-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=838 end=368639 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-76-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=693 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=921 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-77-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=819 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-77-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=892 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=800 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-78-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=661 end=368639 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-78-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=407 end=368639 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=519 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-79-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=561 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-79-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=621 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=365 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-80-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=846 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-80-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=569 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=503 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-81-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=836 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-81-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=748 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=526 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-82-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=533 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-82-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=375 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=874 end=368639 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-83-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=822 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-83-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=860 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=554 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-84-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=644 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-84-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=1037 end=368639 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=882 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-85-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=523 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-85-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=329 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=838 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-86-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=962 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-86-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=822 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=615 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-87-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=911 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-87-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=593 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=859 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-88-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=621 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-88-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=559 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=552 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-89-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=845 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-89-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=680 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=734 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-90-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=859 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-90-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=808 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=898 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-91-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=415 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-91-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=644 end=368127 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=387 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-92-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=554 end=366079 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-92-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=600 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=683 end=365567 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-93-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=603 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-93-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=831 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=835 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-94-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=788 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-94-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=590 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=687 end=368639 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-95-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=356 end=367103 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-95-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=881 end=366591 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=869 end=369151 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-96-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=683 end=367615 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-96-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 offset=526 end=368639 sample=../Audio/Synth Piano-SAMPLES/034 Synth Piano-96-127.wav

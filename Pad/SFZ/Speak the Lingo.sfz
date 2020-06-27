@@ -1,0 +1,148 @@
+// this file was generated from Speak the Lingo.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1021 end=505855 loop_mode=loop_sustain loop_start=170266 loop_end=284903 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-24-127.wav
+<group> key=25  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1281 end=505343 loop_mode=loop_sustain loop_start=181614 loop_end=291082 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-25-127.wav
+<group> key=26  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1153 end=504831 loop_mode=loop_sustain loop_start=218233 loop_end=321552 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-26-127.wav
+<group> key=27  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1370 end=501759 loop_mode=loop_sustain loop_start=266348 loop_end=361620 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-27-127.wav
+<group> key=28  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=819 end=499711 loop_mode=loop_sustain loop_start=173645 loop_end=264631 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-28-127.wav
+<group> key=29  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1027 end=500735 loop_mode=loop_sustain loop_start=281347 loop_end=367225 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-29-127.wav
+<group> key=30  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1348 end=502271 loop_mode=loop_sustain loop_start=196413 loop_end=277472 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-30-127.wav
+<group> key=31  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1002 end=499711 loop_mode=loop_sustain loop_start=153990 loop_end=229605 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-31-127.wav
+<group> key=32  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1232 end=507391 loop_mode=loop_sustain loop_start=198525 loop_end=270739 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-32-127.wav
+<group> key=33  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=877 end=500735 loop_mode=loop_sustain loop_start=172831 loop_end=240197 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-33-127.wav
+<group> key=34  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1262 end=506367 loop_mode=loop_sustain loop_start=174729 loop_end=239066 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-34-127.wav
+<group> key=35  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=771 end=500223 loop_mode=loop_sustain loop_start=277668 loop_end=338393 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-35-127.wav
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1140 end=505343 loop_mode=loop_sustain loop_start=94929 loop_end=380847 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=870 end=501759 loop_mode=loop_sustain loop_start=154716 loop_end=315120 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1096 end=503295 loop_mode=loop_sustain loop_start=103322 loop_end=357452 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1325 end=506879 loop_mode=loop_sustain loop_start=256242 loop_end=352639 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1304 end=504831 loop_mode=loop_sustain loop_start=167493 loop_end=259007 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1436 end=504319 loop_mode=loop_sustain loop_start=107870 loop_end=235687 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=905 end=502783 loop_mode=loop_sustain loop_start=174074 loop_end=334770 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=845 end=501247 loop_mode=loop_sustain loop_start=163847 loop_end=354675 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1052 end=508415 loop_mode=loop_sustain loop_start=101417 loop_end=354599 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=944 end=505343 loop_mode=loop_sustain loop_start=150364 loop_end=218129 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1247 end=499711 loop_mode=loop_sustain loop_start=116052 loop_end=212181 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=759 end=505343 loop_mode=loop_sustain loop_start=162226 loop_end=313932 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1164 end=503807 loop_mode=loop_sustain loop_start=95708 loop_end=381292 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1258 end=503295 loop_mode=loop_sustain loop_start=187875 loop_end=376910 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=937 end=504319 loop_mode=loop_sustain loop_start=187959 loop_end=315023 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1301 end=502783 loop_mode=loop_sustain loop_start=189333 loop_end=285166 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1298 end=503807 loop_mode=loop_sustain loop_start=173134 loop_end=331828 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1305 end=508927 loop_mode=loop_sustain loop_start=304186 loop_end=368093 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=640 end=503295 loop_mode=loop_sustain loop_start=140915 loop_end=363354 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1042 end=501759 loop_mode=loop_sustain loop_start=124016 loop_end=219430 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=834 end=503807 loop_mode=loop_sustain loop_start=125943 loop_end=252321 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1176 end=504831 loop_mode=loop_sustain loop_start=120267 loop_end=375080 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=850 end=503807 loop_mode=loop_sustain loop_start=299831 loop_end=363602 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=940 end=509439 loop_mode=loop_sustain loop_start=257579 loop_end=378499 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=816 end=507391 loop_mode=loop_sustain loop_start=95419 loop_end=381172 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1177 end=504319 loop_mode=loop_sustain loop_start=156865 loop_end=251225 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=695 end=505343 loop_mode=loop_sustain loop_start=316678 loop_end=380209 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=891 end=505343 loop_mode=loop_sustain loop_start=157778 loop_end=253752 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1370 end=504831 loop_mode=loop_sustain loop_start=96964 loop_end=255791 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1262 end=503807 loop_mode=loop_sustain loop_start=126766 loop_end=190798 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1178 end=506367 loop_mode=loop_sustain loop_start=114695 loop_end=336898 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1436 end=501759 loop_mode=loop_sustain loop_start=119151 loop_end=214453 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=749 end=503295 loop_mode=loop_sustain loop_start=96702 loop_end=159890 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1243 end=504831 loop_mode=loop_sustain loop_start=112216 loop_end=239523 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1930 end=504831 loop_mode=loop_sustain loop_start=165641 loop_end=229601 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1211 end=503807 loop_mode=loop_sustain loop_start=190661 loop_end=349623 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1567 end=505855 loop_mode=loop_sustain loop_start=94176 loop_end=380012 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2092 end=501759 loop_mode=loop_sustain loop_start=134196 loop_end=356650 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1419 end=502783 loop_mode=loop_sustain loop_start=287926 loop_end=351532 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2013 end=505855 loop_mode=loop_sustain loop_start=141139 loop_end=363423 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1925 end=499711 loop_mode=loop_sustain loop_start=223057 loop_end=381884 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1822 end=499711 loop_mode=loop_sustain loop_start=301987 loop_end=366020 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3093 end=500735 loop_mode=loop_sustain loop_start=146211 loop_end=368533 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2471 end=502783 loop_mode=loop_sustain loop_start=164353 loop_end=259711 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2433 end=502271 loop_mode=loop_sustain loop_start=302903 loop_end=365933 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3573 end=498687 loop_mode=loop_sustain loop_start=144430 loop_end=208083 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4305 end=500223 loop_mode=loop_sustain loop_start=197325 loop_end=261379 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3330 end=500223 loop_mode=loop_sustain loop_start=104767 loop_end=263685 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4608 end=500735 loop_mode=loop_sustain loop_start=219631 loop_end=308770 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4039 end=499199 loop_mode=loop_sustain loop_start=155537 loop_end=378031 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3781 end=502783 loop_mode=loop_sustain loop_start=206211 loop_end=269817 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=5527 end=499711 loop_mode=loop_sustain loop_start=135559 loop_end=357807 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6226 end=500735 loop_mode=loop_sustain loop_start=216354 loop_end=375081 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6457 end=498175 loop_mode=loop_sustain loop_start=122120 loop_end=376291 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6361 end=496639 loop_mode=loop_sustain loop_start=140613 loop_end=362935 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=5413 end=498687 loop_mode=loop_sustain loop_start=250852 loop_end=346182 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7276 end=500735 loop_mode=loop_sustain loop_start=128757 loop_end=382978 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7197 end=497151 loop_mode=loop_sustain loop_start=311295 loop_end=374948 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7862 end=495103 loop_mode=loop_sustain loop_start=158256 loop_end=380720 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7419 end=495615 loop_mode=loop_sustain loop_start=107799 loop_end=266739 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7953 end=496127 loop_mode=loop_sustain loop_start=143790 loop_end=302744 sample=../Audio/Speak the Lingo-SAMPLES/021 Speak the Lingo-96-127.wav

@@ -1,0 +1,266 @@
+// this file was generated from MSOFFO.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=21  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=9541 end=373247 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-21-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=7187 end=372735 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-21-127.wav
+<group> key=22  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=10112 end=365055 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-22-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=13117 end=368127 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-22-127.wav
+<group> key=23  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=8637 end=372223 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-23-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=9639 end=367103 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-23-127.wav
+<group> key=24  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=20479 end=361471 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-24-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=29708 end=363007 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-24-127.wav
+<group> key=25  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=18734 end=361471 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-25-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=13836 end=361983 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-25-127.wav
+<group> key=26  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=15359 end=363519 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-26-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=13274 end=363519 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-26-127.wav
+<group> key=27  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=73095 end=362495 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-27-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=16260 end=365567 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-27-127.wav
+<group> key=28  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=15482 end=361983 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-28-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=15797 end=342527 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-28-127.wav
+<group> key=29  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=12159 end=366591 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-29-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=11902 end=365055 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-29-127.wav
+<group> key=30  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=11776 end=367615 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-30-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=11097 end=365055 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-30-127.wav
+<group> key=31  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=10649 end=366079 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-31-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=11650 end=365567 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-31-127.wav
+<group> key=32  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=12597 end=372223 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-32-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=7297 end=371711 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-32-127.wav
+<group> key=33  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=8881 end=368127 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-33-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=11264 end=366079 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-33-127.wav
+<group> key=34  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=9658 end=372223 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-34-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=8710 end=365567 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-34-127.wav
+<group> key=35  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=8220 end=372223 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-35-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=7259 end=370687 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-35-127.wav
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=9639 end=367103 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-36-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=11422 end=371711 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=11789 end=372735 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-37-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=7750 end=375295 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=7316 end=374271 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-38-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=7795 end=367615 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=8101 end=373247 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-39-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=6821 end=367103 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=7686 end=371199 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-40-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=8304 end=366079 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=7214 end=375295 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-41-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=6825 end=366591 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=10642 end=375295 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-42-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=6644 end=374783 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=9100 end=376319 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-43-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=5957 end=366591 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=9358 end=376831 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-44-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=6111 end=375295 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=8741 end=378367 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-45-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=6338 end=369663 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=6165 end=369151 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-46-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=8932 end=376319 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=6639 end=372735 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-47-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=6592 end=380927 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=6108 end=372735 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-48-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=7896 end=379903 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=8536 end=379903 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-49-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=5003 end=372735 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=8684 end=381951 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-50-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=4933 end=377343 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=5325 end=373759 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-51-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=5982 end=377343 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=8152 end=373247 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-52-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=6657 end=381951 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=4804 end=379903 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-53-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=4458 end=374783 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=6847 end=378879 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-54-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=5746 end=386047 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=4664 end=383487 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-55-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=4343 end=378367 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=4476 end=383487 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-56-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=4027 end=378879 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=6237 end=378879 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-57-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=5607 end=379391 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=4971 end=380927 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-58-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=4413 end=381951 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=4345 end=385023 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-59-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=3889 end=386047 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=5718 end=382463 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-60-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=3929 end=383487 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=4330 end=385023 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-61-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=3595 end=388095 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=4743 end=385023 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-62-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=4171 end=384511 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=4258 end=385535 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-63-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=3511 end=383999 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=4491 end=387583 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-64-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=3370 end=386047 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=5286 end=388607 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-65-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=3574 end=386559 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=3307 end=388607 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-66-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=4502 end=390655 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=3097 end=384511 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-67-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=4180 end=391167 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=3442 end=391167 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-68-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2473 end=387583 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=3724 end=388607 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-69-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=3785 end=392703 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=3857 end=386559 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-70-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=3737 end=389119 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=3086 end=393727 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-71-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=3860 end=392703 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=3068 end=397311 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-72-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=3193 end=395263 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2076 end=393727 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-73-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=3930 end=388095 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=3196 end=394751 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-74-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2272 end=396799 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=3530 end=396799 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-75-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2458 end=391167 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=3268 end=392703 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-76-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=3246 end=397823 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2975 end=390655 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-77-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2699 end=391167 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2467 end=396287 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-78-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2113 end=399359 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2468 end=401407 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-79-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2272 end=395775 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=1770 end=398847 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-80-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2772 end=403967 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2935 end=397311 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-81-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2907 end=401919 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2169 end=393727 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-82-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=1894 end=394239 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2496 end=402431 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-83-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2868 end=393727 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=3657 end=396287 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-84-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2010 end=398847 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2270 end=400383 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-85-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2670 end=402431 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2126 end=399359 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-86-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2207 end=397823 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2354 end=400383 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-87-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2698 end=398335 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2692 end=402943 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-88-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=3085 end=397823 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2165 end=396799 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-89-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=1546 end=392703 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2235 end=400383 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-90-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2063 end=399871 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=1921 end=402431 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-91-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2157 end=402943 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=1749 end=401919 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-92-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2543 end=403455 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2020 end=399871 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-93-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=1790 end=404991 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=1554 end=396799 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-94-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=1982 end=399871 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2648 end=400895 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-95-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=1612 end=406527 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2503 end=406015 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-96-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2007 end=402943 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-96-127.wav
+<group> key=97  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=1840 end=400895 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-97-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2693 end=398335 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-97-127.wav
+<group> key=98  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=1384 end=401919 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-98-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=1554 end=402943 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-98-127.wav
+<group> key=99  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2522 end=401407 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-99-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=1697 end=401919 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-99-127.wav
+<group> key=100  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=1605 end=400383 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-100-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=1934 end=405503 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-100-127.wav
+<group> key=101  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=1496 end=402431 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-101-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2666 end=402431 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-101-127.wav
+<group> key=102  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=1817 end=407039 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-102-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2122 end=401919 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-102-127.wav
+<group> key=103  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=1618 end=407551 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-103-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=1282 end=402431 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-103-127.wav
+<group> key=104  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=1990 end=409599 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-104-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=1620 end=410111 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-104-127.wav
+<group> key=105  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2297 end=402943 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-105-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2133 end=393727 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-105-127.wav
+<group> key=106  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=1988 end=398335 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-106-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=1798 end=395775 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-106-127.wav
+<group> key=107  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=1745 end=402943 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-107-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=1460 end=404991 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-107-127.wav
+<group> key=108  pitch_keytrack=1
+	<region> lovel=000 hivel=089 amp_velcurve_089=1 offset=2422 end=400895 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-108-64.wav
+	<region> lovel=040 hivel=127 amp_velcurve_127=1 offset=2697 end=400383 sample=../Audio/MSOFFO-SAMPLES/035 MSOFFO-108-127.wav

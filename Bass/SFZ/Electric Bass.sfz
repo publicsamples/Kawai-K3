@@ -1,0 +1,148 @@
+// this file was generated from Electric Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=452 end=474111 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-24-127.wav
+<group> key=25  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=861 end=477183 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-25-127.wav
+<group> key=26  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=858 end=476671 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-26-127.wav
+<group> key=27  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=662 end=478719 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-27-127.wav
+<group> key=28  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=660 end=478719 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-28-127.wav
+<group> key=29  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=659 end=476159 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-29-127.wav
+<group> key=30  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=702 end=480255 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-30-127.wav
+<group> key=31  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=632 end=477695 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-31-127.wav
+<group> key=32  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=834 end=480767 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-32-127.wav
+<group> key=33  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=490 end=478719 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-33-127.wav
+<group> key=34  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=445 end=480255 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-34-127.wav
+<group> key=35  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=857 end=481279 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-35-127.wav
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=675 end=475135 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=662 end=475135 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=881 end=477695 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=973 end=476159 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=663 end=478207 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=456 end=478719 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=398 end=479743 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=630 end=479743 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=591 end=479743 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=802 end=479231 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=617 end=480767 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=752 end=476671 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=708 end=478207 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=750 end=480255 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=836 end=478719 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=680 end=476159 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=679 end=476159 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=507 end=476159 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=784 end=477695 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=885 end=476671 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=666 end=475647 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=701 end=473599 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=455 end=475135 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=896 end=476159 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=789 end=476159 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=509 end=475647 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=674 end=477183 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=739 end=477183 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=736 end=475135 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=321 end=476671 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=802 end=477183 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=702 end=477183 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=496 end=475647 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=805 end=471551 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=712 end=475135 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=882 end=471039 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=524 end=471551 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=906 end=470015 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=771 end=469503 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=665 end=468991 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=672 end=462847 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=571 end=461311 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=500 end=456703 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=656 end=456703 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=541 end=454655 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=987 end=456191 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=833 end=457727 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=826 end=454143 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=603 end=452095 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=676 end=452095 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=659 end=452607 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=698 end=452095 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=825 end=452607 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=864 end=453119 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=567 end=452095 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=996 end=453119 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=634 end=452095 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=740 end=451583 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=503 end=452607 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=818 end=451583 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=601 end=451583 sample=../Audio/Electric Bass-SAMPLES/019 Electric Bass-96-127.wav

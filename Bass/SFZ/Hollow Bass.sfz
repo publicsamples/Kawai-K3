@@ -1,0 +1,148 @@
+// this file was generated from Hollow Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=511 end=55295 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-24-127.wav
+<group> key=25 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=321 end=52735 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-25-127.wav
+<group> key=26 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1025 end=55295 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-26-127.wav
+<group> key=27 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=601 end=51711 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-27-127.wav
+<group> key=28 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=557 end=53759 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-28-127.wav
+<group> key=29 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=880 end=57855 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-29-127.wav
+<group> key=30 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=527 end=57343 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-30-127.wav
+<group> key=31 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=436 end=51199 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-31-127.wav
+<group> key=32 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=580 end=52735 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-32-127.wav
+<group> key=33 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=740 end=63487 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-33-127.wav
+<group> key=34 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=909 end=63487 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-34-127.wav
+<group> key=35 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=806 end=59903 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-35-127.wav
+<group> key=36 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=519 end=50687 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-36-127.wav
+<group> key=37 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=679 end=56319 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-37-127.wav
+<group> key=38 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=594 end=57855 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-38-127.wav
+<group> key=39 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=653 end=60415 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-39-127.wav
+<group> key=40 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=578 end=55807 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-40-127.wav
+<group> key=41 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=570 end=55807 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-41-127.wav
+<group> key=42 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=536 end=60927 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-42-127.wav
+<group> key=43 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=577 end=60415 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-43-127.wav
+<group> key=44 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=484 end=62463 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-44-127.wav
+<group> key=45 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=816 end=66047 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-45-127.wav
+<group> key=46 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=485 end=61439 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-46-127.wav
+<group> key=47 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=518 end=59903 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-47-127.wav
+<group> key=48 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=921 end=65023 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-48-127.wav
+<group> key=49 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=505 end=60415 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-49-127.wav
+<group> key=50 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=782 end=61439 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-50-127.wav
+<group> key=51 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=671 end=65535 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-51-127.wav
+<group> key=52 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=777 end=58367 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-52-127.wav
+<group> key=53 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=715 end=57343 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-53-127.wav
+<group> key=54 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=851 end=57855 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-54-127.wav
+<group> key=55 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=532 end=59903 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-55-127.wav
+<group> key=56 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=541 end=55807 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-56-127.wav
+<group> key=57 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=579 end=59391 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-57-127.wav
+<group> key=58 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=775 end=57855 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-58-127.wav
+<group> key=59 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=878 end=55295 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-59-127.wav
+<group> key=60 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=954 end=59391 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-60-127.wav
+<group> key=61 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=645 end=57343 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-61-127.wav
+<group> key=62 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=785 end=62463 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-62-127.wav
+<group> key=63 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=700 end=65023 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-63-127.wav
+<group> key=64 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=783 end=61951 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-64-127.wav
+<group> key=65 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=658 end=57855 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-65-127.wav
+<group> key=66 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=367 end=63487 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-66-127.wav
+<group> key=67 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=406 end=62975 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-67-127.wav
+<group> key=68 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=700 end=63487 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-68-127.wav
+<group> key=69 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=561 end=62463 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-69-127.wav
+<group> key=70 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=822 end=65023 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-70-127.wav
+<group> key=71 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=803 end=63999 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-71-127.wav
+<group> key=72 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=724 end=65023 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-72-127.wav
+<group> key=73 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=628 end=66559 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-73-127.wav
+<group> key=74 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=500 end=65023 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-74-127.wav
+<group> key=75 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=585 end=65023 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-75-127.wav
+<group> key=76 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=737 end=64511 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-76-127.wav
+<group> key=77 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=416 end=60927 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-77-127.wav
+<group> key=78 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=827 end=62463 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-78-127.wav
+<group> key=79 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=870 end=67583 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-79-127.wav
+<group> key=80 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=702 end=64511 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-80-127.wav
+<group> key=81 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=930 end=66559 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-81-127.wav
+<group> key=82 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=783 end=69631 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-82-127.wav
+<group> key=83 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=623 end=69119 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-83-127.wav
+<group> key=84 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=695 end=70143 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-84-127.wav
+<group> key=85 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=284 end=67583 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-85-127.wav
+<group> key=86 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=839 end=70143 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-86-127.wav
+<group> key=87 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=369 end=73727 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-87-127.wav
+<group> key=88 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=501 end=66559 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-88-127.wav
+<group> key=89 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=930 end=65535 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-89-127.wav
+<group> key=90 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=860 end=67071 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-90-127.wav
+<group> key=91 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=730 end=69631 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-91-127.wav
+<group> key=92 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=451 end=71679 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-92-127.wav
+<group> key=93 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=941 end=73727 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-93-127.wav
+<group> key=94 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=491 end=71679 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-94-127.wav
+<group> key=95 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=518 end=72191 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-95-127.wav
+<group> key=96 group=1 off_by=1 polyphony=1 off_mode=fast  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=874 end=72703 sample=../Audio/Hollow Bass-SAMPLES/012 Hollow Bass-96-127.wav

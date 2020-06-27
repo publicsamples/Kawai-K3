@@ -1,0 +1,148 @@
+// this file was generated from Trouble Maker.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=557 end=481791 loop_mode=loop_sustain loop_start=305525 loop_end=356776 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-24-127.wav
+<group> key=25  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=788 end=482815 loop_mode=loop_sustain loop_start=318051 loop_end=371394 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-25-127.wav
+<group> key=26  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=871 end=482303 loop_mode=loop_sustain loop_start=252299 loop_end=302726 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-26-127.wav
+<group> key=27  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=481 end=481791 loop_mode=loop_sustain loop_start=239006 loop_end=293306 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-27-127.wav
+<group> key=28  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=823 end=480255 loop_mode=loop_sustain loop_start=199432 loop_end=248572 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-28-127.wav
+<group> key=29  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=824 end=485375 loop_mode=loop_sustain loop_start=280208 loop_end=338714 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-29-127.wav
+<group> key=30  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=933 end=484863 loop_mode=loop_sustain loop_start=321183 loop_end=385908 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-30-127.wav
+<group> key=31  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=640 end=483839 loop_mode=loop_sustain loop_start=184748 loop_end=355771 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-31-127.wav
+<group> key=32  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=557 end=488959 loop_mode=loop_sustain loop_start=292787 loop_end=341890 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-32-127.wav
+<group> key=33  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=515 end=488447 loop_mode=loop_sustain loop_start=217721 loop_end=339616 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-33-127.wav
+<group> key=34  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=963 end=484863 loop_mode=loop_sustain loop_start=229567 loop_end=368863 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-34-127.wav
+<group> key=35  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=647 end=486911 loop_mode=loop_sustain loop_start=247815 loop_end=356415 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-35-127.wav
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=792 end=486399 loop_mode=loop_sustain loop_start=253270 loop_end=359815 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=825 end=485887 loop_mode=loop_sustain loop_start=256647 loop_end=355944 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=992 end=488447 loop_mode=loop_sustain loop_start=187193 loop_end=284514 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=479 end=481279 loop_mode=loop_sustain loop_start=242062 loop_end=327127 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1038 end=481279 loop_mode=loop_sustain loop_start=208446 loop_end=303710 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=615 end=483327 loop_mode=loop_sustain loop_start=227181 loop_end=310043 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=937 end=482303 loop_mode=loop_sustain loop_start=245871 loop_end=317401 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=584 end=476671 loop_mode=loop_sustain loop_start=218982 loop_end=294593 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=728 end=484863 loop_mode=loop_sustain loop_start=179299 loop_end=243880 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=973 end=480255 loop_mode=loop_sustain loop_start=182605 loop_end=249166 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=775 end=480255 loop_mode=loop_sustain loop_start=205002 loop_end=267067 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=539 end=479743 loop_mode=loop_sustain loop_start=259681 loop_end=319694 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=594 end=479743 loop_mode=loop_sustain loop_start=259873 loop_end=319889 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=786 end=479231 loop_mode=loop_sustain loop_start=190271 loop_end=243736 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=465 end=479743 loop_mode=loop_sustain loop_start=290019 loop_end=341080 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=759 end=479743 loop_mode=loop_sustain loop_start=212841 loop_end=308674 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=875 end=480255 loop_mode=loop_sustain loop_start=206212 loop_end=376961 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=622 end=480767 loop_mode=loop_sustain loop_start=199177 loop_end=325984 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=623 end=477695 loop_mode=loop_sustain loop_start=244800 loop_end=366867 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=651 end=478207 loop_mode=loop_sustain loop_start=287301 loop_end=391744 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=677 end=480767 loop_mode=loop_sustain loop_start=197461 loop_end=265867 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=672 end=479743 loop_mode=loop_sustain loop_start=192070 loop_end=258633 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=778 end=478719 loop_mode=loop_sustain loop_start=211240 loop_end=275577 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=466 end=476671 loop_mode=loop_sustain loop_start=330166 loop_end=392312 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=852 end=479231 loop_mode=loop_sustain loop_start=265405 loop_end=380712 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=702 end=476671 loop_mode=loop_sustain loop_start=192903 loop_end=246371 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=440 end=478207 loop_mode=loop_sustain loop_start=236350 loop_end=363114 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=767 end=480255 loop_mode=loop_sustain loop_start=181884 loop_end=277433 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=960 end=475647 loop_mode=loop_sustain loop_start=324769 loop_end=389004 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=858 end=479743 loop_mode=loop_sustain loop_start=276490 loop_end=340899 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=905 end=476671 loop_mode=loop_sustain loop_start=261966 loop_end=324190 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=914 end=479743 loop_mode=loop_sustain loop_start=201596 loop_end=297458 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=651 end=482303 loop_mode=loop_sustain loop_start=231788 loop_end=358378 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=477 end=477183 loop_mode=loop_sustain loop_start=255246 loop_end=320009 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=781 end=476671 loop_mode=loop_sustain loop_start=177389 loop_end=241728 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=999 end=477695 loop_mode=loop_sustain loop_start=316132 loop_end=391860 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=518 end=475647 loop_mode=loop_sustain loop_start=264421 loop_end=391371 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=831 end=477183 loop_mode=loop_sustain loop_start=177114 loop_end=272581 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=590 end=482303 loop_mode=loop_sustain loop_start=206319 loop_end=333084 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=650 end=480255 loop_mode=loop_sustain loop_start=266355 loop_end=362046 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=917 end=479231 loop_mode=loop_sustain loop_start=240985 loop_end=345474 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=628 end=479231 loop_mode=loop_sustain loop_start=295493 loop_end=359902 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=890 end=484351 loop_mode=loop_sustain loop_start=291537 loop_end=382739 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=703 end=479743 loop_mode=loop_sustain loop_start=266931 loop_end=362458 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=887 end=482815 loop_mode=loop_sustain loop_start=200573 loop_end=262914 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=629 end=478207 loop_mode=loop_sustain loop_start=211781 loop_end=338488 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=550 end=477695 loop_mode=loop_sustain loop_start=240285 loop_end=304623 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=696 end=482815 loop_mode=loop_sustain loop_start=327537 loop_end=380860 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=866 end=481791 loop_mode=loop_sustain loop_start=201444 loop_end=265843 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=833 end=484863 loop_mode=loop_sustain loop_start=313070 loop_end=366375 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=461 end=481279 loop_mode=loop_sustain loop_start=222906 loop_end=318428 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=554 end=479743 loop_mode=loop_sustain loop_start=242417 loop_end=295724 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=865 end=479231 loop_mode=loop_sustain loop_start=283442 loop_end=334627 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=694 end=480767 loop_mode=loop_sustain loop_start=204344 loop_end=266931 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=959 end=478719 loop_mode=loop_sustain loop_start=321745 loop_end=377472 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=407 end=480255 loop_mode=loop_sustain loop_start=269656 loop_end=365182 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=877 end=481791 loop_mode=loop_sustain loop_start=241988 loop_end=290957 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=516 end=481791 loop_mode=loop_sustain loop_start=317967 loop_end=368940 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=725 end=478207 loop_mode=loop_sustain loop_start=191433 loop_end=255817 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=993 end=479231 loop_mode=loop_sustain loop_start=322193 loop_end=386581 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=954 end=479231 loop_mode=loop_sustain loop_start=250578 loop_end=303936 sample=../Audio/Trouble Maker-SAMPLES/027 Trouble Maker-96-127.wav

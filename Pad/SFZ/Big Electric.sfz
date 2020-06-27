@@ -1,0 +1,148 @@
+// this file was generated from Big Electric.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1784 end=483327 loop_mode=loop_sustain loop_start=8247 loop_end=361587 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-24-127.wav
+<group> key=25  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1503 end=482815 loop_mode=loop_sustain loop_start=25134 loop_end=349751 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-25-127.wav
+<group> key=26  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1159 end=483327 loop_mode=loop_sustain loop_start=18624 loop_end=279598 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-26-127.wav
+<group> key=27  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1562 end=481791 loop_mode=loop_sustain loop_start=45492 loop_end=186978 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-27-127.wav
+<group> key=28  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1305 end=483327 loop_mode=loop_sustain loop_start=9937 loop_end=327049 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-28-127.wav
+<group> key=29  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1795 end=483327 loop_mode=loop_sustain loop_start=281194 loop_end=361024 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-29-127.wav
+<group> key=30  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1556 end=483839 loop_mode=loop_sustain loop_start=202456 loop_end=285423 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-30-127.wav
+<group> key=31  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1634 end=485887 loop_mode=loop_sustain loop_start=96192 loop_end=170904 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-31-127.wav
+<group> key=32  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1670 end=485375 loop_mode=loop_sustain loop_start=174669 loop_end=322481 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-32-127.wav
+<group> key=33  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1755 end=484863 loop_mode=loop_sustain loop_start=222329 loop_end=357055 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-33-127.wav
+<group> key=34  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1605 end=484351 loop_mode=loop_sustain loop_start=132565 loop_end=324072 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-34-127.wav
+<group> key=35  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1758 end=483839 loop_mode=loop_sustain loop_start=151145 loop_end=274019 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-35-127.wav
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1012 end=484351 loop_mode=loop_sustain loop_start=62563 loop_end=177200 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1257 end=484863 loop_mode=loop_sustain loop_start=37277 loop_end=361891 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1217 end=483327 loop_mode=loop_sustain loop_start=30119 loop_end=335313 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1288 end=482815 loop_mode=loop_sustain loop_start=22093 loop_end=118491 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1434 end=482815 loop_mode=loop_sustain loop_start=46801 loop_end=364195 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1626 end=482303 loop_mode=loop_sustain loop_start=31303 loop_end=117183 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1114 end=483327 loop_mode=loop_sustain loop_start=140473 loop_end=343124 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1404 end=484351 loop_mode=loop_sustain loop_start=58835 loop_end=363977 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1381 end=482815 loop_mode=loop_sustain loop_start=101826 loop_end=353735 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1405 end=482303 loop_mode=loop_sustain loop_start=110762 loop_end=349333 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1369 end=482815 loop_mode=loop_sustain loop_start=83214 loop_end=179720 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1628 end=482303 loop_mode=loop_sustain loop_start=244413 loop_end=335502 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1411 end=483839 loop_mode=loop_sustain loop_start=207771 loop_end=293747 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1214 end=483839 loop_mode=loop_sustain loop_start=22601 loop_end=319526 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1641 end=482815 loop_mode=loop_sustain loop_start=30728 loop_end=361455 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1175 end=481791 loop_mode=loop_sustain loop_start=159248 loop_end=255645 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1434 end=482303 loop_mode=loop_sustain loop_start=140644 loop_end=299338 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1457 end=482815 loop_mode=loop_sustain loop_start=38148 loop_end=316756 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1256 end=482815 loop_mode=loop_sustain loop_start=48686 loop_end=291392 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1174 end=483839 loop_mode=loop_sustain loop_start=60086 loop_end=212659 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1020 end=482303 loop_mode=loop_sustain loop_start=116473 loop_end=242429 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1307 end=482815 loop_mode=loop_sustain loop_start=29099 loop_end=250231 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1539 end=482815 loop_mode=loop_sustain loop_start=57880 loop_end=346646 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1637 end=482303 loop_mode=loop_sustain loop_start=32054 loop_end=350158 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1223 end=482303 loop_mode=loop_sustain loop_start=86042 loop_end=357296 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1386 end=483839 loop_mode=loop_sustain loop_start=51523 loop_end=132357 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1120 end=482815 loop_mode=loop_sustain loop_start=46888 loop_end=135952 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1326 end=482303 loop_mode=loop_sustain loop_start=81570 loop_end=261751 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1243 end=481791 loop_mode=loop_sustain loop_start=132367 loop_end=291061 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1350 end=481279 loop_mode=loop_sustain loop_start=143985 loop_end=283289 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1302 end=482303 loop_mode=loop_sustain loop_start=173554 loop_end=314934 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1056 end=482815 loop_mode=loop_sustain loop_start=193776 loop_end=317658 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1631 end=482303 loop_mode=loop_sustain loop_start=103955 loop_end=365105 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1172 end=481279 loop_mode=loop_sustain loop_start=72622 loop_end=335956 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1065 end=482303 loop_mode=loop_sustain loop_start=58588 loop_end=154905 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1147 end=481791 loop_mode=loop_sustain loop_start=261340 loop_end=359842 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1074 end=481791 loop_mode=loop_sustain loop_start=30628 loop_end=337875 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1168 end=483839 loop_mode=loop_sustain loop_start=163115 loop_end=243949 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1366 end=482815 loop_mode=loop_sustain loop_start=115936 loop_end=204999 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1108 end=482303 loop_mode=loop_sustain loop_start=167508 loop_end=347689 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1002 end=482303 loop_mode=loop_sustain loop_start=215182 loop_end=362503 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1231 end=481279 loop_mode=loop_sustain loop_start=188893 loop_end=306601 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1174 end=482303 loop_mode=loop_sustain loop_start=54620 loop_end=190934 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1225 end=484351 loop_mode=loop_sustain loop_start=102551 loop_end=364660 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1099 end=482815 loop_mode=loop_sustain loop_start=181773 loop_end=262804 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1070 end=482303 loop_mode=loop_sustain loop_start=72642 loop_end=187367 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1203 end=482303 loop_mode=loop_sustain loop_start=185516 loop_end=281739 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=808 end=483327 loop_mode=loop_sustain loop_start=147060 loop_end=358980 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1162 end=481791 loop_mode=loop_sustain loop_start=238740 loop_end=356539 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1168 end=483327 loop_mode=loop_sustain loop_start=256925 loop_end=337838 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1183 end=482303 loop_mode=loop_sustain loop_start=147956 loop_end=326084 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1228 end=482303 loop_mode=loop_sustain loop_start=141207 loop_end=363420 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=923 end=482303 loop_mode=loop_sustain loop_start=61019 loop_end=134679 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=949 end=481279 loop_mode=loop_sustain loop_start=88425 loop_end=350553 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1294 end=482303 loop_mode=loop_sustain loop_start=25469 loop_end=361367 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=926 end=484351 loop_mode=loop_sustain loop_start=84405 loop_end=346570 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1155 end=482303 loop_mode=loop_sustain loop_start=59473 loop_end=230458 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=831 end=481279 loop_mode=loop_sustain loop_start=169434 loop_end=254388 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1279 end=482815 loop_mode=loop_sustain loop_start=143036 loop_end=331415 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1273 end=482303 loop_mode=loop_sustain loop_start=44421 loop_end=180655 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1303 end=482303 loop_mode=loop_sustain loop_start=78987 loop_end=364697 sample=../Audio/Big Electric-SAMPLES/017 Big Electric-96-127.wav

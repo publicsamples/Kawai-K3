@@ -1,0 +1,148 @@
+// this file was generated from Euro Organ.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=430 end=460799 loop_mode=loop_sustain loop_start=147793 loop_end=254335 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-24-127.wav
+<group> key=25  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=733 end=461311 loop_mode=loop_sustain loop_start=126266 loop_end=315940 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-25-127.wav
+<group> key=26  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=513 end=460287 loop_mode=loop_sustain loop_start=140844 loop_end=202122 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-26-127.wav
+<group> key=27  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=964 end=459263 loop_mode=loop_sustain loop_start=126543 loop_end=315938 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-27-127.wav
+<group> key=28  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=921 end=459775 loop_mode=loop_sustain loop_start=194525 loop_end=383994 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-28-127.wav
+<group> key=29  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=860 end=458751 loop_mode=loop_sustain loop_start=171633 loop_end=361580 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-29-127.wav
+<group> key=30  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=732 end=460287 loop_mode=loop_sustain loop_start=126045 loop_end=315825 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-30-127.wav
+<group> key=31  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=608 end=460287 loop_mode=loop_sustain loop_start=141360 loop_end=331287 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-31-127.wav
+<group> key=32  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=998 end=459263 loop_mode=loop_sustain loop_start=156891 loop_end=346354 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-32-127.wav
+<group> key=33  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=833 end=458239 loop_mode=loop_sustain loop_start=178693 loop_end=368747 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-33-127.wav
+<group> key=34  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=977 end=460287 loop_mode=loop_sustain loop_start=149155 loop_end=339141 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-34-127.wav
+<group> key=35  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=648 end=459263 loop_mode=loop_sustain loop_start=156452 loop_end=345780 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-35-127.wav
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1101 end=458751 loop_mode=loop_sustain loop_start=164196 loop_end=354360 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=884 end=458751 loop_mode=loop_sustain loop_start=194154 loop_end=384462 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=671 end=459263 loop_mode=loop_sustain loop_start=179526 loop_end=369368 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=737 end=457727 loop_mode=loop_sustain loop_start=178953 loop_end=368913 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=894 end=458751 loop_mode=loop_sustain loop_start=133513 loop_end=323519 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=661 end=458239 loop_mode=loop_sustain loop_start=156259 loop_end=346210 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=828 end=458239 loop_mode=loop_sustain loop_start=178819 loop_end=368594 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=855 end=460287 loop_mode=loop_sustain loop_start=133714 loop_end=323643 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=983 end=458239 loop_mode=loop_sustain loop_start=149203 loop_end=339091 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=475 end=457727 loop_mode=loop_sustain loop_start=171021 loop_end=361078 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=860 end=457727 loop_mode=loop_sustain loop_start=125994 loop_end=315981 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=586 end=456703 loop_mode=loop_sustain loop_start=163359 loop_end=353396 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=831 end=458239 loop_mode=loop_sustain loop_start=133707 loop_end=323871 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=568 end=457727 loop_mode=loop_sustain loop_start=163396 loop_end=353390 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=755 end=455679 loop_mode=loop_sustain loop_start=163775 loop_end=353919 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=411 end=456703 loop_mode=loop_sustain loop_start=186440 loop_end=376400 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=559 end=456703 loop_mode=loop_sustain loop_start=186400 loop_end=376403 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=627 end=457215 loop_mode=loop_sustain loop_start=186527 loop_end=376729 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=852 end=457727 loop_mode=loop_sustain loop_start=163865 loop_end=353882 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=811 end=456191 loop_mode=loop_sustain loop_start=185410 loop_end=376012 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=676 end=457215 loop_mode=loop_sustain loop_start=170969 loop_end=361068 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=822 end=456703 loop_mode=loop_sustain loop_start=186226 loop_end=376481 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=950 end=456703 loop_mode=loop_sustain loop_start=140808 loop_end=330982 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=807 end=457215 loop_mode=loop_sustain loop_start=186823 loop_end=376865 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=901 end=457215 loop_mode=loop_sustain loop_start=163579 loop_end=353740 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=662 end=457215 loop_mode=loop_sustain loop_start=140942 loop_end=330933 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=791 end=456703 loop_mode=loop_sustain loop_start=194555 loop_end=384996 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=571 end=456191 loop_mode=loop_sustain loop_start=178369 loop_end=368612 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=419 end=456191 loop_mode=loop_sustain loop_start=163772 loop_end=354176 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=804 end=455167 loop_mode=loop_sustain loop_start=186190 loop_end=376391 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=864 end=455679 loop_mode=loop_sustain loop_start=124570 loop_end=315180 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=943 end=457215 loop_mode=loop_sustain loop_start=156178 loop_end=346442 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=519 end=455679 loop_mode=loop_sustain loop_start=133138 loop_end=323345 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1059 end=457215 loop_mode=loop_sustain loop_start=194053 loop_end=384210 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=849 end=456191 loop_mode=loop_sustain loop_start=187061 loop_end=377332 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=888 end=456703 loop_mode=loop_sustain loop_start=171827 loop_end=362045 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=560 end=456191 loop_mode=loop_sustain loop_start=178199 loop_end=368612 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=913 end=455679 loop_mode=loop_sustain loop_start=125618 loop_end=315845 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=824 end=456191 loop_mode=loop_sustain loop_start=171926 loop_end=362368 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=960 end=455679 loop_mode=loop_sustain loop_start=125930 loop_end=316386 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1124 end=455679 loop_mode=loop_sustain loop_start=194771 loop_end=385177 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=762 end=456191 loop_mode=loop_sustain loop_start=155705 loop_end=345969 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=950 end=455167 loop_mode=loop_sustain loop_start=194497 loop_end=384869 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=661 end=455167 loop_mode=loop_sustain loop_start=186237 loop_end=376558 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1048 end=456191 loop_mode=loop_sustain loop_start=156439 loop_end=346858 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=952 end=456191 loop_mode=loop_sustain loop_start=186109 loop_end=376515 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=801 end=454655 loop_mode=loop_sustain loop_start=170954 loop_end=361459 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=988 end=454655 loop_mode=loop_sustain loop_start=125368 loop_end=383593 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1141 end=454655 loop_mode=loop_sustain loop_start=308582 loop_end=384318 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=693 end=454655 loop_mode=loop_sustain loop_start=148564 loop_end=217541 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1043 end=454655 loop_mode=loop_sustain loop_start=156501 loop_end=225099 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=671 end=454143 loop_mode=loop_sustain loop_start=262976 loop_end=353988 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=656 end=454655 loop_mode=loop_sustain loop_start=193453 loop_end=376230 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1010 end=454143 loop_mode=loop_sustain loop_start=195001 loop_end=255654 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=778 end=453119 loop_mode=loop_sustain loop_start=126167 loop_end=383539 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1036 end=454143 loop_mode=loop_sustain loop_start=126536 loop_end=346562 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=873 end=453119 loop_mode=loop_sustain loop_start=262649 loop_end=338662 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=980 end=454143 loop_mode=loop_sustain loop_start=156225 loop_end=376206 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=943 end=453119 loop_mode=loop_sustain loop_start=201729 loop_end=368888 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=840 end=453631 loop_mode=loop_sustain loop_start=186727 loop_end=353749 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1032 end=453119 loop_mode=loop_sustain loop_start=225372 loop_end=354213 sample=../Audio/Euro Organ-SAMPLES/008 Euro Organ-96-127.wav
