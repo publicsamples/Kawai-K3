@@ -29,9 +29,9 @@
 4. Open the folder with the .nki files
 5. Once the batch resave process has completed open a sample using the file browser
 
-SFZ
+****SFZ****
 
-The SFZ format is supported by a wide variety of synths and samplers as such, specific loading instructions are not provided. See here for a list of compatible instruments.
+The SFZ format is supported by a wide variety of synths and samplers as such, specific loading instructions are not provided. See here for a  [list of compatible instruments.](https://sfzformat.com/software/players/)
 
 # Help out
   
@@ -57,6 +57,7 @@ Hey you! Yes, you with the sampler! This project really needs your help!
 ## Disks
 
 [Get the entire collection on a portable drive.](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
-[![ua](http://drupal.dd:8083/sites/drupal.dd/files/inline-images/usb-stick-vector-clipart_0.png)](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
+
+[![ua](https://www.modularsamples.com/sites/default/files/inline-images/usb-stick-vector-clipart_0.png)](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
 
 [![patreon](https://www.modularsamples.com/sites/default/files/inline-images/wordmark_on_navy_1.jpg)](https://www.patreon.com/modularsamples)
