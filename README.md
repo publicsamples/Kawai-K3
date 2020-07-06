@@ -7,6 +7,7 @@
 -  ****Info:****  [vintagesynth.com](http://www.vintagesynth.com/kawai/kawaik3.php)
 
 ****Audio:**** https://www.dropbox.com/sh/0nd1dpcj7o0x76f/AACgrVHBarmiboc1ApP9RdCIa?dl=0
+# 
 
   
 
@@ -32,6 +33,7 @@
 ****SFZ****
 
 The SFZ format is supported by a wide variety of synths and samplers as such, specific loading instructions are not provided. See here for a  [list of compatible instruments.](https://sfzformat.com/software/players/)
+# 
 
 # Help out
   
@@ -45,15 +47,13 @@ Hey you! Yes, you with the sampler! This project really needs your help!
 
 
 
+# 
 
 
-| [![patreon](https://www.modularsamples.com/sites/default/files/inline-images/wordmark_on_navy_1.jpg)](https://www.patreon.com/modularsamples) |## Disks
 
-[Get the entire collection on a portable drive.](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
-
-[![](https://www.modularsamples.com/sites/default/files/inline-images/usb-stick-vector-clipart_0.png )](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)  |
+|Disks | Donate   |
 |--|--|
-|  |  |
+|[ ![](https://www.modularsamples.com/sites/default/files/inline-images/usb-stick-vector-clipart_0.png )](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)  |[![patreon](https://www.modularsamples.com/sites/default/files/inline-images/wordmark_on_navy_1.jpg)](https://www.patreon.com/modularsamples)  |
 
 
 
@@ -64,4 +64,4 @@ Hey you! Yes, you with the sampler! This project really needs your help!
 
 
 
-
+# 
