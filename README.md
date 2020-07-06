@@ -43,7 +43,7 @@ Hey you! Yes, you with the sampler! This project really needs your help!
  - The SFZ files are largely untested. 
  - New Kawai K3 sounds!
  
- If you'd like to get involved check out the [issues page](/issue) or get in [touch via email](modularsamples@gmail.com) to discuss access to the project.
+ If you'd like to get involved check out the [issues page](/issues) or get in [touch via email](mailto:modularsamples@gmail.com) to discuss access to the project.
 
 
 
