@@ -45,12 +45,13 @@ Hey you! Yes, you with the sampler! This project really needs your help!
 
 
 
-## Disks
+
+
+| [![patreon](https://www.modularsamples.com/sites/default/files/inline-images/wordmark_on_navy_1.jpg)](https://www.patreon.com/modularsamples) |## Disks
 
 [Get the entire collection on a portable drive.](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
 
-[![](https://www.modularsamples.com/sites/default/files/inline-images/usb-stick-vector-clipart_0.png )](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
-| [![patreon](https://www.modularsamples.com/sites/default/files/inline-images/wordmark_on_navy_1.jpg)](https://www.patreon.com/modularsamples) |  |
+[![](https://www.modularsamples.com/sites/default/files/inline-images/usb-stick-vector-clipart_0.png )](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)  |
 |--|--|
 |  |  |
 
