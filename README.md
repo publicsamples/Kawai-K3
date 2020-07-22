@@ -6,7 +6,7 @@
 
 -  ****Info:****  [vintagesynth.com](http://www.vintagesynth.com/kawai/kawaik3.php)
 
-****Audio:**** https://www.dropbox.com/sh/0nd1dpcj7o0x76f/AACgrVHBarmiboc1ApP9RdCIa?dl=0
+****Audio:**** https://www.dropbox.com/sh/gjy7ppeijgw61bz/AABFRR50ykO7FR-Al2rK5tSma?dl=0
 # 
 
   
