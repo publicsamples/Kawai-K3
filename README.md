@@ -34,5 +34,8 @@
 
 The SFZ format is supported by a wide variety of synths and samplers as such, specific loading instructions are not provided. See here for a  [list of compatible instruments.](https://sfzformat.com/software/players/)
 
-[Patreon](https://www.patreon.com/modularsamples) - [Buy an SSD](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
+# Disks
 
+[
+![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+](https://gum.co/modularsamples-drives)
