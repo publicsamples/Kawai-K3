@@ -1,0 +1,124 @@
+// this file was generated from Play Strangely.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=658 end=371199 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-36-127.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=513 end=370687 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-37-127.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=514 end=371711 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-38-127.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=547 end=371199 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-39-127.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=703 end=370687 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-40-127.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=477 end=370175 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-41-127.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=610 end=370175 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-42-127.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=655 end=370687 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-43-127.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=474 end=371199 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-44-127.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=612 end=370175 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-45-127.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=682 end=370687 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-46-127.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=414 end=371711 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-47-127.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=737 end=370687 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-48-127.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=688 end=370687 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-49-127.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=500 end=371199 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-50-127.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=535 end=370175 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-51-127.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=563 end=370175 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-52-127.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=919 end=372223 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-53-127.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=784 end=370687 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-54-127.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=781 end=370175 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-55-127.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1043 end=372223 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-56-127.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=730 end=371199 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-57-127.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=644 end=370175 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-58-127.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=455 end=369663 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-59-127.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=604 end=369663 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-60-127.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=677 end=369663 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-61-127.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1011 end=370687 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-62-127.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=597 end=370175 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-63-127.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=297 end=367103 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-64-127.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=669 end=368127 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-65-127.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=875 end=371199 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-66-127.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=416 end=370687 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-67-127.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=503 end=369151 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-68-127.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=635 end=370687 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-69-127.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=838 end=370175 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-70-127.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=932 end=370687 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-71-127.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=540 end=370175 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-72-127.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=716 end=372223 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-73-127.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=608 end=371199 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-74-127.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=838 end=368127 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-75-127.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=907 end=370175 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-76-127.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=728 end=371199 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-77-127.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=572 end=371199 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-78-127.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=741 end=370687 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-79-127.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=444 end=372223 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-80-127.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=671 end=371711 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-81-127.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=808 end=370687 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-82-127.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=275 end=369663 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-83-127.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=902 end=372223 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-84-127.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=694 end=371199 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-85-127.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=756 end=372223 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-86-127.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=566 end=371711 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-87-127.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=801 end=371711 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-88-127.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=602 end=371711 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-89-127.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=516 end=370687 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-90-127.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=614 end=371199 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-91-127.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=644 end=371711 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-92-127.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=486 end=371199 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-93-127.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=938 end=371711 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-94-127.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=471 end=371199 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-95-127.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=726 end=370687 sample=../Audio/Play Strangely-SAMPLES/032 Play Strangely-96-127.wav

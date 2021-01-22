@@ -6,7 +6,7 @@
 
 -  ****Info:****  [vintagesynth.com](http://www.vintagesynth.com/kawai/kawaik3.php)
 
-****Audio:**** https://www.dropbox.com/sh/gjy7ppeijgw61bz/AABFRR50ykO7FR-Al2rK5tSma?dl=0
+****Audio:**** https://www.dropbox.com/sh/gjy7ppeijgw61bz/AABFRR50ykO7FR-Al2rK5tSma?dl=0)
 # 
 
   
@@ -34,8 +34,10 @@
 
 The SFZ format is supported by a wide variety of synths and samplers as such, specific loading instructions are not provided. See here for a  [list of compatible instruments.](https://sfzformat.com/software/players/)
 
-# Disks
+# Support this project
+
+[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
 [
-![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
 ](https://gum.co/modularsamples-drives)

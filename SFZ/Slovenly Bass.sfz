@@ -1,0 +1,148 @@
+// this file was generated from Slovenly Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=691 end=76287 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-24-127.wav
+<group> key=25 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=513 end=75775 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-25-127.wav
+<group> key=26 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=934 end=75775 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-26-127.wav
+<group> key=27 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=714 end=81407 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-27-127.wav
+<group> key=28 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=536 end=76799 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-28-127.wav
+<group> key=29 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=572 end=74751 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-29-127.wav
+<group> key=30 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=692 end=79359 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-30-127.wav
+<group> key=31 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=561 end=76287 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-31-127.wav
+<group> key=32 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=681 end=76287 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-32-127.wav
+<group> key=33 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=916 end=86527 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-33-127.wav
+<group> key=34 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=838 end=75775 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-34-127.wav
+<group> key=35 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=879 end=76799 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-35-127.wav
+<group> key=36 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=711 end=76287 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-36-127.wav
+<group> key=37 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=816 end=73727 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-37-127.wav
+<group> key=38 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=639 end=77311 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-38-127.wav
+<group> key=39 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1023 end=74751 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-39-127.wav
+<group> key=40 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=903 end=74239 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-40-127.wav
+<group> key=41 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=816 end=74239 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-41-127.wav
+<group> key=42 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=517 end=74239 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-42-127.wav
+<group> key=43 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=811 end=76287 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-43-127.wav
+<group> key=44 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=700 end=77311 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-44-127.wav
+<group> key=45 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=911 end=76287 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-45-127.wav
+<group> key=46 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=779 end=76287 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-46-127.wav
+<group> key=47 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=720 end=77311 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-47-127.wav
+<group> key=48 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=686 end=82431 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-48-127.wav
+<group> key=49 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=509 end=74751 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-49-127.wav
+<group> key=50 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=679 end=75263 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-50-127.wav
+<group> key=51 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=463 end=73215 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-51-127.wav
+<group> key=52 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=693 end=71679 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-52-127.wav
+<group> key=53 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=687 end=72191 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-53-127.wav
+<group> key=54 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=956 end=72703 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-54-127.wav
+<group> key=55 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=692 end=74239 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-55-127.wav
+<group> key=56 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1040 end=73727 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-56-127.wav
+<group> key=57 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1065 end=72191 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-57-127.wav
+<group> key=58 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=897 end=71679 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-58-127.wav
+<group> key=59 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=912 end=71679 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-59-127.wav
+<group> key=60 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=473 end=72703 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-60-127.wav
+<group> key=61 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=831 end=70655 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-61-127.wav
+<group> key=62 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=647 end=72703 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-62-127.wav
+<group> key=63 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=487 end=70143 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-63-127.wav
+<group> key=64 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=705 end=69631 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-64-127.wav
+<group> key=65 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=648 end=70143 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-65-127.wav
+<group> key=66 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=597 end=70143 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-66-127.wav
+<group> key=67 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=681 end=68095 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-67-127.wav
+<group> key=68 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=840 end=70655 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-68-127.wav
+<group> key=69 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=648 end=66559 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-69-127.wav
+<group> key=70 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=891 end=68607 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-70-127.wav
+<group> key=71 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=651 end=65535 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-71-127.wav
+<group> key=72 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=870 end=66047 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-72-127.wav
+<group> key=73 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=961 end=65535 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-73-127.wav
+<group> key=74 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=446 end=66559 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-74-127.wav
+<group> key=75 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=664 end=65535 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-75-127.wav
+<group> key=76 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=972 end=71167 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-76-127.wav
+<group> key=77 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=604 end=66047 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-77-127.wav
+<group> key=78 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=837 end=58879 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-78-127.wav
+<group> key=79 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=602 end=65023 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-79-127.wav
+<group> key=80 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=702 end=65535 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-80-127.wav
+<group> key=81 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=539 end=63487 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-81-127.wav
+<group> key=82 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=448 end=55807 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-82-127.wav
+<group> key=83 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=698 end=60415 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-83-127.wav
+<group> key=84 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=806 end=60927 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-84-127.wav
+<group> key=85 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=498 end=54271 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-85-127.wav
+<group> key=86 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=464 end=60415 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-86-127.wav
+<group> key=87 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=675 end=56831 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-87-127.wav
+<group> key=88 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=819 end=53759 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-88-127.wav
+<group> key=89 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=535 end=49663 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-89-127.wav
+<group> key=90 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=675 end=40959 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-90-127.wav
+<group> key=91 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=601 end=36863 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-91-127.wav
+<group> key=92 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=508 end=34303 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-92-127.wav
+<group> key=93 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=805 end=31231 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-93-127.wav
+<group> key=94 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=537 end=27135 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-94-127.wav
+<group> key=95 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=762 end=25087 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-95-127.wav
+<group> key=96 group=1 off_by=1 polyphony=1 off_mode=fast  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=850 end=29183 sample=../Audio/Slovenly Bass-SAMPLES/003 Slovenly Bass-96-127.wav

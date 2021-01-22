@@ -1,0 +1,124 @@
+// this file was generated from K3 Fly Trap.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=5587 end=580476 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-36-127.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7731 end=575730 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-37-127.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=5782 end=577774 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-38-127.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6207 end=580829 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-39-127.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6242 end=576282 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-40-127.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=5619 end=580685 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-41-127.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6394 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-42-127.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=5688 end=575224 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-43-127.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6545 end=579413 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-44-127.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=4965 end=577289 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-45-127.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7305 end=579232 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-46-127.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6399 end=577856 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-47-127.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=5660 end=576494 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-48-127.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6383 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-49-127.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=5907 end=573428 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-50-127.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6079 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-51-127.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=5886 end=577416 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-52-127.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6172 end=579388 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-53-127.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6537 end=579371 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-54-127.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6397 end=575253 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-55-127.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=8716 end=577646 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-56-127.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7040 end=578719 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-57-127.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7594 end=579377 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-58-127.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6761 end=575818 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-59-127.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6154 end=579119 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-60-127.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7845 end=576304 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-61-127.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6335 end=577159 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-62-127.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=5798 end=579202 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-63-127.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=5883 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-64-127.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=8041 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-65-127.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7095 end=574159 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-66-127.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7391 end=576673 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-67-127.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=9171 end=577693 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-68-127.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7128 end=574279 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-69-127.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=8097 end=577831 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-70-127.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7583 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-71-127.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7549 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-72-127.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=8554 end=575669 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-73-127.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7507 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-74-127.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6948 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-75-127.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6759 end=576407 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-76-127.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7633 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-77-127.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7890 end=574119 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-78-127.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=8636 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-79-127.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7860 end=573592 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-80-127.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7139 end=576779 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-81-127.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6742 end=575088 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-82-127.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7873 end=576179 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-83-127.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=8046 end=578156 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-84-127.aif
+<group> key=85 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=9161 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-85-127.aif
+<group> key=86 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6522 end=575347 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-86-127.aif
+<group> key=87 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6902 end=574081 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-87-127.aif
+<group> key=88 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7772 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-88-127.aif
+<group> key=89 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=9075 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-89-127.aif
+<group> key=90 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6864 end=576401 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-90-127.aif
+<group> key=91 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7332 end=571990 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-91-127.aif
+<group> key=92 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7769 end=576604 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-92-127.aif
+<group> key=93 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7763 end=576557 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-93-127.aif
+<group> key=94 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=8199 end=576663 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-94-127.aif
+<group> key=95 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7248 end=573886 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-95-127.aif
+<group> key=96 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7851 end=575399 sample=../Audio/K3 Fly Trap/016 K3 Fly Trap-96-127.aif

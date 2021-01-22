@@ -1,0 +1,116 @@
+// this file was generated from Kawai K3 K3 E Piano.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-59-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-59-127.aif
+<group> key=37 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-60-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-60-127.aif
+<group> key=38 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-61-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-61-127.aif
+<group> key=39 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-62-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-62-127.aif
+<group> key=40 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-63-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-63-127.aif
+<group> key=41 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-64-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-64-127.aif
+<group> key=42 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-65-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-65-127.aif
+<group> key=43 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-66-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-66-127.aif
+<group> key=44 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-67-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-67-127.aif
+<group> key=45 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-68-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-68-127.aif
+<group> key=46 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-69-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-69-127.aif
+<group> key=47 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-70-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-70-127.aif
+<group> key=48 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-71-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-71-127.aif
+<group> key=49 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-72-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-72-127.aif
+<group> key=50 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-73-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-73-127.aif
+<group> key=51 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-74-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-74-127.aif
+<group> key=52 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-75-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-75-127.aif
+<group> key=53 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-76-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-76-127.aif
+<group> key=54 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-77-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-77-127.aif
+<group> key=55 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-78-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-78-127.aif
+<group> key=56 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-79-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-79-127.aif
+<group> key=57 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-80-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-80-127.aif
+<group> key=58 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-81-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-81-127.aif
+<group> key=59 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-82-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-82-127.aif
+<group> key=60 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-83-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-83-127.aif
+<group> key=61 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-84-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-84-127.aif
+<group> key=62 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-85-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-85-127.aif
+<group> key=63 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-86-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-86-127.aif
+<group> key=64 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-87-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-87-127.aif
+<group> key=65 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-88-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-88-127.aif
+<group> key=66 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-89-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-89-127.aif
+<group> key=67 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-90-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-90-127.aif
+<group> key=68 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-91-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-91-127.aif
+<group> key=69 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-92-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-92-127.aif
+<group> key=70 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-93-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-93-127.aif
+<group> key=71 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-94-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-94-127.aif
+<group> key=72 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-95-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-95-127.aif
+<group> key=73 
+	<region> lovel=000 hivel=061 amp_velcurve_061=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-96-50.aif
+	<region> lovel=059 hivel=121 amp_velcurve_121=1 sample=../Audio/Kawai K3 K3 E Piano-SAMPLES/K3 E Piano-96-127.aif

@@ -1,0 +1,294 @@
+// this file was generated from Slow Ring.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1280 end=471039 loop_mode=loop_sustain loop_start=340959 loop_end=392164 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-24-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1157 end=471551 loop_mode=loop_sustain loop_start=256643 loop_end=357306 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-24-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=525 end=471039 loop_mode=loop_sustain loop_start=332785 loop_end=383991 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-24-127.wav
+<group> key=25  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1173 end=470015 loop_mode=loop_sustain loop_start=267504 loop_end=341273 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-25-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1464 end=471039 loop_mode=loop_sustain loop_start=199508 loop_end=273315 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-25-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1081 end=471039 loop_mode=loop_sustain loop_start=289818 loop_end=363626 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-25-127.wav
+<group> key=26  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1360 end=471039 loop_mode=loop_sustain loop_start=211748 loop_end=295853 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-26-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=781 end=471039 loop_mode=loop_sustain loop_start=223017 loop_end=307125 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-26-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1094 end=471551 loop_mode=loop_sustain loop_start=202763 loop_end=286858 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-26-127.wav
+<group> key=27  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1066 end=471551 loop_mode=loop_sustain loop_start=266828 loop_end=309885 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-27-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1027 end=471551 loop_mode=loop_sustain loop_start=238160 loop_end=281217 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-27-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1448 end=470527 loop_mode=loop_sustain loop_start=202158 loop_end=245216 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-27-127.wav
+<group> key=28  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1093 end=470015 loop_mode=loop_sustain loop_start=195235 loop_end=244431 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-28-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=975 end=471039 loop_mode=loop_sustain loop_start=213278 loop_end=262473 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-28-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1327 end=470527 loop_mode=loop_sustain loop_start=286419 loop_end=335614 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-28-127.wav
+<group> key=29  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=924 end=470527 loop_mode=loop_sustain loop_start=242285 loop_end=308967 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-29-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=777 end=471039 loop_mode=loop_sustain loop_start=328050 loop_end=394732 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-29-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1523 end=470015 loop_mode=loop_sustain loop_start=209315 loop_end=278016 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-29-127.wav
+<group> key=30  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1008 end=469503 loop_mode=loop_sustain loop_start=241531 loop_end=348356 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-30-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1503 end=470527 loop_mode=loop_sustain loop_start=271146 loop_end=366483 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-30-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1329 end=470015 loop_mode=loop_sustain loop_start=283866 loop_end=390692 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-30-127.wav
+<group> key=31  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1245 end=471039 loop_mode=loop_sustain loop_start=238229 loop_end=319221 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-31-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1190 end=470015 loop_mode=loop_sustain loop_start=256245 loop_end=335439 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-31-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1324 end=470015 loop_mode=loop_sustain loop_start=257560 loop_end=333155 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-31-127.wav
+<group> key=32  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1465 end=471039 loop_mode=loop_sustain loop_start=200895 loop_end=255222 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-32-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=659 end=470527 loop_mode=loop_sustain loop_start=201639 loop_end=255966 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-32-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1162 end=471039 loop_mode=loop_sustain loop_start=334337 loop_end=393758 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-32-127.wav
+<group> key=33  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=663 end=470015 loop_mode=loop_sustain loop_start=322359 loop_end=383250 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-33-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1103 end=472063 loop_mode=loop_sustain loop_start=249435 loop_end=311929 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-33-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=577 end=471551 loop_mode=loop_sustain loop_start=210115 loop_end=272678 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-33-127.wav
+<group> key=34  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1130 end=470527 loop_mode=loop_sustain loop_start=328242 loop_end=391766 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-34-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1190 end=470015 loop_mode=loop_sustain loop_start=274584 loop_end=336595 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-34-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=976 end=471039 loop_mode=loop_sustain loop_start=333650 loop_end=397174 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-34-127.wav
+<group> key=35  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1169 end=470015 loop_mode=loop_sustain loop_start=192728 loop_end=239838 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-35-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=809 end=469503 loop_mode=loop_sustain loop_start=347779 loop_end=393461 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-35-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1400 end=470527 loop_mode=loop_sustain loop_start=337579 loop_end=386116 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-35-127.wav
+<group> key=36  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1091 end=471039 loop_mode=loop_sustain loop_start=257503 loop_end=338411 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-36-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1291 end=470527 loop_mode=loop_sustain loop_start=201098 loop_end=256403 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-36-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=934 end=470015 loop_mode=loop_sustain loop_start=191362 loop_end=245319 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-36-127.wav
+<group> key=37  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=734 end=470015 loop_mode=loop_sustain loop_start=318866 loop_end=359565 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-37-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=681 end=470527 loop_mode=loop_sustain loop_start=287319 loop_end=328016 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-37-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1276 end=470015 loop_mode=loop_sustain loop_start=302872 loop_end=343571 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-37-127.wav
+<group> key=38  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1070 end=470527 loop_mode=loop_sustain loop_start=193847 loop_end=257538 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-38-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=993 end=470527 loop_mode=loop_sustain loop_start=254173 loop_end=316665 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-38-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=823 end=471551 loop_mode=loop_sustain loop_start=193814 loop_end=257493 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-38-127.wav
+<group> key=39  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=844 end=470015 loop_mode=loop_sustain loop_start=194611 loop_end=249051 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-39-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=904 end=470015 loop_mode=loop_sustain loop_start=216614 loop_end=257405 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-39-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1014 end=471551 loop_mode=loop_sustain loop_start=333438 loop_end=395809 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-39-127.wav
+<group> key=40  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1236 end=470015 loop_mode=loop_sustain loop_start=196114 loop_end=245367 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-40-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1052 end=470015 loop_mode=loop_sustain loop_start=315776 loop_end=365032 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-40-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1076 end=469503 loop_mode=loop_sustain loop_start=194292 loop_end=241398 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-40-127.wav
+<group> key=41  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=928 end=468991 loop_mode=loop_sustain loop_start=229307 loop_end=303054 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-41-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1043 end=470015 loop_mode=loop_sustain loop_start=264318 loop_end=338066 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-41-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1113 end=470015 loop_mode=loop_sustain loop_start=306216 loop_end=380470 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-41-127.wav
+<group> key=42  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=748 end=468991 loop_mode=loop_sustain loop_start=283611 loop_end=326540 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-42-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=992 end=468991 loop_mode=loop_sustain loop_start=340853 loop_end=382831 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-42-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1046 end=470015 loop_mode=loop_sustain loop_start=321850 loop_end=376215 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-42-127.wav
+<group> key=43  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1121 end=469503 loop_mode=loop_sustain loop_start=289507 loop_end=341717 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-43-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1281 end=469503 loop_mode=loop_sustain loop_start=305084 loop_end=350101 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-43-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1428 end=469503 loop_mode=loop_sustain loop_start=304846 loop_end=356159 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-43-127.wav
+<group> key=44  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1270 end=468991 loop_mode=loop_sustain loop_start=225143 loop_end=270176 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-44-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1195 end=470015 loop_mode=loop_sustain loop_start=195839 loop_end=248514 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-44-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1150 end=470015 loop_mode=loop_sustain loop_start=196199 loop_end=395892 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-44-127.wav
+<group> key=45  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=859 end=469503 loop_mode=loop_sustain loop_start=268725 loop_end=385017 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-45-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1079 end=469503 loop_mode=loop_sustain loop_start=190323 loop_end=390823 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-45-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1025 end=470015 loop_mode=loop_sustain loop_start=190763 loop_end=391264 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-45-127.wav
+<group> key=46  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1481 end=468479 loop_mode=loop_sustain loop_start=192538 loop_end=385567 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-46-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=891 end=468991 loop_mode=loop_sustain loop_start=242287 loop_end=342153 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-46-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=969 end=469503 loop_mode=loop_sustain loop_start=303851 loop_end=353806 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-46-127.wav
+<group> key=47  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1384 end=468991 loop_mode=loop_sustain loop_start=197399 loop_end=390302 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-47-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=966 end=468991 loop_mode=loop_sustain loop_start=196121 loop_end=389025 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-47-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1606 end=469503 loop_mode=loop_sustain loop_start=193734 loop_end=393062 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-47-127.wav
+<group> key=48  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=719 end=468991 loop_mode=loop_sustain loop_start=201622 loop_end=393805 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-48-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1000 end=468991 loop_mode=loop_sustain loop_start=205337 loop_end=396846 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-48-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1213 end=470015 loop_mode=loop_sustain loop_start=191012 loop_end=383869 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-48-127.wav
+<group> key=49  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1157 end=468479 loop_mode=loop_sustain loop_start=217310 loop_end=394891 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-49-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=718 end=468991 loop_mode=loop_sustain loop_start=203140 loop_end=381992 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-49-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1204 end=470015 loop_mode=loop_sustain loop_start=217239 loop_end=394184 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-49-127.wav
+<group> key=50  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1243 end=468991 loop_mode=loop_sustain loop_start=231555 loop_end=394366 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-50-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=645 end=468479 loop_mode=loop_sustain loop_start=198954 loop_end=362365 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-50-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=886 end=469503 loop_mode=loop_sustain loop_start=228481 loop_end=392793 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-50-127.wav
+<group> key=51  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1085 end=467967 loop_mode=loop_sustain loop_start=239382 loop_end=395888 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-51-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1088 end=468479 loop_mode=loop_sustain loop_start=191721 loop_end=348794 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-51-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1069 end=470527 loop_mode=loop_sustain loop_start=227318 loop_end=384674 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-51-127.wav
+<group> key=52  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1025 end=467455 loop_mode=loop_sustain loop_start=227363 loop_end=379898 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-52-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1343 end=467967 loop_mode=loop_sustain loop_start=233307 loop_end=385842 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-52-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1068 end=469503 loop_mode=loop_sustain loop_start=244651 loop_end=396116 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-52-127.wav
+<group> key=53  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1365 end=467455 loop_mode=loop_sustain loop_start=201786 loop_end=339198 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-53-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1410 end=467455 loop_mode=loop_sustain loop_start=256449 loop_end=395880 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-53-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1232 end=468479 loop_mode=loop_sustain loop_start=257626 loop_end=395543 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-53-127.wav
+<group> key=54  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1121 end=467967 loop_mode=loop_sustain loop_start=253380 loop_end=385462 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-54-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1062 end=467455 loop_mode=loop_sustain loop_start=263872 loop_end=397384 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-54-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1216 end=468991 loop_mode=loop_sustain loop_start=195432 loop_end=328944 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-54-127.wav
+<group> key=55  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1606 end=467967 loop_mode=loop_sustain loop_start=250401 loop_end=378218 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-55-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1319 end=467455 loop_mode=loop_sustain loop_start=237350 loop_end=365166 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-55-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1400 end=469503 loop_mode=loop_sustain loop_start=251303 loop_end=378670 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-55-127.wav
+<group> key=56  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1058 end=467967 loop_mode=loop_sustain loop_start=194420 loop_end=310817 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-56-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1003 end=467967 loop_mode=loop_sustain loop_start=238052 loop_end=356147 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-56-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=929 end=468991 loop_mode=loop_sustain loop_start=251289 loop_end=364716 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-56-127.wav
+<group> key=57  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1265 end=468991 loop_mode=loop_sustain loop_start=224643 loop_end=336511 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-57-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1097 end=468991 loop_mode=loop_sustain loop_start=269350 loop_end=382821 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-57-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=771 end=470015 loop_mode=loop_sustain loop_start=214908 loop_end=326376 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-57-127.wav
+<group> key=58  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1378 end=467967 loop_mode=loop_sustain loop_start=270492 loop_end=377594 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-58-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1057 end=468479 loop_mode=loop_sustain loop_start=191275 loop_end=297243 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-58-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1137 end=468991 loop_mode=loop_sustain loop_start=204886 loop_end=310854 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-58-127.wav
+<group> key=59  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1508 end=468991 loop_mode=loop_sustain loop_start=249516 loop_end=350964 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-59-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1395 end=467967 loop_mode=loop_sustain loop_start=204187 loop_end=304207 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-59-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=775 end=469503 loop_mode=loop_sustain loop_start=233060 loop_end=329154 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-59-127.wav
+<group> key=60  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1272 end=468479 loop_mode=loop_sustain loop_start=199459 loop_end=385577 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-60-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1004 end=467967 loop_mode=loop_sustain loop_start=240342 loop_end=333064 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-60-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1178 end=468991 loop_mode=loop_sustain loop_start=233093 loop_end=329015 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-60-127.wav
+<group> key=61  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1499 end=467455 loop_mode=loop_sustain loop_start=240271 loop_end=329061 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-61-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1137 end=468479 loop_mode=loop_sustain loop_start=223252 loop_end=397334 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-61-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1404 end=469503 loop_mode=loop_sustain loop_start=203775 loop_end=379766 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-61-127.wav
+<group> key=62  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1313 end=467967 loop_mode=loop_sustain loop_start=304842 loop_end=387748 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-62-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1349 end=468479 loop_mode=loop_sustain loop_start=232987 loop_end=316193 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-62-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1137 end=469503 loop_mode=loop_sustain loop_start=247374 loop_end=329680 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-62-127.wav
+<group> key=63  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1241 end=468479 loop_mode=loop_sustain loop_start=252881 loop_end=333400 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-63-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1261 end=468479 loop_mode=loop_sustain loop_start=225034 loop_end=304986 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-63-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=708 end=470015 loop_mode=loop_sustain loop_start=212994 loop_end=370634 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-63-127.wav
+<group> key=64  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1277 end=466431 loop_mode=loop_sustain loop_start=241063 loop_end=315726 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-64-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1719 end=467455 loop_mode=loop_sustain loop_start=242594 loop_end=316454 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-64-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1874 end=468479 loop_mode=loop_sustain loop_start=238174 loop_end=386966 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-64-127.wav
+<group> key=65  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1667 end=466431 loop_mode=loop_sustain loop_start=304793 loop_end=375013 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-65-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1395 end=466431 loop_mode=loop_sustain loop_start=326913 loop_end=396628 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-65-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1615 end=468479 loop_mode=loop_sustain loop_start=198815 loop_end=269792 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-65-127.wav
+<group> key=66  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1733 end=467455 loop_mode=loop_sustain loop_start=252977 loop_end=319970 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-66-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1561 end=465919 loop_mode=loop_sustain loop_start=257992 loop_end=324032 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-66-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1390 end=467967 loop_mode=loop_sustain loop_start=237250 loop_end=303529 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-66-127.wav
+<group> key=67  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1676 end=467455 loop_mode=loop_sustain loop_start=262832 loop_end=325390 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-67-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1739 end=466943 loop_mode=loop_sustain loop_start=193252 loop_end=255361 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-67-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1394 end=467455 loop_mode=loop_sustain loop_start=313859 loop_end=375968 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-67-127.wav
+<group> key=68  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1637 end=467967 loop_mode=loop_sustain loop_start=338440 loop_end=397275 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-68-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1210 end=466943 loop_mode=loop_sustain loop_start=336207 loop_end=395679 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-68-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1646 end=468991 loop_mode=loop_sustain loop_start=268016 loop_end=386324 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-68-127.wav
+<group> key=69  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1204 end=468479 loop_mode=loop_sustain loop_start=317394 loop_end=372526 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-69-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1226 end=468479 loop_mode=loop_sustain loop_start=335186 loop_end=390318 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-69-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1425 end=468991 loop_mode=loop_sustain loop_start=331619 loop_end=387953 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-69-127.wav
+<group> key=70  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1264 end=467967 loop_mode=loop_sustain loop_start=252357 loop_end=306098 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-70-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1473 end=467967 loop_mode=loop_sustain loop_start=254754 loop_end=307926 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-70-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1906 end=468991 loop_mode=loop_sustain loop_start=201562 loop_end=253789 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-70-127.wav
+<group> key=71  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1449 end=467455 loop_mode=loop_sustain loop_start=218655 loop_end=268665 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-71-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1981 end=529919 loop_mode=loop_sustain loop_start=263218 loop_end=313406 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-71-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1278 end=468479 loop_mode=loop_sustain loop_start=191229 loop_end=241060 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-71-127.wav
+<group> key=72  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1819 end=467967 loop_mode=loop_sustain loop_start=200251 loop_end=247454 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-72-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1454 end=466943 loop_mode=loop_sustain loop_start=208840 loop_end=255706 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-72-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1761 end=468991 loop_mode=loop_sustain loop_start=203265 loop_end=249794 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-72-127.wav
+<group> key=73  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=2221 end=467455 loop_mode=loop_sustain loop_start=304510 loop_end=349382 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-73-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1742 end=467967 loop_mode=loop_sustain loop_start=328406 loop_end=371846 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-73-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1762 end=467967 loop_mode=loop_sustain loop_start=313636 loop_end=358348 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-73-127.wav
+<group> key=74  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1825 end=467455 loop_mode=loop_sustain loop_start=324508 loop_end=367312 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-74-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1550 end=466943 loop_mode=loop_sustain loop_start=318956 loop_end=360859 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-74-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1385 end=467967 loop_mode=loop_sustain loop_start=195980 loop_end=238783 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-74-127.wav
+<group> key=75  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1814 end=467455 loop_mode=loop_sustain loop_start=206260 loop_end=363333 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-75-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1440 end=466943 loop_mode=loop_sustain loop_start=190750 loop_end=386949 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-75-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1505 end=467967 loop_mode=loop_sustain loop_start=216491 loop_end=372714 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-75-127.wav
+<group> key=76  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1950 end=466943 loop_mode=loop_sustain loop_start=201625 loop_end=387748 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-76-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1682 end=466943 loop_mode=loop_sustain loop_start=304355 loop_end=378750 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-76-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1820 end=466431 loop_mode=loop_sustain loop_start=322117 loop_end=396646 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-76-127.wav
+<group> key=77  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1958 end=467455 loop_mode=loop_sustain loop_start=220653 loop_end=395951 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-77-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1651 end=466943 loop_mode=loop_sustain loop_start=314097 loop_end=383938 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-77-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1606 end=466943 loop_mode=loop_sustain loop_start=323267 loop_end=393613 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-77-127.wav
+<group> key=78  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1675 end=467455 loop_mode=loop_sustain loop_start=194131 loop_end=260529 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-78-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=2337 end=467455 loop_mode=loop_sustain loop_start=247534 loop_end=312859 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-78-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1559 end=467455 loop_mode=loop_sustain loop_start=316826 loop_end=382509 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-78-127.wav
+<group> key=79  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=2024 end=466943 loop_mode=loop_sustain loop_start=331043 loop_end=393433 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-79-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1807 end=466943 loop_mode=loop_sustain loop_start=254004 loop_end=316506 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-79-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1876 end=466431 loop_mode=loop_sustain loop_start=230473 loop_end=386309 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-79-127.wav
+<group> key=80  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=2256 end=466431 loop_mode=loop_sustain loop_start=261493 loop_end=321602 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-80-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1823 end=466431 loop_mode=loop_sustain loop_start=305961 loop_end=365858 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-80-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1637 end=466943 loop_mode=loop_sustain loop_start=253594 loop_end=312748 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-80-127.wav
+<group> key=81  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1620 end=466431 loop_mode=loop_sustain loop_start=192201 loop_end=385767 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-81-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1637 end=466431 loop_mode=loop_sustain loop_start=263895 loop_end=319127 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-81-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2036 end=466943 loop_mode=loop_sustain loop_start=338294 loop_end=393827 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-81-127.wav
+<group> key=82  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=2162 end=466431 loop_mode=loop_sustain loop_start=205257 loop_end=257484 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-82-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1722 end=465919 loop_mode=loop_sustain loop_start=236184 loop_end=392961 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-82-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1927 end=465919 loop_mode=loop_sustain loop_start=316451 loop_end=368678 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-82-127.wav
+<group> key=83  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=2080 end=466431 loop_mode=loop_sustain loop_start=253754 loop_end=304389 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-83-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1850 end=465407 loop_mode=loop_sustain loop_start=224321 loop_end=372388 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-83-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2072 end=467967 loop_mode=loop_sustain loop_start=195368 loop_end=393714 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-83-127.wav
+<group> key=84  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=1961 end=465919 loop_mode=loop_sustain loop_start=306871 loop_end=353484 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-84-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=2358 end=465919 loop_mode=loop_sustain loop_start=195931 loop_end=242881 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-84-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1548 end=465919 loop_mode=loop_sustain loop_start=263422 loop_end=310372 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-84-127.wav
+<group> key=85  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=2224 end=465919 loop_mode=loop_sustain loop_start=203658 loop_end=247973 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-85-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=2020 end=465919 loop_mode=loop_sustain loop_start=196830 loop_end=241145 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-85-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2150 end=465407 loop_mode=loop_sustain loop_start=215182 loop_end=259338 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-85-127.wav
+<group> key=86  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=2414 end=465919 loop_mode=loop_sustain loop_start=207825 loop_end=395790 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-86-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=2319 end=466431 loop_mode=loop_sustain loop_start=210248 loop_end=396562 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-86-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1828 end=466431 loop_mode=loop_sustain loop_start=202629 loop_end=389168 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-86-127.wav
+<group> key=87  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=2209 end=466431 loop_mode=loop_sustain loop_start=336553 loop_end=395313 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-87-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=1896 end=466943 loop_mode=loop_sustain loop_start=338542 loop_end=397302 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-87-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2244 end=466943 loop_mode=loop_sustain loop_start=255462 loop_end=313939 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-87-127.wav
+<group> key=88  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=2223 end=465919 loop_mode=loop_sustain loop_start=323289 loop_end=396681 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-88-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=2320 end=466431 loop_mode=loop_sustain loop_start=198658 loop_end=254120 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-88-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2702 end=466431 loop_mode=loop_sustain loop_start=192783 loop_end=377971 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-88-127.wav
+<group> key=89  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=2199 end=464895 loop_mode=loop_sustain loop_start=340390 loop_end=393623 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-89-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=2204 end=465407 loop_mode=loop_sustain loop_start=325884 loop_end=378675 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-89-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2188 end=465407 loop_mode=loop_sustain loop_start=335247 loop_end=387533 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-89-127.wav
+<group> key=90  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=2093 end=464383 loop_mode=loop_sustain loop_start=340482 loop_end=389714 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-90-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=2031 end=466431 loop_mode=loop_sustain loop_start=230490 loop_end=395294 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-90-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1949 end=465407 loop_mode=loop_sustain loop_start=195051 loop_end=393174 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-90-127.wav
+<group> key=91  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=2309 end=464383 loop_mode=loop_sustain loop_start=332396 loop_end=379990 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-91-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=2545 end=504319 loop_mode=loop_sustain loop_start=240399 loop_end=396122 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-91-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2392 end=465407 loop_mode=loop_sustain loop_start=226991 loop_end=382602 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-91-127.wav
+<group> key=92  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=2555 end=564223 loop_mode=loop_sustain loop_start=350757 loop_end=396370 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-92-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=2242 end=464383 loop_mode=loop_sustain loop_start=340277 loop_end=384881 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-92-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2674 end=465407 loop_mode=loop_sustain loop_start=193084 loop_end=237104 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-92-127.wav
+<group> key=93  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=2028 end=465919 loop_mode=loop_sustain loop_start=191377 loop_end=234079 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-93-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=2156 end=465407 loop_mode=loop_sustain loop_start=204984 loop_end=246884 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-93-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1996 end=466943 loop_mode=loop_sustain loop_start=195462 loop_end=237362 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-93-127.wav
+<group> key=94  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=2593 end=462847 loop_mode=loop_sustain loop_start=318259 loop_end=395701 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-94-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=2480 end=464383 loop_mode=loop_sustain loop_start=201351 loop_end=397630 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-94-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2104 end=464895 loop_mode=loop_sustain loop_start=261162 loop_end=378958 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-94-127.wav
+<group> key=95  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=2307 end=461823 loop_mode=loop_sustain loop_start=316790 loop_end=366041 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-95-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=2582 end=464895 loop_mode=loop_sustain loop_start=192959 loop_end=378534 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-95-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1972 end=464895 loop_mode=loop_sustain loop_start=200784 loop_end=386047 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-95-127.wav
+<group> key=96  
+	<region> lovel=000 hivel=058 amp_velcurve_058=1 offset=2068 end=461823 loop_mode=loop_sustain loop_start=238871 loop_end=392030 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-96-42.wav
+	<region> lovel=027 hivel=101 amp_velcurve_101=1 offset=2533 end=463871 loop_mode=loop_sustain loop_start=257414 loop_end=338545 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-96-85.wav
+	<region> lovel=070 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2276 end=465407 loop_mode=loop_sustain loop_start=302549 loop_end=395734 sample=../Audio/Slow Ring-SAMPLES/004 Slow Ring-96-127.wav

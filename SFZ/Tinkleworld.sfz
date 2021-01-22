@@ -1,0 +1,148 @@
+// this file was generated from Tinkleworld.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=954 end=374783 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-24-127.wav
+<group> key=25  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=555 end=374271 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-25-127.wav
+<group> key=26  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=782 end=373759 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-26-127.wav
+<group> key=27  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=657 end=374271 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-27-127.wav
+<group> key=28  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=534 end=374271 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-28-127.wav
+<group> key=29  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=755 end=373759 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-29-127.wav
+<group> key=30  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=728 end=374783 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-30-127.wav
+<group> key=31  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=765 end=374271 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-31-127.wav
+<group> key=32  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=495 end=374271 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-32-127.wav
+<group> key=33  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=699 end=374783 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-33-127.wav
+<group> key=34  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=647 end=374783 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-34-127.wav
+<group> key=35  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=624 end=374271 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-35-127.wav
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=696 end=375295 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-36-127.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=735 end=374783 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-37-127.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=722 end=374783 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-38-127.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=430 end=375807 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-39-127.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=554 end=375295 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-40-127.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=641 end=375807 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-41-127.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=866 end=376831 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-42-127.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=836 end=375807 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-43-127.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=771 end=376319 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-44-127.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=825 end=380927 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-45-127.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=985 end=379391 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-46-127.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=782 end=378879 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-47-127.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=703 end=379903 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-48-127.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=484 end=379391 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-49-127.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=847 end=380415 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-50-127.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=481 end=380927 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-51-127.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=653 end=380415 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-52-127.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=627 end=380415 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-53-127.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=925 end=381439 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-54-127.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=461 end=380927 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-55-127.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=547 end=381439 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-56-127.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=906 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-57-127.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=706 end=381439 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-58-127.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=600 end=381439 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-59-127.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=624 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-60-127.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=500 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-61-127.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=704 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-62-127.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=652 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-63-127.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=641 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-64-127.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=489 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-65-127.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=888 end=382975 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-66-127.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=454 end=381439 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-67-127.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=669 end=382463 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-68-127.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=830 end=382975 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-69-127.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=728 end=382463 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-70-127.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=880 end=382463 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-71-127.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=736 end=382975 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-72-127.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=732 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-73-127.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=410 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-74-127.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=999 end=382975 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-75-127.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=503 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-76-127.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=537 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-77-127.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=624 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-78-127.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=452 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-79-127.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=746 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-80-127.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=930 end=382463 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-81-127.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=820 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-82-127.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=965 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-83-127.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=678 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-84-127.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=918 end=382463 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-85-127.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=798 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-86-127.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=978 end=382975 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-87-127.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=773 end=381439 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-88-127.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=599 end=381439 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-89-127.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=918 end=382975 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-90-127.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=937 end=382463 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-91-127.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=798 end=381951 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-92-127.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=571 end=382975 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-93-127.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=811 end=382463 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-94-127.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=800 end=382463 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-95-127.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=800 end=382463 sample=../Audio/Tinkleworld-SAMPLES/043 Tinkleworld-96-127.wav

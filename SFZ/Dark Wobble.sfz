@@ -1,0 +1,148 @@
+// this file was generated from Dark Wobble.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1290 end=461823 loop_mode=loop_sustain loop_start=248207 loop_end=291212 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-24-127.wav
+<group> key=25  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1181 end=461823 loop_mode=loop_sustain loop_start=353581 loop_end=396392 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-25-127.wav
+<group> key=26  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1328 end=462335 loop_mode=loop_sustain loop_start=356228 loop_end=391843 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-26-127.wav
+<group> key=27  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1050 end=461823 loop_mode=loop_sustain loop_start=222364 loop_end=269426 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-27-127.wav
+<group> key=28  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1163 end=462335 loop_mode=loop_sustain loop_start=242540 loop_end=280636 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-28-127.wav
+<group> key=29  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1156 end=463871 loop_mode=loop_sustain loop_start=262258 loop_end=302212 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-29-127.wav
+<group> key=30  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1280 end=462335 loop_mode=loop_sustain loop_start=300509 loop_end=347659 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-30-127.wav
+<group> key=31  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1250 end=464895 loop_mode=loop_sustain loop_start=345821 loop_end=386761 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-31-127.wav
+<group> key=32  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1168 end=464383 loop_mode=loop_sustain loop_start=315218 loop_end=352131 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-32-127.wav
+<group> key=33  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1354 end=464895 loop_mode=loop_sustain loop_start=223155 loop_end=329433 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-33-127.wav
+<group> key=34  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1172 end=463359 loop_mode=loop_sustain loop_start=228804 loop_end=266195 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-34-127.wav
+<group> key=35  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1249 end=462847 loop_mode=loop_sustain loop_start=226302 loop_end=267266 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-35-127.wav
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1341 end=462847 loop_mode=loop_sustain loop_start=352735 loop_end=395717 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-36-127.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=914 end=461823 loop_mode=loop_sustain loop_start=311047 loop_end=353857 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-37-127.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=722 end=460799 loop_mode=loop_sustain loop_start=364196 loop_end=399825 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-38-127.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1182 end=463359 loop_mode=loop_sustain loop_start=353872 loop_end=400986 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-39-127.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1318 end=462847 loop_mode=loop_sustain loop_start=248026 loop_end=311502 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-40-127.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1297 end=463871 loop_mode=loop_sustain loop_start=222094 loop_end=258012 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-41-127.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1405 end=463871 loop_mode=loop_sustain loop_start=227234 loop_end=298884 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-42-127.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1623 end=463871 loop_mode=loop_sustain loop_start=221344 loop_end=269350 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-43-127.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1379 end=463871 loop_mode=loop_sustain loop_start=226945 loop_end=268931 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-44-127.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=950 end=464383 loop_mode=loop_sustain loop_start=362517 loop_end=400579 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-45-127.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1197 end=463871 loop_mode=loop_sustain loop_start=237334 loop_end=276249 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-46-127.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1040 end=463359 loop_mode=loop_sustain loop_start=360966 loop_end=401929 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-47-127.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1404 end=463359 loop_mode=loop_sustain loop_start=268107 loop_end=310749 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-48-127.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1432 end=462335 loop_mode=loop_sustain loop_start=221709 loop_end=261985 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-49-127.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1403 end=462847 loop_mode=loop_sustain loop_start=311791 loop_end=364041 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-50-127.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1360 end=463359 loop_mode=loop_sustain loop_start=331919 loop_end=373395 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-51-127.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1148 end=462847 loop_mode=loop_sustain loop_start=249267 loop_end=311682 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-52-127.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1208 end=462847 loop_mode=loop_sustain loop_start=330872 loop_end=382795 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-53-127.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=823 end=461311 loop_mode=loop_sustain loop_start=351655 loop_end=394062 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-54-127.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1185 end=461311 loop_mode=loop_sustain loop_start=360731 loop_end=402546 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-55-127.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1179 end=462335 loop_mode=loop_sustain loop_start=343499 loop_end=385478 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-56-127.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1170 end=462847 loop_mode=loop_sustain loop_start=266529 loop_end=401931 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-57-127.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1112 end=462847 loop_mode=loop_sustain loop_start=228275 loop_end=291119 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-58-127.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1239 end=462847 loop_mode=loop_sustain loop_start=332696 loop_end=395545 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-59-127.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1030 end=461311 loop_mode=loop_sustain loop_start=228432 loop_end=291083 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-60-127.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1313 end=463359 loop_mode=loop_sustain loop_start=260340 loop_end=323120 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-61-127.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1329 end=461311 loop_mode=loop_sustain loop_start=270954 loop_end=333295 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-62-127.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1035 end=462847 loop_mode=loop_sustain loop_start=228147 loop_end=353577 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-63-127.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1185 end=461311 loop_mode=loop_sustain loop_start=220888 loop_end=283311 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-64-127.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1385 end=461311 loop_mode=loop_sustain loop_start=280637 loop_end=343573 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-65-127.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1463 end=461823 loop_mode=loop_sustain loop_start=325117 loop_end=387800 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-66-127.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1603 end=462847 loop_mode=loop_sustain loop_start=331698 loop_end=394420 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-67-127.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1540 end=460799 loop_mode=loop_sustain loop_start=311344 loop_end=373903 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-68-127.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1214 end=460799 loop_mode=loop_sustain loop_start=326106 loop_end=367797 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-69-127.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1016 end=462335 loop_mode=loop_sustain loop_start=300508 loop_end=384221 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-70-127.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1139 end=457727 loop_mode=loop_sustain loop_start=299579 loop_end=362076 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-71-127.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1454 end=462847 loop_mode=loop_sustain loop_start=301753 loop_end=343708 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-72-127.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1714 end=463359 loop_mode=loop_sustain loop_start=244424 loop_end=307020 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-73-127.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1060 end=460799 loop_mode=loop_sustain loop_start=248901 loop_end=311597 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-74-127.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=836 end=462335 loop_mode=loop_sustain loop_start=236757 loop_end=393428 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-75-127.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1580 end=457727 loop_mode=loop_sustain loop_start=290425 loop_end=332472 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-76-127.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=785 end=464383 loop_mode=loop_sustain loop_start=278660 loop_end=341571 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-77-127.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=901 end=457727 loop_mode=loop_sustain loop_start=247095 loop_end=373147 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-78-127.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1022 end=457727 loop_mode=loop_sustain loop_start=237314 loop_end=363187 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-79-127.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=738 end=462847 loop_mode=loop_sustain loop_start=279393 loop_end=394337 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-80-127.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1047 end=457727 loop_mode=loop_sustain loop_start=238126 loop_end=352856 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-81-127.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=914 end=458239 loop_mode=loop_sustain loop_start=279825 loop_end=384129 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-82-127.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1524 end=458239 loop_mode=loop_sustain loop_start=249489 loop_end=364276 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-83-127.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1042 end=457215 loop_mode=loop_sustain loop_start=248960 loop_end=311584 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-84-127.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1133 end=458239 loop_mode=loop_sustain loop_start=228778 loop_end=312438 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-85-127.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1448 end=457727 loop_mode=loop_sustain loop_start=312750 loop_end=375517 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-86-127.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1073 end=457727 loop_mode=loop_sustain loop_start=228591 loop_end=291190 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-87-127.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1487 end=457727 loop_mode=loop_sustain loop_start=248715 loop_end=395107 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-88-127.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1232 end=458239 loop_mode=loop_sustain loop_start=260541 loop_end=323069 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-89-127.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1123 end=458751 loop_mode=loop_sustain loop_start=332816 loop_end=395374 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-90-127.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1188 end=457727 loop_mode=loop_sustain loop_start=247357 loop_end=310186 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-91-127.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1171 end=458239 loop_mode=loop_sustain loop_start=331301 loop_end=393760 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-92-127.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1074 end=458239 loop_mode=loop_sustain loop_start=332895 loop_end=395608 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-93-127.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1487 end=458239 loop_mode=loop_sustain loop_start=237471 loop_end=394195 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-94-127.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1569 end=458751 loop_mode=loop_sustain loop_start=248221 loop_end=342216 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-95-127.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1412 end=458239 loop_mode=loop_sustain loop_start=352782 loop_end=394443 sample=../Audio/Dark Wobble-SAMPLES/030 Dark Wobble-96-127.wav

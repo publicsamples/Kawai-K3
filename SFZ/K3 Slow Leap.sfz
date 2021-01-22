@@ -1,0 +1,124 @@
+// this file was generated from K3 Slow Leap.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1435 end=600975 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-36-127.aif
+<group> key=37 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1587 end=604138 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-37-127.aif
+<group> key=38 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1027 end=608010 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-38-127.aif
+<group> key=39 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1327 end=606500 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-39-127.aif
+<group> key=40 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=946 end=608455 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-40-127.aif
+<group> key=41 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1462 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-41-127.aif
+<group> key=42 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1530 end=603264 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-42-127.aif
+<group> key=43 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1443 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-43-127.aif
+<group> key=44 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1015 end=607396 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-44-127.aif
+<group> key=45 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1392 end=607384 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-45-127.aif
+<group> key=46 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=965 end=603316 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-46-127.aif
+<group> key=47 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1306 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-47-127.aif
+<group> key=48 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1543 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-48-127.aif
+<group> key=49 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1222 end=602310 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-49-127.aif
+<group> key=50 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1000 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-50-127.aif
+<group> key=51 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1102 end=605903 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-51-127.aif
+<group> key=52 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=940 end=600453 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-52-127.aif
+<group> key=53 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1257 end=608927 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-53-127.aif
+<group> key=54 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1341 end=608530 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-54-127.aif
+<group> key=55 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1492 end=604420 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-55-127.aif
+<group> key=56 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=857 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-56-127.aif
+<group> key=57 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1126 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-57-127.aif
+<group> key=58 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1291 end=603202 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-58-127.aif
+<group> key=59 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1307 end=603655 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-59-127.aif
+<group> key=60 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1617 end=604691 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-60-127.aif
+<group> key=61 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1464 end=605452 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-61-127.aif
+<group> key=62 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1208 end=608920 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-62-127.aif
+<group> key=63 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1122 end=608696 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-63-127.aif
+<group> key=64 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1036 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-64-127.aif
+<group> key=65 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=935 end=606998 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-65-127.aif
+<group> key=66 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1824 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-66-127.aif
+<group> key=67 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1767 end=608314 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-67-127.aif
+<group> key=68 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1170 end=610737 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-68-127.aif
+<group> key=69 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1583 end=611281 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-69-127.aif
+<group> key=70 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1801 end=604419 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-70-127.aif
+<group> key=71 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1828 end=605328 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-71-127.aif
+<group> key=72 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2191 end=605302 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-72-127.aif
+<group> key=73 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1837 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-73-127.aif
+<group> key=74 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1806 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-74-127.aif
+<group> key=75 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2969 end=614420 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-75-127.aif
+<group> key=76 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2513 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-76-127.aif
+<group> key=77 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2583 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-77-127.aif
+<group> key=78 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=3874 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-78-127.aif
+<group> key=79 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=3218 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-79-127.aif
+<group> key=80 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=3240 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-80-127.aif
+<group> key=81 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=4207 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-81-127.aif
+<group> key=82 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=4954 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-82-127.aif
+<group> key=83 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=5580 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-83-127.aif
+<group> key=84 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=5831 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-84-127.aif
+<group> key=85 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=5376 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-85-127.aif
+<group> key=86 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6607 end=609995 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-86-127.aif
+<group> key=87 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6866 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-87-127.aif
+<group> key=88 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=6082 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-88-127.aif
+<group> key=89 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=7694 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-89-127.aif
+<group> key=90 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=8227 end=601710 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-90-127.aif
+<group> key=91 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=8172 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-91-127.aif
+<group> key=92 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=8443 end=599897 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-92-127.aif
+<group> key=93 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=10112 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-93-127.aif
+<group> key=94 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=10939 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-94-127.aif
+<group> key=95 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=10305 end=594160 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-95-127.aif
+<group> key=96 
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=10827 sample=../Audio/K3 Slow Leap/010 K3 Slow Leap-96-127.aif

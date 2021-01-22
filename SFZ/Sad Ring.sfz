@@ -1,0 +1,148 @@
+// this file was generated from Sad Ring.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2331 end=455167 loop_mode=loop_sustain loop_start=230907 loop_end=383704 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-24-127.wav
+<group> key=25  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2000 end=456703 loop_mode=loop_sustain loop_start=285712 loop_end=385009 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-25-127.wav
+<group> key=26  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1616 end=456191 loop_mode=loop_sustain loop_start=281640 loop_end=336906 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-26-127.wav
+<group> key=27  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1638 end=456703 loop_mode=loop_sustain loop_start=339008 loop_end=402514 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-27-127.wav
+<group> key=28  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1606 end=457215 loop_mode=loop_sustain loop_start=224330 loop_end=389171 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-28-127.wav
+<group> key=29  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2051 end=457727 loop_mode=loop_sustain loop_start=286451 loop_end=363238 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-29-127.wav
+<group> key=30  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1769 end=456703 loop_mode=loop_sustain loop_start=225896 loop_end=281202 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-30-127.wav
+<group> key=31  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1463 end=457215 loop_mode=loop_sustain loop_start=232464 loop_end=396282 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-31-127.wav
+<group> key=32  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1970 end=457215 loop_mode=loop_sustain loop_start=242365 loop_end=397000 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-32-127.wav
+<group> key=33  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1813 end=458751 loop_mode=loop_sustain loop_start=257008 loop_end=390106 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-33-127.wav
+<group> key=34  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1468 end=457727 loop_mode=loop_sustain loop_start=222172 loop_end=364469 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-34-127.wav
+<group> key=35  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2093 end=457215 loop_mode=loop_sustain loop_start=249221 loop_end=403533 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-35-127.wav
+<group> key=36  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1749 end=457215 loop_mode=loop_sustain loop_start=248512 loop_end=305152 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-36-127.wav
+<group> key=37  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1712 end=457215 loop_mode=loop_sustain loop_start=263923 loop_end=395031 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-37-127.wav
+<group> key=38  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1942 end=457727 loop_mode=loop_sustain loop_start=299297 loop_end=376191 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-38-127.wav
+<group> key=39  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1587 end=456703 loop_mode=loop_sustain loop_start=227738 loop_end=380835 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-39-127.wav
+<group> key=40  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1607 end=456703 loop_mode=loop_sustain loop_start=260615 loop_end=402979 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-40-127.wav
+<group> key=41  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1997 end=457727 loop_mode=loop_sustain loop_start=305136 loop_end=381922 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-41-127.wav
+<group> key=42  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1844 end=456703 loop_mode=loop_sustain loop_start=293814 loop_end=403482 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-42-127.wav
+<group> key=43  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1825 end=457727 loop_mode=loop_sustain loop_start=274779 loop_end=318887 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-43-127.wav
+<group> key=44  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1752 end=457727 loop_mode=loop_sustain loop_start=228346 loop_end=337942 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-44-127.wav
+<group> key=45  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1904 end=458239 loop_mode=loop_sustain loop_start=304569 loop_end=381551 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-45-127.wav
+<group> key=46  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1996 end=457215 loop_mode=loop_sustain loop_start=229733 loop_end=383387 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-46-127.wav
+<group> key=47  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1817 end=458239 loop_mode=loop_sustain loop_start=273905 loop_end=383929 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-47-127.wav
+<group> key=48  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1463 end=457215 loop_mode=loop_sustain loop_start=241062 loop_end=317937 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-48-127.wav
+<group> key=49  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1560 end=456191 loop_mode=loop_sustain loop_start=273168 loop_end=382640 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-49-127.wav
+<group> key=50  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2056 end=457215 loop_mode=loop_sustain loop_start=267160 loop_end=344054 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-50-127.wav
+<group> key=51  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1957 end=458239 loop_mode=loop_sustain loop_start=248611 loop_end=358613 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-51-127.wav
+<group> key=52  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1942 end=457215 loop_mode=loop_sustain loop_start=293027 loop_end=402746 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-52-127.wav
+<group> key=53  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1761 end=457727 loop_mode=loop_sustain loop_start=291042 loop_end=400666 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-53-127.wav
+<group> key=54  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2244 end=457215 loop_mode=loop_sustain loop_start=315278 loop_end=392046 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-54-127.wav
+<group> key=55  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1968 end=457215 loop_mode=loop_sustain loop_start=293693 loop_end=403506 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-55-127.wav
+<group> key=56  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2189 end=458239 loop_mode=loop_sustain loop_start=264526 loop_end=374121 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-56-127.wav
+<group> key=57  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2102 end=457215 loop_mode=loop_sustain loop_start=265605 loop_end=375465 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-57-127.wav
+<group> key=58  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2506 end=458751 loop_mode=loop_sustain loop_start=291301 loop_end=401049 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-58-127.wav
+<group> key=59  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2903 end=457215 loop_mode=loop_sustain loop_start=290139 loop_end=399804 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-59-127.wav
+<group> key=60  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2931 end=456703 loop_mode=loop_sustain loop_start=279989 loop_end=389899 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-60-127.wav
+<group> key=61  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=3050 end=457727 loop_mode=loop_sustain loop_start=283257 loop_end=392731 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-61-127.wav
+<group> key=62  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2943 end=457215 loop_mode=loop_sustain loop_start=263278 loop_end=372913 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-62-127.wav
+<group> key=63  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2712 end=457727 loop_mode=loop_sustain loop_start=281295 loop_end=391015 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-63-127.wav
+<group> key=64  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2095 end=457727 loop_mode=loop_sustain loop_start=283184 loop_end=392901 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-64-127.wav
+<group> key=65  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2495 end=457727 loop_mode=loop_sustain loop_start=299346 loop_end=376130 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-65-127.wav
+<group> key=66  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2392 end=456703 loop_mode=loop_sustain loop_start=232131 loop_end=341798 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-66-127.wav
+<group> key=67  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2051 end=457215 loop_mode=loop_sustain loop_start=280247 loop_end=389837 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-67-127.wav
+<group> key=68  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2282 end=457215 loop_mode=loop_sustain loop_start=274577 loop_end=384173 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-68-127.wav
+<group> key=69  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1898 end=457215 loop_mode=loop_sustain loop_start=245898 loop_end=322482 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-69-127.wav
+<group> key=70  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1620 end=457215 loop_mode=loop_sustain loop_start=268585 loop_end=378143 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-70-127.wav
+<group> key=71  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1643 end=457727 loop_mode=loop_sustain loop_start=313289 loop_end=389909 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-71-127.wav
+<group> key=72  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2081 end=457727 loop_mode=loop_sustain loop_start=257513 loop_end=334217 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-72-127.wav
+<group> key=73  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1752 end=457215 loop_mode=loop_sustain loop_start=270560 loop_end=380189 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-73-127.wav
+<group> key=74  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1548 end=456703 loop_mode=loop_sustain loop_start=283710 loop_end=393345 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-74-127.wav
+<group> key=75  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1699 end=456703 loop_mode=loop_sustain loop_start=280086 loop_end=389665 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-75-127.wav
+<group> key=76  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1788 end=456703 loop_mode=loop_sustain loop_start=274646 loop_end=384244 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-76-127.wav
+<group> key=77  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2066 end=457215 loop_mode=loop_sustain loop_start=293191 loop_end=402686 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-77-127.wav
+<group> key=78  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1919 end=456703 loop_mode=loop_sustain loop_start=263359 loop_end=373146 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-78-127.wav
+<group> key=79  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=1958 end=456703 loop_mode=loop_sustain loop_start=263746 loop_end=373445 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-79-127.wav
+<group> key=80  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2005 end=457215 loop_mode=loop_sustain loop_start=282925 loop_end=392628 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-80-127.wav
+<group> key=81  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2025 end=456703 loop_mode=loop_sustain loop_start=270697 loop_end=380359 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-81-127.wav
+<group> key=82  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2411 end=457215 loop_mode=loop_sustain loop_start=280274 loop_end=389929 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-82-127.wav
+<group> key=83  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2498 end=457215 loop_mode=loop_sustain loop_start=274763 loop_end=384427 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-83-127.wav
+<group> key=84  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2902 end=456703 loop_mode=loop_sustain loop_start=293014 loop_end=402420 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-84-127.wav
+<group> key=85  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=2883 end=456703 loop_mode=loop_sustain loop_start=258263 loop_end=368053 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-85-127.wav
+<group> key=86  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=3038 end=456191 loop_mode=loop_sustain loop_start=285688 loop_end=395017 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-86-127.wav
+<group> key=87  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=3180 end=455679 loop_mode=loop_sustain loop_start=281769 loop_end=391418 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-87-127.wav
+<group> key=88  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=3260 end=456703 loop_mode=loop_sustain loop_start=285730 loop_end=395319 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-88-127.wav
+<group> key=89  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=3629 end=456703 loop_mode=loop_sustain loop_start=285426 loop_end=394987 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-89-127.wav
+<group> key=90  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=3979 end=456191 loop_mode=loop_sustain loop_start=287891 loop_end=397437 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-90-127.wav
+<group> key=91  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=4094 end=456703 loop_mode=loop_sustain loop_start=272806 loop_end=382395 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-91-127.wav
+<group> key=92  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=4231 end=456703 loop_mode=loop_sustain loop_start=284093 loop_end=393634 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-92-127.wav
+<group> key=93  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=4550 end=455679 loop_mode=loop_sustain loop_start=263431 loop_end=373191 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-93-127.wav
+<group> key=94  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=4705 end=455679 loop_mode=loop_sustain loop_start=269296 loop_end=378902 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-94-127.wav
+<group> key=95  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=5006 end=456191 loop_mode=loop_sustain loop_start=293163 loop_end=402693 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-95-127.wav
+<group> key=96  
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 amp_veltrack=30  offset=5059 end=455679 loop_mode=loop_sustain loop_start=295294 loop_end=404869 sample=../Audio/Sad Ring-SAMPLES/011 Sad Ring-96-127.wav
