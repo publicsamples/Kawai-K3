@@ -6,7 +6,7 @@
 -  ****Info:****  [vintagesynth.com](http://www.vintagesynth.com/kawai/kawaik3.php)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/k3.html)
 
-****Audio:**** https://www.dropbox.com/sh/gjy7ppeijgw61bz/AABFRR50ykO7FR-Al2rK5tSma?dl=0)
+****Audio:**** https://www.dropbox.com/sh/gjy7ppeijgw61bz/AABFRR50ykO7FR-Al2rK5tSma?dl=0
 # 
 
   
