@@ -6,7 +6,7 @@
 -  ****Info:****  [vintagesynth.com](http://www.vintagesynth.com/kawai/kawaik3.php)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/k3.html)
 
-**[Download Audio](https://github.com/publicsamples/Kawai-K3/releases/tag/v1.0)**
+**[Download Audio](https://github.com/publicsamples/Kawai-K3/releases/tag/1.0)**
 
 
 
