@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tal curprogram="0" version="7.0">
+  <programs>
+    <program path="G:\_Sample Libraries\_TAL Sampler\Kawai K3\STR Simple Guitar.talsmpl"
+             programname="STR Simple Guitar" category="" modulation="0.0"
+             volume="0.5" portamentomode="0.0" portamentointensity="0.0" numvoices="1.0"
+             polymode="1.0" filtercutoff="0.5627329349517822" filterresonance="0.0"
+             filtermode="0.0" filterkeyboardvalue="1.0" filterenvelope="0.5"
+             filterlayera="1.0" filterlayerb="0.0" filterlayerc="0.0" filterlayerd="0.0"
+             lfophase1="0.0" lfophase2="0.0" lfophase3="0.0" globalvelocity="1.0"
+             portamentotime="0.0" paramReserved24="0.0" paramReserved34="0.0"
+             paramReserved44="0.0" samplejitter="0.0" lforate1="0.3049691617488861"
+             lfowaveform1="0.0" lfotrigger1="0.0" lfosync1="0.0" lforate2="0.300000011920929"
+             lfowaveform2="0.0" lfotrigger2="0.0" lfosync2="0.0" lforate3="0.06149065122008324"
+             lfowaveform3="0.0" lfotrigger3="0.0" lfosync3="0.0" adsrampattack="0.0"
+             adsramphold="0.0" adsrampdecay="0.0" adsrampsustain="1.0" adsramprelease="0.652172863483429"
+             adsrvcfattack="0.0" adsrvcfhold="0.0" adsrvcfdecay="0.0" adsrvcfsustain="1.0"
+             adsrvcfrelease="0.0" adsrmodattack="0.0" adsrmodhold="0.0" adsrmoddecay="0.0"
+             adsrmodsustain="1.0" adsrmodrelease="0.0" samplebits="1.0" samplesamplerate="1.0"
+             paramReserved45="0.0" samplehiss="0.0" samplesaturation="0.0"
+             sampledacvolume="1.0" sampleresamplermode="0.6000000238418579"
+             sampleenableda="1.0" samplestretchfollowa="0.0" layertransposea="0.5"
+             samplevolumea="0.32421875" samplepana="0.5" samplestretcha="0.5"
+             adsrampcrush="0.0" adsrvcfcrush="0.0" adsrmodcrush="0.0" oneshot="0.0"
+             lowPassa="1.0" highPassa="0.0" sampletunea="0.5" samplefinetunea="0.5"
+             samplestarta="0.0" sampleenda="0.0" samplestretchsizea="0.5"
+             sampleloopstarta="0.0" sampleloopenda="0.0" sampleloopfadea="0.0"
+             sampledelaya="0.0" sampleenabledb="0.0" samplestretchfollowb="0.0"
+             layertransposeb="0.5" samplevolumeb="0.5" samplepanb="0.5" samplestretchb="0.5"
+             lfounipolar1="0.0" lfounipolar2="0.0" lfounipolar3="0.0" reserved0b="0.0"
+             lowPassb="1.0" highPassb="0.0" sampletuneb="0.5" samplefinetuneb="0.5"
+             samplestartb="0.0" sampleendb="0.0" samplestretchsizeb="0.5"
+             sampleloopstartb="0.0" sampleloopendb="0.0" sampleloopfadeb="0.0"
+             sampledelayb="0.0" sampleenabledc="0.0" samplestretchfollowc="0.0"
+             layertransposec="0.5" samplevolumec="0.5" samplepanc="0.5" samplestretchc="0.5"
+             resonancea="0.0" resonanceb="0.0" resonancec="0.0" resonanced="0.0"
+             lowPassc="1.0" highPassc="0.0" sampletunec="0.5" samplefinetunec="0.5"
+             samplestartc="0.0" sampleendc="0.0" samplestretchsizec="0.5"
+             sampleloopstartc="0.0" sampleloopendc="0.0" sampleloopfadec="0.0"
+             sampledelayc="0.0" sampleenabledd="0.0" samplestretchfollowd="0.0"
+             layertransposed="0.5" samplevolumed="0.5" samplepand="0.5" samplestretchd="0.5"
+             filtermodea="0.0" filtermodeb="0.0" filtermodec="0.0" filtermoded="0.0"
+             lowPassd="1.0" highPassd="0.0" sampletuned="0.5" samplefinetuned="0.5"
+             samplestartd="0.0" sampleendd="0.0" samplestretchsized="0.5"
+             sampleloopstartd="0.0" sampleloopendd="0.0" sampleloopfaded="0.0"
+             sampledelayd="0.0" effecteq1enabled="1.0" effecteq1freq="0.4652172923088074"
+             effecteq1amount="0.5993791222572327" effecteq1q="0.5" effectreverbon="1.0"
+             effectreverbamount="0.3260867297649384" effectreverbdelay="0.3540370166301727"
+             effectreverbsize="0.3608697652816772" effectreverblow="0.6968947052955627"
+             effectreverbhigh="0.0" effectdelayon="1.0" effectdelaysync="1.0"
+             effectdelayamount="0.1315506249666214" effectdelaytime="0.3906832933425903"
+             effectdelaytimespread="0.4951472580432892" effectdelayspread="0.5068321228027344"
+             effectdelaydepth="0.2645958065986633" effectdelayrate="0.2596272230148315"
+             effectdelayfeedback="0.4877033829689026" effectdelaylow="0.6819872856140137"
+             effectdelayhigh="0.0" mastertune="0.5" sampleasymemuii="1.0"
+             parammodmatrix0="0.0" parammodmatrix1="0.0" parammodmatrix2="0.5"
+             parammodmatrix3="0.5" sampleadcq="1.0" sampledacq="1.0" velocitycurve="0.7109375"
+             effecteqhp="0.0" chorusenabled="0.0" chorusone="0.0" chorustwo="0.0"
+             includewaveinpreset="0.0" pitchwheel="0.500030517578125" modulationwheel="0.0"
+             mpeEnabled="0.0" samplestartui="0.0" sampleendui="0.0" sampleloopstartui="0.0"
+             sampleloopendui="0.0" fxlock="0.0" daclock="0.0" mtsenabled="0.0"
+             microtuningFileName="">
+      <samplelayer0>
+        <multisamples>
+          <multisample url="039 Simple Guitar-24-127.wav" urlRelativeToPresetDirectory="Kawai K3\039 Simple Guitar-24-127.wav"
+                       rootkey="23" lowkey="0" highkey="23" loopstartsample="0" loopendsample="43519"
+                       startsample="0" endsample="43519" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.4830000102519989" isromsample="0"
+                       slice="0" reverse="0" phaseinverse="0" stereoinverse="0" track="1"
+                       autozerocrossingloop="0" pingpongloop="0" mutegroup="0" attack="0.0"
+                       release="0.0" pan="0.5" velocitystart="0" velocityend="127"/>
+          <multisample url="039 Simple Guitar-27-127.wav" urlRelativeToPresetDirectory="Kawai K3\039 Simple Guitar-27-127.wav"
+                       rootkey="27" lowkey="24" highkey="29" loopstartsample="0" loopendsample="44543"
+                       startsample="0" endsample="44543" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="039 Simple Guitar-32-127.wav" urlRelativeToPresetDirectory="Kawai K3\039 Simple Guitar-32-127.wav"
+                       rootkey="32" lowkey="30" highkey="35" loopstartsample="0" loopendsample="94719"
+                       startsample="0" endsample="94719" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="039 Simple Guitar-39-127.wav" urlRelativeToPresetDirectory="Kawai K3\039 Simple Guitar-39-127.wav"
+                       rootkey="39" lowkey="36" highkey="41" loopstartsample="0" loopendsample="112127"
+                       startsample="0" endsample="112127" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="039 Simple Guitar-44-127.wav" urlRelativeToPresetDirectory="Kawai K3\039 Simple Guitar-44-127.wav"
+                       rootkey="44" lowkey="42" highkey="47" loopstartsample="0" loopendsample="362495"
+                       startsample="0" endsample="362495" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="039 Simple Guitar-51-127.wav" urlRelativeToPresetDirectory="Kawai K3\039 Simple Guitar-51-127.wav"
+                       rootkey="51" lowkey="48" highkey="53" loopstartsample="0" loopendsample="362495"
+                       startsample="0" endsample="362495" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="039 Simple Guitar-56-127.wav" urlRelativeToPresetDirectory="Kawai K3\039 Simple Guitar-56-127.wav"
+                       rootkey="56" lowkey="54" highkey="59" loopstartsample="0" loopendsample="363007"
+                       startsample="0" endsample="363007" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="039 Simple Guitar-63-127.wav" urlRelativeToPresetDirectory="Kawai K3\039 Simple Guitar-63-127.wav"
+                       rootkey="63" lowkey="60" highkey="65" loopstartsample="0" loopendsample="363519"
+                       startsample="0" endsample="363519" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="039 Simple Guitar-68-127.wav" urlRelativeToPresetDirectory="Kawai K3\039 Simple Guitar-68-127.wav"
+                       rootkey="68" lowkey="66" highkey="71" loopstartsample="0" loopendsample="363519"
+                       startsample="0" endsample="363519" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="039 Simple Guitar-75-127.wav" urlRelativeToPresetDirectory="Kawai K3\039 Simple Guitar-75-127.wav"
+                       rootkey="75" lowkey="72" highkey="77" loopstartsample="0" loopendsample="363519"
+                       startsample="0" endsample="363519" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="039 Simple Guitar-80-127.wav" urlRelativeToPresetDirectory="Kawai K3\039 Simple Guitar-80-127.wav"
+                       rootkey="80" lowkey="78" highkey="83" loopstartsample="0" loopendsample="363519"
+                       startsample="0" endsample="363519" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="039 Simple Guitar-87-127.wav" urlRelativeToPresetDirectory="Kawai K3\039 Simple Guitar-87-127.wav"
+                       rootkey="87" lowkey="84" highkey="89" loopstartsample="0" loopendsample="363519"
+                       startsample="0" endsample="363519" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="039 Simple Guitar-92-127.wav" urlRelativeToPresetDirectory="Kawai K3\039 Simple Guitar-92-127.wav"
+                       rootkey="92" lowkey="90" highkey="95" loopstartsample="0" loopendsample="363007"
+                       startsample="0" endsample="363007" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="039 Simple Guitar-96-127.wav" urlRelativeToPresetDirectory="Kawai K3\039 Simple Guitar-96-127.wav"
+                       rootkey="96" lowkey="96" highkey="127" loopstartsample="0" loopendsample="363007"
+                       startsample="0" endsample="363007" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+        </multisamples>
+      </samplelayer0>
+      <samplelayer1>
+        <multisamples/>
+      </samplelayer1>
+      <samplelayer2>
+        <multisamples/>
+      </samplelayer2>
+      <samplelayer3>
+        <multisamples/>
+      </samplelayer3>
+      <voicetunings>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+      </voicetunings>
+      <modmatrix>
+        <entry parameterid="164" modmatrixsourceid="3" modmatrixamount="0.5"/>
+        <entry parameterid="170" modmatrixsourceid="8" modmatrixamount="0.6192547678947449"/>
+        <entry parameterid="25" modmatrixsourceid="17" modmatrixamount="0.6043478846549988"/>
+        <entry parameterid="71" modmatrixsourceid="7" modmatrixamount="0.8968502283096313"/>
+        <entry parameterid="63" modmatrixsourceid="9" modmatrixamount="0.2863357365131378"/>
+        <entry parameterid="7" modmatrixsourceid="6" modmatrixamount="0.8031052947044373"/>
+        <entry parameterid="-1" modmatrixsourceid="0" modmatrixamount="0.5"/>
+        <entry parameterid="-1" modmatrixsourceid="0" modmatrixamount="0.5"/>
+        <entry parameterid="-1" modmatrixsourceid="0" modmatrixamount="0.5"/>
+        <entry parameterid="-1" modmatrixsourceid="0" modmatrixamount="0.5"/>
+      </modmatrix>
+      <tuningtable name="">
+        <entry tuning="0.0"/>
+        <entry tuning="1.0"/>
+        <entry tuning="2.0"/>
+        <entry tuning="3.0"/>
+        <entry tuning="4.0"/>
+        <entry tuning="5.0"/>
+        <entry tuning="6.0"/>
+        <entry tuning="7.0"/>
+        <entry tuning="8.0"/>
+        <entry tuning="9.0"/>
+        <entry tuning="10.0"/>
+        <entry tuning="11.0"/>
+        <entry tuning="12.0"/>
+        <entry tuning="13.0"/>
+        <entry tuning="14.0"/>
+        <entry tuning="15.0"/>
+        <entry tuning="16.0"/>
+        <entry tuning="17.0"/>
+        <entry tuning="18.0"/>
+        <entry tuning="19.0"/>
+        <entry tuning="20.0"/>
+        <entry tuning="21.0"/>
+        <entry tuning="22.0"/>
+        <entry tuning="23.0"/>
+        <entry tuning="24.0"/>
+        <entry tuning="25.0"/>
+        <entry tuning="26.0"/>
+        <entry tuning="27.0"/>
+        <entry tuning="28.0"/>
+        <entry tuning="29.0"/>
+        <entry tuning="30.0"/>
+        <entry tuning="31.0"/>
+        <entry tuning="32.0"/>
+        <entry tuning="33.0"/>
+        <entry tuning="34.0"/>
+        <entry tuning="35.0"/>
+        <entry tuning="36.0"/>
+        <entry tuning="37.0"/>
+        <entry tuning="38.0"/>
+        <entry tuning="39.0"/>
+        <entry tuning="40.0"/>
+        <entry tuning="41.0"/>
+        <entry tuning="42.0"/>
+        <entry tuning="43.0"/>
+        <entry tuning="44.0"/>
+        <entry tuning="45.0"/>
+        <entry tuning="46.0"/>
+        <entry tuning="47.0"/>
+        <entry tuning="48.0"/>
+        <entry tuning="49.0"/>
+        <entry tuning="50.0"/>
+        <entry tuning="51.0"/>
+        <entry tuning="52.0"/>
+        <entry tuning="53.0"/>
+        <entry tuning="54.0"/>
+        <entry tuning="55.0"/>
+        <entry tuning="56.0"/>
+        <entry tuning="57.0"/>
+        <entry tuning="58.0"/>
+        <entry tuning="59.0"/>
+        <entry tuning="60.0"/>
+        <entry tuning="61.0"/>
+        <entry tuning="62.0"/>
+        <entry tuning="63.0"/>
+        <entry tuning="64.0"/>
+        <entry tuning="65.0"/>
+        <entry tuning="66.0"/>
+        <entry tuning="67.0"/>
+        <entry tuning="68.0"/>
+        <entry tuning="69.0"/>
+        <entry tuning="70.0"/>
+        <entry tuning="71.0"/>
+        <entry tuning="72.0"/>
+        <entry tuning="73.0"/>
+        <entry tuning="74.0"/>
+        <entry tuning="75.0"/>
+        <entry tuning="76.0"/>
+        <entry tuning="77.0"/>
+        <entry tuning="78.0"/>
+        <entry tuning="79.0"/>
+        <entry tuning="80.0"/>
+        <entry tuning="81.0"/>
+        <entry tuning="82.0"/>
+        <entry tuning="83.0"/>
+        <entry tuning="84.0"/>
+        <entry tuning="85.0"/>
+        <entry tuning="86.0"/>
+        <entry tuning="87.0"/>
+        <entry tuning="88.0"/>
+        <entry tuning="89.0"/>
+        <entry tuning="90.0"/>
+        <entry tuning="91.0"/>
+        <entry tuning="92.0"/>
+        <entry tuning="93.0"/>
+        <entry tuning="94.0"/>
+        <entry tuning="95.0"/>
+        <entry tuning="96.0"/>
+        <entry tuning="97.0"/>
+        <entry tuning="98.0"/>
+        <entry tuning="99.0"/>
+        <entry tuning="100.0"/>
+        <entry tuning="101.0"/>
+        <entry tuning="102.0"/>
+        <entry tuning="103.0"/>
+        <entry tuning="104.0"/>
+        <entry tuning="105.0"/>
+        <entry tuning="106.0"/>
+        <entry tuning="107.0"/>
+        <entry tuning="108.0"/>
+        <entry tuning="109.0"/>
+        <entry tuning="110.0"/>
+        <entry tuning="111.0"/>
+        <entry tuning="112.0"/>
+        <entry tuning="113.0"/>
+        <entry tuning="114.0"/>
+        <entry tuning="115.0"/>
+        <entry tuning="116.0"/>
+        <entry tuning="117.0"/>
+        <entry tuning="118.0"/>
+        <entry tuning="119.0"/>
+        <entry tuning="120.0"/>
+        <entry tuning="121.0"/>
+        <entry tuning="122.0"/>
+        <entry tuning="123.0"/>
+        <entry tuning="124.0"/>
+        <entry tuning="125.0"/>
+        <entry tuning="126.0"/>
+        <entry tuning="127.0"/>
+      </tuningtable>
+    </program>
+  </programs>
+  <midimap>
+    <map param="0" controllernumber="0"/>
+    <map param="0" controllernumber="1"/>
+    <map param="0" controllernumber="2"/>
+    <map param="0" controllernumber="3"/>
+    <map param="0" controllernumber="4"/>
+    <map param="0" controllernumber="5"/>
+    <map param="0" controllernumber="6"/>
+    <map param="0" controllernumber="7"/>
+    <map param="0" controllernumber="8"/>
+    <map param="0" controllernumber="9"/>
+    <map param="0" controllernumber="10"/>
+    <map param="0" controllernumber="11"/>
+    <map param="0" controllernumber="12"/>
+    <map param="0" controllernumber="13"/>
+    <map param="0" controllernumber="14"/>
+    <map param="0" controllernumber="15"/>
+    <map param="0" controllernumber="16"/>
+    <map param="0" controllernumber="17"/>
+    <map param="0" controllernumber="18"/>
+    <map param="0" controllernumber="19"/>
+    <map param="0" controllernumber="20"/>
+    <map param="0" controllernumber="21"/>
+    <map param="0" controllernumber="22"/>
+    <map param="0" controllernumber="23"/>
+    <map param="0" controllernumber="24"/>
+    <map param="0" controllernumber="25"/>
+    <map param="0" controllernumber="26"/>
+    <map param="0" controllernumber="27"/>
+    <map param="0" controllernumber="28"/>
+    <map param="0" controllernumber="29"/>
+    <map param="0" controllernumber="30"/>
+    <map param="0" controllernumber="31"/>
+    <map param="0" controllernumber="32"/>
+    <map param="0" controllernumber="33"/>
+    <map param="0" controllernumber="34"/>
+    <map param="0" controllernumber="35"/>
+    <map param="0" controllernumber="36"/>
+    <map param="0" controllernumber="37"/>
+    <map param="0" controllernumber="38"/>
+    <map param="0" controllernumber="39"/>
+    <map param="0" controllernumber="40"/>
+    <map param="0" controllernumber="41"/>
+    <map param="0" controllernumber="42"/>
+    <map param="0" controllernumber="43"/>
+    <map param="0" controllernumber="44"/>
+    <map param="0" controllernumber="45"/>
+    <map param="0" controllernumber="46"/>
+    <map param="0" controllernumber="47"/>
+    <map param="0" controllernumber="48"/>
+    <map param="0" controllernumber="49"/>
+    <map param="0" controllernumber="50"/>
+    <map param="0" controllernumber="51"/>
+    <map param="0" controllernumber="52"/>
+    <map param="0" controllernumber="53"/>
+    <map param="0" controllernumber="54"/>
+    <map param="0" controllernumber="55"/>
+    <map param="0" controllernumber="56"/>
+    <map param="0" controllernumber="57"/>
+    <map param="0" controllernumber="58"/>
+    <map param="0" controllernumber="59"/>
+    <map param="0" controllernumber="60"/>
+    <map param="0" controllernumber="61"/>
+    <map param="0" controllernumber="62"/>
+    <map param="0" controllernumber="63"/>
+    <map param="0" controllernumber="64"/>
+    <map param="0" controllernumber="65"/>
+    <map param="0" controllernumber="66"/>
+    <map param="0" controllernumber="67"/>
+    <map param="0" controllernumber="68"/>
+    <map param="0" controllernumber="69"/>
+    <map param="0" controllernumber="70"/>
+    <map param="0" controllernumber="71"/>
+    <map param="0" controllernumber="72"/>
+    <map param="0" controllernumber="73"/>
+    <map param="0" controllernumber="74"/>
+    <map param="0" controllernumber="75"/>
+    <map param="0" controllernumber="76"/>
+    <map param="0" controllernumber="77"/>
+    <map param="0" controllernumber="78"/>
+    <map param="0" controllernumber="79"/>
+    <map param="0" controllernumber="80"/>
+    <map param="0" controllernumber="81"/>
+    <map param="0" controllernumber="82"/>
+    <map param="0" controllernumber="83"/>
+    <map param="0" controllernumber="84"/>
+    <map param="0" controllernumber="85"/>
+    <map param="0" controllernumber="86"/>
+    <map param="0" controllernumber="87"/>
+    <map param="0" controllernumber="88"/>
+    <map param="0" controllernumber="89"/>
+    <map param="0" controllernumber="90"/>
+    <map param="0" controllernumber="91"/>
+    <map param="0" controllernumber="92"/>
+    <map param="0" controllernumber="93"/>
+    <map param="0" controllernumber="94"/>
+    <map param="0" controllernumber="95"/>
+    <map param="0" controllernumber="96"/>
+    <map param="0" controllernumber="97"/>
+    <map param="0" controllernumber="98"/>
+    <map param="0" controllernumber="99"/>
+    <map param="0" controllernumber="100"/>
+    <map param="0" controllernumber="101"/>
+    <map param="0" controllernumber="102"/>
+    <map param="0" controllernumber="103"/>
+    <map param="0" controllernumber="104"/>
+    <map param="0" controllernumber="105"/>
+    <map param="0" controllernumber="106"/>
+    <map param="0" controllernumber="107"/>
+    <map param="0" controllernumber="108"/>
+    <map param="0" controllernumber="109"/>
+    <map param="0" controllernumber="110"/>
+    <map param="0" controllernumber="111"/>
+    <map param="0" controllernumber="112"/>
+    <map param="0" controllernumber="113"/>
+    <map param="0" controllernumber="114"/>
+    <map param="0" controllernumber="115"/>
+    <map param="0" controllernumber="116"/>
+    <map param="0" controllernumber="117"/>
+    <map param="0" controllernumber="118"/>
+    <map param="0" controllernumber="119"/>
+    <map param="0" controllernumber="120"/>
+    <map param="0" controllernumber="121"/>
+    <map param="0" controllernumber="122"/>
+    <map param="0" controllernumber="123"/>
+    <map param="0" controllernumber="124"/>
+    <map param="0" controllernumber="125"/>
+    <map param="0" controllernumber="126"/>
+    <map param="0" controllernumber="127"/>
+    <map param="0" controllernumber="128"/>
+    <map param="0" controllernumber="129"/>
+    <map param="0" controllernumber="130"/>
+    <map param="0" controllernumber="131"/>
+    <map param="0" controllernumber="132"/>
+    <map param="0" controllernumber="133"/>
+    <map param="0" controllernumber="134"/>
+    <map param="0" controllernumber="135"/>
+    <map param="0" controllernumber="136"/>
+    <map param="0" controllernumber="137"/>
+    <map param="0" controllernumber="138"/>
+    <map param="0" controllernumber="139"/>
+    <map param="0" controllernumber="140"/>
+    <map param="0" controllernumber="141"/>
+    <map param="0" controllernumber="142"/>
+    <map param="0" controllernumber="143"/>
+    <map param="0" controllernumber="144"/>
+    <map param="0" controllernumber="145"/>
+    <map param="0" controllernumber="146"/>
+    <map param="0" controllernumber="147"/>
+    <map param="0" controllernumber="148"/>
+    <map param="0" controllernumber="149"/>
+    <map param="0" controllernumber="150"/>
+    <map param="0" controllernumber="151"/>
+    <map param="0" controllernumber="152"/>
+    <map param="0" controllernumber="153"/>
+    <map param="0" controllernumber="154"/>
+    <map param="0" controllernumber="155"/>
+    <map param="0" controllernumber="156"/>
+    <map param="0" controllernumber="157"/>
+    <map param="0" controllernumber="158"/>
+    <map param="0" controllernumber="159"/>
+    <map param="0" controllernumber="160"/>
+    <map param="0" controllernumber="161"/>
+    <map param="0" controllernumber="162"/>
+    <map param="0" controllernumber="163"/>
+    <map param="0" controllernumber="164"/>
+    <map param="0" controllernumber="165"/>
+    <map param="0" controllernumber="166"/>
+    <map param="0" controllernumber="167"/>
+    <map param="0" controllernumber="168"/>
+    <map param="0" controllernumber="169"/>
+    <map param="0" controllernumber="170"/>
+    <map param="0" controllernumber="171"/>
+    <map param="0" controllernumber="172"/>
+    <map param="0" controllernumber="173"/>
+    <map param="0" controllernumber="174"/>
+    <map param="0" controllernumber="175"/>
+    <map param="0" controllernumber="176"/>
+    <map param="0" controllernumber="177"/>
+    <map param="0" controllernumber="178"/>
+    <map param="0" controllernumber="179"/>
+    <map param="0" controllernumber="180"/>
+    <map param="0" controllernumber="181"/>
+    <map param="0" controllernumber="182"/>
+    <map param="0" controllernumber="183"/>
+    <map param="0" controllernumber="184"/>
+    <map param="0" controllernumber="185"/>
+    <map param="0" controllernumber="186"/>
+    <map param="0" controllernumber="187"/>
+    <map param="0" controllernumber="188"/>
+    <map param="0" controllernumber="189"/>
+    <map param="0" controllernumber="190"/>
+    <map param="0" controllernumber="191"/>
+    <map param="0" controllernumber="192"/>
+    <map param="0" controllernumber="193"/>
+    <map param="0" controllernumber="194"/>
+    <map param="0" controllernumber="195"/>
+    <map param="0" controllernumber="196"/>
+    <map param="0" controllernumber="197"/>
+    <map param="0" controllernumber="198"/>
+    <map param="0" controllernumber="199"/>
+    <map param="0" controllernumber="200"/>
+    <map param="0" controllernumber="201"/>
+    <map param="0" controllernumber="202"/>
+    <map param="0" controllernumber="203"/>
+    <map param="0" controllernumber="204"/>
+    <map param="0" controllernumber="205"/>
+    <map param="0" controllernumber="206"/>
+    <map param="0" controllernumber="207"/>
+    <map param="0" controllernumber="208"/>
+    <map param="0" controllernumber="209"/>
+    <map param="0" controllernumber="210"/>
+    <map param="0" controllernumber="211"/>
+    <map param="0" controllernumber="212"/>
+    <map param="0" controllernumber="213"/>
+    <map param="0" controllernumber="214"/>
+    <map param="0" controllernumber="215"/>
+    <map param="0" controllernumber="216"/>
+    <map param="0" controllernumber="217"/>
+    <map param="0" controllernumber="218"/>
+    <map param="0" controllernumber="219"/>
+    <map param="0" controllernumber="220"/>
+    <map param="0" controllernumber="221"/>
+    <map param="0" controllernumber="222"/>
+    <map param="0" controllernumber="223"/>
+    <map param="0" controllernumber="224"/>
+    <map param="0" controllernumber="225"/>
+    <map param="0" controllernumber="226"/>
+    <map param="0" controllernumber="227"/>
+    <map param="0" controllernumber="228"/>
+    <map param="0" controllernumber="229"/>
+    <map param="0" controllernumber="230"/>
+    <map param="0" controllernumber="231"/>
+    <map param="0" controllernumber="232"/>
+    <map param="0" controllernumber="233"/>
+    <map param="0" controllernumber="234"/>
+    <map param="0" controllernumber="235"/>
+    <map param="0" controllernumber="236"/>
+    <map param="0" controllernumber="237"/>
+    <map param="0" controllernumber="238"/>
+    <map param="0" controllernumber="239"/>
+    <map param="0" controllernumber="240"/>
+    <map param="0" controllernumber="241"/>
+    <map param="0" controllernumber="242"/>
+    <map param="0" controllernumber="243"/>
+    <map param="0" controllernumber="244"/>
+    <map param="0" controllernumber="245"/>
+    <map param="0" controllernumber="246"/>
+    <map param="0" controllernumber="247"/>
+    <map param="0" controllernumber="248"/>
+    <map param="0" controllernumber="249"/>
+    <map param="0" controllernumber="250"/>
+    <map param="0" controllernumber="251"/>
+    <map param="0" controllernumber="252"/>
+    <map param="0" controllernumber="253"/>
+    <map param="0" controllernumber="254"/>
+    <map param="0" controllernumber="255"/>
+  </midimap>
+</tal>

@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tal curprogram="0" version="7.0">
+  <programs>
+    <program path="G:\_Sample Libraries\_TAL Sampler\Kawai K3\BELL Worth It.talsmpl"
+             programname="BELL Worth It" category="" modulation="0.0" volume="0.5"
+             portamentomode="0.0" portamentointensity="0.0" numvoices="1.0"
+             polymode="1.0" filtercutoff="1.0" filterresonance="0.0" filtermode="0.0"
+             filterkeyboardvalue="1.0" filterenvelope="0.5" filterlayera="1.0"
+             filterlayerb="0.0" filterlayerc="0.0" filterlayerd="0.0" lfophase1="0.0"
+             lfophase2="0.0" lfophase3="0.0" globalvelocity="0.0" portamentotime="0.0"
+             paramReserved24="0.0" paramReserved34="0.0" paramReserved44="0.0"
+             samplejitter="0.0" lforate1="0.3049691617488861" lfowaveform1="0.0"
+             lfotrigger1="0.0" lfosync1="0.0" lforate2="0.300000011920929"
+             lfowaveform2="0.0" lfotrigger2="0.0" lfosync2="0.0" lforate3="0.300000011920929"
+             lfowaveform3="0.0" lfotrigger3="0.0" lfosync3="0.0" adsrampattack="0.0"
+             adsramphold="0.0" adsrampdecay="0.4919260442256927" adsrampsustain="0.0"
+             adsramprelease="0.652172863483429" adsrvcfattack="0.0" adsrvcfhold="0.0"
+             adsrvcfdecay="0.0" adsrvcfsustain="1.0" adsrvcfrelease="0.0"
+             adsrmodattack="0.0" adsrmodhold="0.0" adsrmoddecay="0.0" adsrmodsustain="1.0"
+             adsrmodrelease="0.0" samplebits="1.0" samplesamplerate="1.0"
+             paramReserved45="0.0" samplehiss="0.0" samplesaturation="0.0"
+             sampledacvolume="1.0" sampleresamplermode="0.6000000238418579"
+             sampleenableda="1.0" samplestretchfollowa="0.0" layertransposea="0.5"
+             samplevolumea="0.2634706199169159" samplepana="0.5" samplestretcha="0.5"
+             adsrampcrush="0.0" adsrvcfcrush="0.0" adsrmodcrush="0.0" oneshot="0.0"
+             lowPassa="1.0" highPassa="0.0" sampletunea="0.5" samplefinetunea="0.5"
+             samplestarta="0.0" sampleenda="0.0" samplestretchsizea="0.5"
+             sampleloopstarta="0.0" sampleloopenda="0.0" sampleloopfadea="0.0"
+             sampledelaya="0.0" sampleenabledb="0.0" samplestretchfollowb="0.0"
+             layertransposeb="0.5" samplevolumeb="0.5" samplepanb="0.5" samplestretchb="0.5"
+             lfounipolar1="0.0" lfounipolar2="0.0" lfounipolar3="0.0" reserved0b="0.0"
+             lowPassb="1.0" highPassb="0.0" sampletuneb="0.5" samplefinetuneb="0.5"
+             samplestartb="0.0" sampleendb="0.0" samplestretchsizeb="0.5"
+             sampleloopstartb="0.0" sampleloopendb="0.0" sampleloopfadeb="0.0"
+             sampledelayb="0.0" sampleenabledc="0.0" samplestretchfollowc="0.0"
+             layertransposec="0.5" samplevolumec="0.5" samplepanc="0.5" samplestretchc="0.5"
+             resonancea="0.0" resonanceb="0.0" resonancec="0.0" resonanced="0.0"
+             lowPassc="1.0" highPassc="0.0" sampletunec="0.5" samplefinetunec="0.5"
+             samplestartc="0.0" sampleendc="0.0" samplestretchsizec="0.5"
+             sampleloopstartc="0.0" sampleloopendc="0.0" sampleloopfadec="0.0"
+             sampledelayc="0.0" sampleenabledd="0.0" samplestretchfollowd="0.0"
+             layertransposed="0.5" samplevolumed="0.5" samplepand="0.5" samplestretchd="0.5"
+             filtermodea="0.0" filtermodeb="0.0" filtermodec="0.0" filtermoded="0.0"
+             lowPassd="1.0" highPassd="0.0" sampletuned="0.5" samplefinetuned="0.5"
+             samplestartd="0.0" sampleendd="0.0" samplestretchsized="0.5"
+             sampleloopstartd="0.0" sampleloopendd="0.0" sampleloopfaded="0.0"
+             sampledelayd="0.0" effecteq1enabled="0.0" effecteq1freq="0.5"
+             effecteq1amount="0.5" effecteq1q="0.5" effectreverbon="1.0" effectreverbamount="0.2863352000713348"
+             effectreverbdelay="0.1043481454253197" effectreverbsize="0.4403725862503052"
+             effectreverblow="0.6770191192626953" effectreverbhigh="0.0" effectdelayon="0.0"
+             effectdelaysync="1.0" effectdelayamount="0.07801330089569092"
+             effectdelaytime="0.3857141137123108" effectdelaytimespread="0.0"
+             effectdelayspread="0.5515525937080383" effectdelaydepth="0.0"
+             effectdelayrate="0.0" effectdelayfeedback="0.1701812595129013"
+             effectdelaylow="1.0" effectdelayhigh="0.3975154161453247" mastertune="0.5"
+             sampleasymemuii="1.0" parammodmatrix0="0.0" parammodmatrix1="0.0"
+             parammodmatrix2="0.5" parammodmatrix3="0.5" sampleadcq="1.0"
+             sampledacq="1.0" velocitycurve="0.5" effecteqhp="0.0" chorusenabled="0.0"
+             chorusone="0.0" chorustwo="0.0" includewaveinpreset="0.0" pitchwheel="0.500030517578125"
+             modulationwheel="0.0" mpeEnabled="0.0" samplestartui="0.0" sampleendui="0.0"
+             sampleloopstartui="0.0" sampleloopendui="0.0" fxlock="0.0" daclock="0.0"
+             mtsenabled="0.0" microtuningFileName="">
+      <samplelayer0>
+        <multisamples>
+          <multisample url="024 Worth it-24-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-24-127.wav"
+                       rootkey="24" lowkey="0" highkey="24" loopstartsample="0" loopendsample="14335"
+                       startsample="680" endsample="14335" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-25-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-25-127.wav"
+                       rootkey="25" lowkey="25" highkey="25" loopstartsample="0" loopendsample="14847"
+                       startsample="689" endsample="14847" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-26-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-26-127.wav"
+                       rootkey="26" lowkey="26" highkey="26" loopstartsample="0" loopendsample="36863"
+                       startsample="781" endsample="36863" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-27-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-27-127.wav"
+                       rootkey="27" lowkey="27" highkey="27" loopstartsample="0" loopendsample="15359"
+                       startsample="698" endsample="15359" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-28-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-28-127.wav"
+                       rootkey="28" lowkey="28" highkey="28" loopstartsample="0" loopendsample="15359"
+                       startsample="713" endsample="15359" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-29-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-29-127.wav"
+                       rootkey="29" lowkey="29" highkey="29" loopstartsample="0" loopendsample="97279"
+                       startsample="589" endsample="97279" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-30-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-30-127.wav"
+                       rootkey="30" lowkey="30" highkey="30" loopstartsample="0" loopendsample="96767"
+                       startsample="293" endsample="96767" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-31-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-31-127.wav"
+                       rootkey="31" lowkey="31" highkey="31" loopstartsample="0" loopendsample="96767"
+                       startsample="0" endsample="96767" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-32-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-32-127.wav"
+                       rootkey="32" lowkey="32" highkey="32" loopstartsample="0" loopendsample="100351"
+                       startsample="709" endsample="100351" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-33-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-33-127.wav"
+                       rootkey="33" lowkey="33" highkey="33" loopstartsample="0" loopendsample="96767"
+                       startsample="390" endsample="96767" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-34-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-34-127.wav"
+                       rootkey="34" lowkey="34" highkey="34" loopstartsample="0" loopendsample="97791"
+                       startsample="691" endsample="97791" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-35-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-35-127.wav"
+                       rootkey="35" lowkey="35" highkey="35" loopstartsample="0" loopendsample="99327"
+                       startsample="401" endsample="99327" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-36-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-36-127.wav"
+                       rootkey="36" lowkey="36" highkey="36" loopstartsample="0" loopendsample="100351"
+                       startsample="506" endsample="100351" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-37-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-37-127.wav"
+                       rootkey="37" lowkey="37" highkey="37" loopstartsample="0" loopendsample="99327"
+                       startsample="702" endsample="99327" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-38-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-38-127.wav"
+                       rootkey="38" lowkey="38" highkey="38" loopstartsample="0" loopendsample="102911"
+                       startsample="623" endsample="102911" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-39-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-39-127.wav"
+                       rootkey="39" lowkey="39" highkey="39" loopstartsample="0" loopendsample="102911"
+                       startsample="519" endsample="102911" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-40-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-40-127.wav"
+                       rootkey="40" lowkey="40" highkey="40" loopstartsample="0" loopendsample="99839"
+                       startsample="504" endsample="99839" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-41-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-41-127.wav"
+                       rootkey="41" lowkey="41" highkey="41" loopstartsample="0" loopendsample="102911"
+                       startsample="623" endsample="102911" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-42-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-42-127.wav"
+                       rootkey="42" lowkey="42" highkey="42" loopstartsample="0" loopendsample="102399"
+                       startsample="620" endsample="102399" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-43-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-43-127.wav"
+                       rootkey="43" lowkey="43" highkey="43" loopstartsample="0" loopendsample="102911"
+                       startsample="311" endsample="102911" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-44-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-44-127.wav"
+                       rootkey="44" lowkey="44" highkey="44" loopstartsample="0" loopendsample="102911"
+                       startsample="727" endsample="102911" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-45-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-45-127.wav"
+                       rootkey="45" lowkey="45" highkey="45" loopstartsample="0" loopendsample="102399"
+                       startsample="620" endsample="102399" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-46-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-46-127.wav"
+                       rootkey="46" lowkey="46" highkey="46" loopstartsample="0" loopendsample="102911"
+                       startsample="415" endsample="102911" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-47-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-47-127.wav"
+                       rootkey="47" lowkey="47" highkey="47" loopstartsample="0" loopendsample="103423"
+                       startsample="417" endsample="103423" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-48-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-48-127.wav"
+                       rootkey="48" lowkey="48" highkey="48" loopstartsample="0" loopendsample="102911"
+                       startsample="519" endsample="102911" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-49-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-49-127.wav"
+                       rootkey="49" lowkey="49" highkey="49" loopstartsample="0" loopendsample="102911"
+                       startsample="727" endsample="102911" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-50-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-50-127.wav"
+                       rootkey="50" lowkey="50" highkey="50" loopstartsample="0" loopendsample="102911"
+                       startsample="415" endsample="102911" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-51-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-51-127.wav"
+                       rootkey="51" lowkey="51" highkey="51" loopstartsample="0" loopendsample="103423"
+                       startsample="313" endsample="103423" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-52-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-52-127.wav"
+                       rootkey="52" lowkey="52" highkey="52" loopstartsample="0" loopendsample="102399"
+                       startsample="103" endsample="102399" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-53-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-53-127.wav"
+                       rootkey="53" lowkey="53" highkey="53" loopstartsample="0" loopendsample="103423"
+                       startsample="313" endsample="103423" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-54-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-54-127.wav"
+                       rootkey="54" lowkey="54" highkey="54" loopstartsample="0" loopendsample="103423"
+                       startsample="731" endsample="103423" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-55-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-55-127.wav"
+                       rootkey="55" lowkey="55" highkey="55" loopstartsample="0" loopendsample="102911"
+                       startsample="207" endsample="102911" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-56-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-56-127.wav"
+                       rootkey="56" lowkey="56" highkey="56" loopstartsample="0" loopendsample="103935"
+                       startsample="524" endsample="103935" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-57-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-57-127.wav"
+                       rootkey="57" lowkey="57" highkey="57" loopstartsample="0" loopendsample="103423"
+                       startsample="104" endsample="103423" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-58-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-58-127.wav"
+                       rootkey="58" lowkey="58" highkey="58" loopstartsample="0" loopendsample="105471"
+                       startsample="426" endsample="105471" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-59-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-59-127.wav"
+                       rootkey="59" lowkey="59" highkey="59" loopstartsample="0" loopendsample="105471"
+                       startsample="426" endsample="105471" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-60-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-60-127.wav"
+                       rootkey="60" lowkey="60" highkey="60" loopstartsample="0" loopendsample="104959"
+                       startsample="530" endsample="104959" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-61-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-61-127.wav"
+                       rootkey="61" lowkey="61" highkey="61" loopstartsample="0" loopendsample="103935"
+                       startsample="209" endsample="103935" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-62-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-62-127.wav"
+                       rootkey="62" lowkey="62" highkey="62" loopstartsample="0" loopendsample="109055"
+                       startsample="550" endsample="109055" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-63-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-63-127.wav"
+                       rootkey="63" lowkey="63" highkey="63" loopstartsample="0" loopendsample="107519"
+                       startsample="325" endsample="107519" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-64-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-64-127.wav"
+                       rootkey="64" lowkey="64" highkey="64" loopstartsample="0" loopendsample="106495"
+                       startsample="107" endsample="106495" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-65-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-65-127.wav"
+                       rootkey="65" lowkey="65" highkey="65" loopstartsample="0" loopendsample="108031"
+                       startsample="109" endsample="108031" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-66-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-66-127.wav"
+                       rootkey="66" lowkey="66" highkey="66" loopstartsample="0" loopendsample="107007"
+                       startsample="648" endsample="107007" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-67-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-67-127.wav"
+                       rootkey="67" lowkey="67" highkey="67" loopstartsample="0" loopendsample="108031"
+                       startsample="436" endsample="108031" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-68-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-68-127.wav"
+                       rootkey="68" lowkey="68" highkey="68" loopstartsample="0" loopendsample="109567"
+                       startsample="0" endsample="109567" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-69-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-69-127.wav"
+                       rootkey="69" lowkey="69" highkey="69" loopstartsample="0" loopendsample="108031"
+                       startsample="545" endsample="108031" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-70-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-70-127.wav"
+                       rootkey="70" lowkey="70" highkey="70" loopstartsample="0" loopendsample="105983"
+                       startsample="428" endsample="105983" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-71-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-71-127.wav"
+                       rootkey="71" lowkey="71" highkey="71" loopstartsample="0" loopendsample="108543"
+                       startsample="328" endsample="108543" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-72-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-72-127.wav"
+                       rootkey="72" lowkey="72" highkey="72" loopstartsample="0" loopendsample="108543"
+                       startsample="548" endsample="108543" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-73-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-73-127.wav"
+                       rootkey="73" lowkey="73" highkey="73" loopstartsample="0" loopendsample="108543"
+                       startsample="328" endsample="108543" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-74-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-74-127.wav"
+                       rootkey="74" lowkey="74" highkey="74" loopstartsample="0" loopendsample="109567"
+                       startsample="221" endsample="109567" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-75-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-75-127.wav"
+                       rootkey="75" lowkey="75" highkey="75" loopstartsample="0" loopendsample="109055"
+                       startsample="440" endsample="109055" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-76-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-76-127.wav"
+                       rootkey="76" lowkey="76" highkey="76" loopstartsample="0" loopendsample="108543"
+                       startsample="0" endsample="108543" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-77-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-77-127.wav"
+                       rootkey="77" lowkey="77" highkey="77" loopstartsample="0" loopendsample="109055"
+                       startsample="0" endsample="109055" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-78-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-78-127.wav"
+                       rootkey="78" lowkey="78" highkey="78" loopstartsample="0" loopendsample="109055"
+                       startsample="330" endsample="109055" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-79-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-79-127.wav"
+                       rootkey="79" lowkey="79" highkey="79" loopstartsample="0" loopendsample="109055"
+                       startsample="0" endsample="109055" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-80-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-80-127.wav"
+                       rootkey="80" lowkey="80" highkey="80" loopstartsample="0" loopendsample="109567"
+                       startsample="553" endsample="109567" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-81-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-81-127.wav"
+                       rootkey="81" lowkey="81" highkey="81" loopstartsample="0" loopendsample="109055"
+                       startsample="0" endsample="109055" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-82-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-82-127.wav"
+                       rootkey="82" lowkey="82" highkey="82" loopstartsample="0" loopendsample="110591"
+                       startsample="0" endsample="110591" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-83-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-83-127.wav"
+                       rootkey="83" lowkey="83" highkey="83" loopstartsample="0" loopendsample="109567"
+                       startsample="553" endsample="109567" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-84-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-84-127.wav"
+                       rootkey="84" lowkey="84" highkey="84" loopstartsample="0" loopendsample="109567"
+                       startsample="0" endsample="109567" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-85-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-85-127.wav"
+                       rootkey="85" lowkey="85" highkey="85" loopstartsample="0" loopendsample="110079"
+                       startsample="0" endsample="110079" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-86-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-86-127.wav"
+                       rootkey="86" lowkey="86" highkey="86" loopstartsample="0" loopendsample="110591"
+                       startsample="446" endsample="110591" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-87-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-87-127.wav"
+                       rootkey="87" lowkey="87" highkey="87" loopstartsample="0" loopendsample="110079"
+                       startsample="444" endsample="110079" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-88-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-88-127.wav"
+                       rootkey="88" lowkey="88" highkey="88" loopstartsample="0" loopendsample="110079"
+                       startsample="0" endsample="110079" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-89-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-89-127.wav"
+                       rootkey="89" lowkey="89" highkey="89" loopstartsample="0" loopendsample="111103"
+                       startsample="0" endsample="111103" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-90-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-90-127.wav"
+                       rootkey="90" lowkey="90" highkey="90" loopstartsample="0" loopendsample="110079"
+                       startsample="555" endsample="110079" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-91-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-91-127.wav"
+                       rootkey="91" lowkey="91" highkey="91" loopstartsample="0" loopendsample="110079"
+                       startsample="778" endsample="110079" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-92-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-92-127.wav"
+                       rootkey="92" lowkey="92" highkey="92" loopstartsample="0" loopendsample="113151"
+                       startsample="0" endsample="113151" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-93-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-93-127.wav"
+                       rootkey="93" lowkey="93" highkey="93" loopstartsample="0" loopendsample="110079"
+                       startsample="0" endsample="110079" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-94-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-94-127.wav"
+                       rootkey="94" lowkey="94" highkey="94" loopstartsample="0" loopendsample="111615"
+                       startsample="563" endsample="111615" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-95-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-95-127.wav"
+                       rootkey="95" lowkey="95" highkey="95" loopstartsample="0" loopendsample="113151"
+                       startsample="457" endsample="113151" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-96-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-96-127.wav"
+                       rootkey="96" lowkey="96" highkey="96" loopstartsample="0" loopendsample="110591"
+                       startsample="558" endsample="110591" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-97-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-97-127.wav"
+                       rootkey="97" lowkey="97" highkey="97" loopstartsample="0" loopendsample="113663"
+                       startsample="459" endsample="113663" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-98-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-98-127.wav"
+                       rootkey="98" lowkey="98" highkey="98" loopstartsample="0" loopendsample="113663"
+                       startsample="574" endsample="113663" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-99-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-99-127.wav"
+                       rootkey="99" lowkey="99" highkey="99" loopstartsample="0" loopendsample="112127"
+                       startsample="0" endsample="112127" fadeinsamples="0.0" loopenabled="0"
+                       volume="1.0" detune="0.5" transpose="0.5" isromsample="0" slice="0"
+                       reverse="0" phaseinverse="0" stereoinverse="0" track="1" autozerocrossingloop="0"
+                       pingpongloop="0" mutegroup="0" attack="0.0" release="0.0" pan="0.5"
+                       velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-100-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-100-127.wav"
+                       rootkey="100" lowkey="100" highkey="100" loopstartsample="0"
+                       loopendsample="113151" startsample="0" endsample="113151" fadeinsamples="0.0"
+                       loopenabled="0" volume="1.0" detune="0.5" transpose="0.5" isromsample="0"
+                       slice="0" reverse="0" phaseinverse="0" stereoinverse="0" track="1"
+                       autozerocrossingloop="0" pingpongloop="0" mutegroup="0" attack="0.0"
+                       release="0.0" pan="0.5" velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-101-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-101-127.wav"
+                       rootkey="101" lowkey="101" highkey="101" loopstartsample="0"
+                       loopendsample="112127" startsample="0" endsample="112127" fadeinsamples="0.0"
+                       loopenabled="0" volume="1.0" detune="0.5" transpose="0.5" isromsample="0"
+                       slice="0" reverse="0" phaseinverse="0" stereoinverse="0" track="1"
+                       autozerocrossingloop="0" pingpongloop="0" mutegroup="0" attack="0.0"
+                       release="0.0" pan="0.5" velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-102-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-102-127.wav"
+                       rootkey="102" lowkey="102" highkey="102" loopstartsample="0"
+                       loopendsample="112127" startsample="339" endsample="112127" fadeinsamples="0.0"
+                       loopenabled="0" volume="1.0" detune="0.5" transpose="0.5" isromsample="0"
+                       slice="0" reverse="0" phaseinverse="0" stereoinverse="0" track="1"
+                       autozerocrossingloop="0" pingpongloop="0" mutegroup="0" attack="0.0"
+                       release="0.0" pan="0.5" velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-103-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-103-127.wav"
+                       rootkey="103" lowkey="103" highkey="103" loopstartsample="0"
+                       loopendsample="112639" startsample="568" endsample="112639" fadeinsamples="0.0"
+                       loopenabled="0" volume="1.0" detune="0.5" transpose="0.5" isromsample="0"
+                       slice="0" reverse="0" phaseinverse="0" stereoinverse="0" track="1"
+                       autozerocrossingloop="0" pingpongloop="0" mutegroup="0" attack="0.0"
+                       release="0.0" pan="0.5" velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-104-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-104-127.wav"
+                       rootkey="104" lowkey="104" highkey="104" loopstartsample="0"
+                       loopendsample="113663" startsample="344" endsample="113663" fadeinsamples="0.0"
+                       loopenabled="0" volume="1.0" detune="0.5" transpose="0.5" isromsample="0"
+                       slice="0" reverse="0" phaseinverse="0" stereoinverse="0" track="1"
+                       autozerocrossingloop="0" pingpongloop="0" mutegroup="0" attack="0.0"
+                       release="0.0" pan="0.5" velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-105-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-105-127.wav"
+                       rootkey="105" lowkey="105" highkey="105" loopstartsample="0"
+                       loopendsample="111615" startsample="0" endsample="111615" fadeinsamples="0.0"
+                       loopenabled="0" volume="1.0" detune="0.5" transpose="0.5" isromsample="0"
+                       slice="0" reverse="0" phaseinverse="0" stereoinverse="0" track="1"
+                       autozerocrossingloop="0" pingpongloop="0" mutegroup="0" attack="0.0"
+                       release="0.0" pan="0.5" velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-106-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-106-127.wav"
+                       rootkey="106" lowkey="106" highkey="106" loopstartsample="0"
+                       loopendsample="110079" startsample="0" endsample="110079" fadeinsamples="0.0"
+                       loopenabled="0" volume="1.0" detune="0.5" transpose="0.5" isromsample="0"
+                       slice="0" reverse="0" phaseinverse="0" stereoinverse="0" track="1"
+                       autozerocrossingloop="0" pingpongloop="0" mutegroup="0" attack="0.0"
+                       release="0.0" pan="0.5" velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-107-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-107-127.wav"
+                       rootkey="107" lowkey="107" highkey="107" loopstartsample="0"
+                       loopendsample="111103" startsample="0" endsample="111103" fadeinsamples="0.0"
+                       loopenabled="0" volume="1.0" detune="0.5" transpose="0.5" isromsample="0"
+                       slice="0" reverse="0" phaseinverse="0" stereoinverse="0" track="1"
+                       autozerocrossingloop="0" pingpongloop="0" mutegroup="0" attack="0.0"
+                       release="0.0" pan="0.5" velocitystart="0" velocityend="127"/>
+          <multisample url="024 Worth it-108-127.wav" urlRelativeToPresetDirectory="Kawai K3\024 Worth it-108-127.wav"
+                       rootkey="108" lowkey="108" highkey="127" loopstartsample="0"
+                       loopendsample="114175" startsample="0" endsample="114175" fadeinsamples="0.0"
+                       loopenabled="0" volume="1.0" detune="0.5" transpose="0.5" isromsample="0"
+                       slice="0" reverse="0" phaseinverse="0" stereoinverse="0" track="1"
+                       autozerocrossingloop="0" pingpongloop="0" mutegroup="0" attack="0.0"
+                       release="0.0" pan="0.5" velocitystart="0" velocityend="127"/>
+        </multisamples>
+      </samplelayer0>
+      <samplelayer1>
+        <multisamples/>
+      </samplelayer1>
+      <samplelayer2>
+        <multisamples/>
+      </samplelayer2>
+      <samplelayer3>
+        <multisamples/>
+      </samplelayer3>
+      <voicetunings>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+        <voicetuning cutoff="0.5" detune="0.5" attack="0.5" decay="0.5" release="0.5"/>
+      </voicetunings>
+      <modmatrix>
+        <entry parameterid="7" modmatrixsourceid="8" modmatrixamount="0.09254669398069382"/>
+        <entry parameterid="-1" modmatrixsourceid="0" modmatrixamount="0.5"/>
+        <entry parameterid="-1" modmatrixsourceid="0" modmatrixamount="0.5"/>
+        <entry parameterid="71" modmatrixsourceid="7" modmatrixamount="0.8968502283096313"/>
+        <entry parameterid="-1" modmatrixsourceid="0" modmatrixamount="0.5"/>
+        <entry parameterid="-1" modmatrixsourceid="0" modmatrixamount="0.5"/>
+        <entry parameterid="-1" modmatrixsourceid="0" modmatrixamount="0.5"/>
+        <entry parameterid="-1" modmatrixsourceid="0" modmatrixamount="0.5"/>
+        <entry parameterid="-1" modmatrixsourceid="0" modmatrixamount="0.5"/>
+        <entry parameterid="-1" modmatrixsourceid="0" modmatrixamount="0.5"/>
+      </modmatrix>
+      <tuningtable name="">
+        <entry tuning="0.0"/>
+        <entry tuning="1.0"/>
+        <entry tuning="2.0"/>
+        <entry tuning="3.0"/>
+        <entry tuning="4.0"/>
+        <entry tuning="5.0"/>
+        <entry tuning="6.0"/>
+        <entry tuning="7.0"/>
+        <entry tuning="8.0"/>
+        <entry tuning="9.0"/>
+        <entry tuning="10.0"/>
+        <entry tuning="11.0"/>
+        <entry tuning="12.0"/>
+        <entry tuning="13.0"/>
+        <entry tuning="14.0"/>
+        <entry tuning="15.0"/>
+        <entry tuning="16.0"/>
+        <entry tuning="17.0"/>
+        <entry tuning="18.0"/>
+        <entry tuning="19.0"/>
+        <entry tuning="20.0"/>
+        <entry tuning="21.0"/>
+        <entry tuning="22.0"/>
+        <entry tuning="23.0"/>
+        <entry tuning="24.0"/>
+        <entry tuning="25.0"/>
+        <entry tuning="26.0"/>
+        <entry tuning="27.0"/>
+        <entry tuning="28.0"/>
+        <entry tuning="29.0"/>
+        <entry tuning="30.0"/>
+        <entry tuning="31.0"/>
+        <entry tuning="32.0"/>
+        <entry tuning="33.0"/>
+        <entry tuning="34.0"/>
+        <entry tuning="35.0"/>
+        <entry tuning="36.0"/>
+        <entry tuning="37.0"/>
+        <entry tuning="38.0"/>
+        <entry tuning="39.0"/>
+        <entry tuning="40.0"/>
+        <entry tuning="41.0"/>
+        <entry tuning="42.0"/>
+        <entry tuning="43.0"/>
+        <entry tuning="44.0"/>
+        <entry tuning="45.0"/>
+        <entry tuning="46.0"/>
+        <entry tuning="47.0"/>
+        <entry tuning="48.0"/>
+        <entry tuning="49.0"/>
+        <entry tuning="50.0"/>
+        <entry tuning="51.0"/>
+        <entry tuning="52.0"/>
+        <entry tuning="53.0"/>
+        <entry tuning="54.0"/>
+        <entry tuning="55.0"/>
+        <entry tuning="56.0"/>
+        <entry tuning="57.0"/>
+        <entry tuning="58.0"/>
+        <entry tuning="59.0"/>
+        <entry tuning="60.0"/>
+        <entry tuning="61.0"/>
+        <entry tuning="62.0"/>
+        <entry tuning="63.0"/>
+        <entry tuning="64.0"/>
+        <entry tuning="65.0"/>
+        <entry tuning="66.0"/>
+        <entry tuning="67.0"/>
+        <entry tuning="68.0"/>
+        <entry tuning="69.0"/>
+        <entry tuning="70.0"/>
+        <entry tuning="71.0"/>
+        <entry tuning="72.0"/>
+        <entry tuning="73.0"/>
+        <entry tuning="74.0"/>
+        <entry tuning="75.0"/>
+        <entry tuning="76.0"/>
+        <entry tuning="77.0"/>
+        <entry tuning="78.0"/>
+        <entry tuning="79.0"/>
+        <entry tuning="80.0"/>
+        <entry tuning="81.0"/>
+        <entry tuning="82.0"/>
+        <entry tuning="83.0"/>
+        <entry tuning="84.0"/>
+        <entry tuning="85.0"/>
+        <entry tuning="86.0"/>
+        <entry tuning="87.0"/>
+        <entry tuning="88.0"/>
+        <entry tuning="89.0"/>
+        <entry tuning="90.0"/>
+        <entry tuning="91.0"/>
+        <entry tuning="92.0"/>
+        <entry tuning="93.0"/>
+        <entry tuning="94.0"/>
+        <entry tuning="95.0"/>
+        <entry tuning="96.0"/>
+        <entry tuning="97.0"/>
+        <entry tuning="98.0"/>
+        <entry tuning="99.0"/>
+        <entry tuning="100.0"/>
+        <entry tuning="101.0"/>
+        <entry tuning="102.0"/>
+        <entry tuning="103.0"/>
+        <entry tuning="104.0"/>
+        <entry tuning="105.0"/>
+        <entry tuning="106.0"/>
+        <entry tuning="107.0"/>
+        <entry tuning="108.0"/>
+        <entry tuning="109.0"/>
+        <entry tuning="110.0"/>
+        <entry tuning="111.0"/>
+        <entry tuning="112.0"/>
+        <entry tuning="113.0"/>
+        <entry tuning="114.0"/>
+        <entry tuning="115.0"/>
+        <entry tuning="116.0"/>
+        <entry tuning="117.0"/>
+        <entry tuning="118.0"/>
+        <entry tuning="119.0"/>
+        <entry tuning="120.0"/>
+        <entry tuning="121.0"/>
+        <entry tuning="122.0"/>
+        <entry tuning="123.0"/>
+        <entry tuning="124.0"/>
+        <entry tuning="125.0"/>
+        <entry tuning="126.0"/>
+        <entry tuning="127.0"/>
+      </tuningtable>
+    </program>
+  </programs>
+  <midimap>
+    <map param="0" controllernumber="0"/>
+    <map param="0" controllernumber="1"/>
+    <map param="0" controllernumber="2"/>
+    <map param="0" controllernumber="3"/>
+    <map param="0" controllernumber="4"/>
+    <map param="0" controllernumber="5"/>
+    <map param="0" controllernumber="6"/>
+    <map param="0" controllernumber="7"/>
+    <map param="0" controllernumber="8"/>
+    <map param="0" controllernumber="9"/>
+    <map param="0" controllernumber="10"/>
+    <map param="0" controllernumber="11"/>
+    <map param="0" controllernumber="12"/>
+    <map param="0" controllernumber="13"/>
+    <map param="0" controllernumber="14"/>
+    <map param="0" controllernumber="15"/>
+    <map param="0" controllernumber="16"/>
+    <map param="0" controllernumber="17"/>
+    <map param="0" controllernumber="18"/>
+    <map param="0" controllernumber="19"/>
+    <map param="0" controllernumber="20"/>
+    <map param="0" controllernumber="21"/>
+    <map param="0" controllernumber="22"/>
+    <map param="0" controllernumber="23"/>
+    <map param="0" controllernumber="24"/>
+    <map param="0" controllernumber="25"/>
+    <map param="0" controllernumber="26"/>
+    <map param="0" controllernumber="27"/>
+    <map param="0" controllernumber="28"/>
+    <map param="0" controllernumber="29"/>
+    <map param="0" controllernumber="30"/>
+    <map param="0" controllernumber="31"/>
+    <map param="0" controllernumber="32"/>
+    <map param="0" controllernumber="33"/>
+    <map param="0" controllernumber="34"/>
+    <map param="0" controllernumber="35"/>
+    <map param="0" controllernumber="36"/>
+    <map param="0" controllernumber="37"/>
+    <map param="0" controllernumber="38"/>
+    <map param="0" controllernumber="39"/>
+    <map param="0" controllernumber="40"/>
+    <map param="0" controllernumber="41"/>
+    <map param="0" controllernumber="42"/>
+    <map param="0" controllernumber="43"/>
+    <map param="0" controllernumber="44"/>
+    <map param="0" controllernumber="45"/>
+    <map param="0" controllernumber="46"/>
+    <map param="0" controllernumber="47"/>
+    <map param="0" controllernumber="48"/>
+    <map param="0" controllernumber="49"/>
+    <map param="0" controllernumber="50"/>
+    <map param="0" controllernumber="51"/>
+    <map param="0" controllernumber="52"/>
+    <map param="0" controllernumber="53"/>
+    <map param="0" controllernumber="54"/>
+    <map param="0" controllernumber="55"/>
+    <map param="0" controllernumber="56"/>
+    <map param="0" controllernumber="57"/>
+    <map param="0" controllernumber="58"/>
+    <map param="0" controllernumber="59"/>
+    <map param="0" controllernumber="60"/>
+    <map param="0" controllernumber="61"/>
+    <map param="0" controllernumber="62"/>
+    <map param="0" controllernumber="63"/>
+    <map param="0" controllernumber="64"/>
+    <map param="0" controllernumber="65"/>
+    <map param="0" controllernumber="66"/>
+    <map param="0" controllernumber="67"/>
+    <map param="0" controllernumber="68"/>
+    <map param="0" controllernumber="69"/>
+    <map param="0" controllernumber="70"/>
+    <map param="0" controllernumber="71"/>
+    <map param="0" controllernumber="72"/>
+    <map param="0" controllernumber="73"/>
+    <map param="0" controllernumber="74"/>
+    <map param="0" controllernumber="75"/>
+    <map param="0" controllernumber="76"/>
+    <map param="0" controllernumber="77"/>
+    <map param="0" controllernumber="78"/>
+    <map param="0" controllernumber="79"/>
+    <map param="0" controllernumber="80"/>
+    <map param="0" controllernumber="81"/>
+    <map param="0" controllernumber="82"/>
+    <map param="0" controllernumber="83"/>
+    <map param="0" controllernumber="84"/>
+    <map param="0" controllernumber="85"/>
+    <map param="0" controllernumber="86"/>
+    <map param="0" controllernumber="87"/>
+    <map param="0" controllernumber="88"/>
+    <map param="0" controllernumber="89"/>
+    <map param="0" controllernumber="90"/>
+    <map param="0" controllernumber="91"/>
+    <map param="0" controllernumber="92"/>
+    <map param="0" controllernumber="93"/>
+    <map param="0" controllernumber="94"/>
+    <map param="0" controllernumber="95"/>
+    <map param="0" controllernumber="96"/>
+    <map param="0" controllernumber="97"/>
+    <map param="0" controllernumber="98"/>
+    <map param="0" controllernumber="99"/>
+    <map param="0" controllernumber="100"/>
+    <map param="0" controllernumber="101"/>
+    <map param="0" controllernumber="102"/>
+    <map param="0" controllernumber="103"/>
+    <map param="0" controllernumber="104"/>
+    <map param="0" controllernumber="105"/>
+    <map param="0" controllernumber="106"/>
+    <map param="0" controllernumber="107"/>
+    <map param="0" controllernumber="108"/>
+    <map param="0" controllernumber="109"/>
+    <map param="0" controllernumber="110"/>
+    <map param="0" controllernumber="111"/>
+    <map param="0" controllernumber="112"/>
+    <map param="0" controllernumber="113"/>
+    <map param="0" controllernumber="114"/>
+    <map param="0" controllernumber="115"/>
+    <map param="0" controllernumber="116"/>
+    <map param="0" controllernumber="117"/>
+    <map param="0" controllernumber="118"/>
+    <map param="0" controllernumber="119"/>
+    <map param="0" controllernumber="120"/>
+    <map param="0" controllernumber="121"/>
+    <map param="0" controllernumber="122"/>
+    <map param="0" controllernumber="123"/>
+    <map param="0" controllernumber="124"/>
+    <map param="0" controllernumber="125"/>
+    <map param="0" controllernumber="126"/>
+    <map param="0" controllernumber="127"/>
+    <map param="0" controllernumber="128"/>
+    <map param="0" controllernumber="129"/>
+    <map param="0" controllernumber="130"/>
+    <map param="0" controllernumber="131"/>
+    <map param="0" controllernumber="132"/>
+    <map param="0" controllernumber="133"/>
+    <map param="0" controllernumber="134"/>
+    <map param="0" controllernumber="135"/>
+    <map param="0" controllernumber="136"/>
+    <map param="0" controllernumber="137"/>
+    <map param="0" controllernumber="138"/>
+    <map param="0" controllernumber="139"/>
+    <map param="0" controllernumber="140"/>
+    <map param="0" controllernumber="141"/>
+    <map param="0" controllernumber="142"/>
+    <map param="0" controllernumber="143"/>
+    <map param="0" controllernumber="144"/>
+    <map param="0" controllernumber="145"/>
+    <map param="0" controllernumber="146"/>
+    <map param="0" controllernumber="147"/>
+    <map param="0" controllernumber="148"/>
+    <map param="0" controllernumber="149"/>
+    <map param="0" controllernumber="150"/>
+    <map param="0" controllernumber="151"/>
+    <map param="0" controllernumber="152"/>
+    <map param="0" controllernumber="153"/>
+    <map param="0" controllernumber="154"/>
+    <map param="0" controllernumber="155"/>
+    <map param="0" controllernumber="156"/>
+    <map param="0" controllernumber="157"/>
+    <map param="0" controllernumber="158"/>
+    <map param="0" controllernumber="159"/>
+    <map param="0" controllernumber="160"/>
+    <map param="0" controllernumber="161"/>
+    <map param="0" controllernumber="162"/>
+    <map param="0" controllernumber="163"/>
+    <map param="0" controllernumber="164"/>
+    <map param="0" controllernumber="165"/>
+    <map param="0" controllernumber="166"/>
+    <map param="0" controllernumber="167"/>
+    <map param="0" controllernumber="168"/>
+    <map param="0" controllernumber="169"/>
+    <map param="0" controllernumber="170"/>
+    <map param="0" controllernumber="171"/>
+    <map param="0" controllernumber="172"/>
+    <map param="0" controllernumber="173"/>
+    <map param="0" controllernumber="174"/>
+    <map param="0" controllernumber="175"/>
+    <map param="0" controllernumber="176"/>
+    <map param="0" controllernumber="177"/>
+    <map param="0" controllernumber="178"/>
+    <map param="0" controllernumber="179"/>
+    <map param="0" controllernumber="180"/>
+    <map param="0" controllernumber="181"/>
+    <map param="0" controllernumber="182"/>
+    <map param="0" controllernumber="183"/>
+    <map param="0" controllernumber="184"/>
+    <map param="0" controllernumber="185"/>
+    <map param="0" controllernumber="186"/>
+    <map param="0" controllernumber="187"/>
+    <map param="0" controllernumber="188"/>
+    <map param="0" controllernumber="189"/>
+    <map param="0" controllernumber="190"/>
+    <map param="0" controllernumber="191"/>
+    <map param="0" controllernumber="192"/>
+    <map param="0" controllernumber="193"/>
+    <map param="0" controllernumber="194"/>
+    <map param="0" controllernumber="195"/>
+    <map param="0" controllernumber="196"/>
+    <map param="0" controllernumber="197"/>
+    <map param="0" controllernumber="198"/>
+    <map param="0" controllernumber="199"/>
+    <map param="0" controllernumber="200"/>
+    <map param="0" controllernumber="201"/>
+    <map param="0" controllernumber="202"/>
+    <map param="0" controllernumber="203"/>
+    <map param="0" controllernumber="204"/>
+    <map param="0" controllernumber="205"/>
+    <map param="0" controllernumber="206"/>
+    <map param="0" controllernumber="207"/>
+    <map param="0" controllernumber="208"/>
+    <map param="0" controllernumber="209"/>
+    <map param="0" controllernumber="210"/>
+    <map param="0" controllernumber="211"/>
+    <map param="0" controllernumber="212"/>
+    <map param="0" controllernumber="213"/>
+    <map param="0" controllernumber="214"/>
+    <map param="0" controllernumber="215"/>
+    <map param="0" controllernumber="216"/>
+    <map param="0" controllernumber="217"/>
+    <map param="0" controllernumber="218"/>
+    <map param="0" controllernumber="219"/>
+    <map param="0" controllernumber="220"/>
+    <map param="0" controllernumber="221"/>
+    <map param="0" controllernumber="222"/>
+    <map param="0" controllernumber="223"/>
+    <map param="0" controllernumber="224"/>
+    <map param="0" controllernumber="225"/>
+    <map param="0" controllernumber="226"/>
+    <map param="0" controllernumber="227"/>
+    <map param="0" controllernumber="228"/>
+    <map param="0" controllernumber="229"/>
+    <map param="0" controllernumber="230"/>
+    <map param="0" controllernumber="231"/>
+    <map param="0" controllernumber="232"/>
+    <map param="0" controllernumber="233"/>
+    <map param="0" controllernumber="234"/>
+    <map param="0" controllernumber="235"/>
+    <map param="0" controllernumber="236"/>
+    <map param="0" controllernumber="237"/>
+    <map param="0" controllernumber="238"/>
+    <map param="0" controllernumber="239"/>
+    <map param="0" controllernumber="240"/>
+    <map param="0" controllernumber="241"/>
+    <map param="0" controllernumber="242"/>
+    <map param="0" controllernumber="243"/>
+    <map param="0" controllernumber="244"/>
+    <map param="0" controllernumber="245"/>
+    <map param="0" controllernumber="246"/>
+    <map param="0" controllernumber="247"/>
+    <map param="0" controllernumber="248"/>
+    <map param="0" controllernumber="249"/>
+    <map param="0" controllernumber="250"/>
+    <map param="0" controllernumber="251"/>
+    <map param="0" controllernumber="252"/>
+    <map param="0" controllernumber="253"/>
+    <map param="0" controllernumber="254"/>
+    <map param="0" controllernumber="255"/>
+  </midimap>
+</tal>
